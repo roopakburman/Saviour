@@ -1,0 +1,231 @@
+
+.card-bk1{
+	color: #f1931a;
+	background:url("../img/bk21.png") right;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+}
+
+.card-bk2{
+	color: #f1931a;
+	background:url("../img/bk21.png") right;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+}
+
+/*Start Custom User Profile*/
+#profile-bg {
+        position: fixed;
+        left: 0;
+        top: 44px;
+        width: 100%;
+        height: 150px;
+
+        background: url('../img/me.png') no-repeat transparent;
+        background-size: 100%;
+        background-position: 50% 20%;
+
+        text-align: center;
+      }
+
+      #content {
+        position: relative;
+        margin-top: 120px;
+        background-color: white;
+        box-shadow: 0px -1px 10px rgba(0,0,0,0.4);
+        padding-top: 200px;
+      }
+
+      #profile-info {
+        position: absolute;
+        top: -95px;
+        width: 100%;
+        z-index: 2;
+        text-align: center;
+      }
+      #profile-name {
+        color: #444;
+        font-size: 26px;
+      }
+      #profile-description {
+        font-size: 15px;
+        color: #888;
+      }
+      #profile-description a {
+        color: #888;
+      }
+
+      #profile-image {
+        display: block;
+        border-radius: 100px;
+        border: 1px solid #fff;
+        width: 128px;
+        height: 128px;
+        margin: 30px auto 0;
+        box-shadow: 0px 0px 4px rgba(0,0,0,0.7);
+      }
+
+      .list-item-content {
+        padding: 5px;
+      }
+
+      .list-item {
+        color: #666666;
+      }
+
+      .post {
+        color: #444;
+      }
+
+      .post-time {
+        position: absolute;
+        right: 5px;
+        top: 5px;
+        font-size: 11px;
+        color: #888;
+      }
+
+      .post-profile-image {
+        display: inline-block;
+        vertical-align: top;
+        width: 48px;
+        height: 48px;
+        margin-right: 10px;
+      }
+      .post-options {
+        position: absolute;
+        font-size: 16px;
+        right: 5px;
+        bottom: 5px;
+        color: #888;
+      }
+/*End Custom User Profile*/
+/*Start Popup Custom*/
+.popup-buttons .button {
+  background-color: #ef473a;
+  font-size: 20px;
+}
+.popup-buttons .button.activated {
+  background-color: #808080;
+}
+/*End Popup End*/
+/*Start of xxxx*/
+
+
+/*End of xxxx*/
+/*CSS --> bottom bar Start*/
+
+.d1Shadow{
+  /*background: gray;*/
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  margin: 1px;
+  -webkit-box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 1);
+  -moz-box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 1);
+  box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 1);
+}
+
+
+.fixed-outside{
+  position: absolute;
+  bottom: 0;
+  color:white;
+  width: 100%;
+  padding: 1px;
+  height:  120px;
+  text-align:center;
+}
+.scroll-bar-h{
+  visibility: hidden;
+}
+/*.has-bottom .scroll{
+  padding-bottom:0px !important;
+}*/
+
+.button-circle {
+  width: 50px !important;
+  height: 50px !important;
+  border-radius: 50% !important;
+}
+/*CSS --> bottom bar End*/
+/*Start of Slide in Right - Modal*/
+.slide-in-right {
+  -webkit-transform: translate3d(100%, 0, 0);
+    transform: translate3d(100%, 0, 0); }
+
+.slide-in-right.ng-enter, .slide-in-right > .ng-enter {
+  -webkit-transition: all cubic-bezier(0.1, 0.7, 0.1, 1) 400ms;
+  transition: all cubic-bezier(0.1, 0.7, 0.1, 1) 400ms; }
+
+.slide-in-right.ng-enter-active, .slide-in-right > .ng-enter-active {
+  -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0); }
+
+.slide-in-right.ng-leave, .slide-in-right > .ng-leave {
+  -webkit-transition: all ease-in-out 250ms;
+  transition: all ease-in-out 250ms; }
+/*End of Slide in Right*/
+/*blinking effect --> Start*/
+@keyframes blink {
+  0% { color: red; }
+  100% { color: gray; }
+}
+@-webkit-keyframes blink {
+  0% { color: red; }
+  100% { color: gray; }
+}
+.blink {
+  -webkit-animation: blink 2s linear infinite;
+  -moz-animation: blink 2s linear infinite;
+  animation: blink 2s linear infinite;
+}
+/* blinking effect --> End*/
+/*MAP CSS*/
+#map {
+    height: 100%;
+    width: 100%;
+}
+.scroll {
+    height: 100%;
+}
+
+.controls {
+border: 1px solid transparent;
+border-radius: 2px 0 0 2px;
+box-sizing: border-box;
+position: absolute;
+line-height: 22px;
+}
+#pac-input {
+background-color: #fff;
+font-family: Roboto;
+font-size: 15px;
+font-weight: 300;
+padding: 0 11px 0 13px;
+text-overflow: ellipsis;
+width: 90%;
+margin-bottom: 0;
+line-height: 15px;
+font-weight: bold;
+margin-left: 10%;
+}
+#pac-input:focus {
+border-color: #4d90fe;
+}
+.pac-container {
+font-family: Roboto;
+}
+#type-selector {
+color: #fff;
+background-color: #4d90fe;
+padding: 5px 11px 0px 11px;
+}
+#type-selector label {
+font-family: Roboto;
+font-size: 13px;
+font-weight: 300;
+}
+/*End of MAP CSS*/

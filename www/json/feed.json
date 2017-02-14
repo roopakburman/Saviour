@@ -1,0 +1,26 @@
+[
+  {
+	"title" : "Ucch Prathmik Vidyalaya Kasergunj",
+	"path" : "#/menu/tab/pollingDetail"
+	},
+    {
+	"title" : "Praimary Kaniya Vidhyaliya Purva Maheveer",
+	"path" : "#/menu/tab/feed1"
+	},
+    {
+	"title" : "Kanoherlal Krishan Sahia Inter College",
+	"path" : "#/menu/tab/feed1"
+	},
+    {
+	"title" : "Bhai Joga Singh Public Shool Davepuri",
+	"path" : "#/menu/tab/feed1"
+	},
+    {
+	"title" : "Vardhaman Acadmey",
+	"path" : "#/menu/tab/feed1"
+	},
+    {
+	"title" : "Barat ghar city railway station",
+	"path" : "#/menu/tab/feed1"
+	}
+]

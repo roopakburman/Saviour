@@ -1,0 +1,281 @@
+<ion-view title="">
+	<ion-content >
+		<!-- //ng-controller="feedCtrl" -->
+		<div class="card">
+			<!-- //ng-controller="rrCtrl" -->
+			<div class="item item-text-wrap item-divider card-bk2">
+				{{stName}}
+			</div>
+
+			<ion-item class="item item-text-wrap">
+				<strong>Latitude</strong>: {{lat}}
+				<br><strong>Longitude:</strong> {{lon}}
+				<br><strong>Population:</strong> {{pop}}
+				<br><strong>Voters:</strong> {{vot}}
+				<br><strong>Village/Mohalla:</strong> {{vill}}
+			</ion-item>
+			<ion-item class="item item-text-wrap">
+				<br><strong>Chowkidar:</strong>
+				<!-- <div id="grid1" ui-grid="gridChowkidar" class="grid"></div>-->
+				<table width="100%" class="table">
+					<thead>
+						<tr>
+							<th>Name</th><th>S/O</th><th>Address</th><th>Phone</th>
+						</tr>
+						</thead>
+				<tbody>
+					<tr ng-repeat="row in gridChowkidar">
+						<td>{{row.Name}}</td>
+						<td>{{row.so}}</td>
+						<td>{{row.Address}}</td>
+						<td>{{row.Phone}}</td>
+						</tr>
+					</tbody>
+				</table>
+
+			</ion-item>
+			
+ 			<ion-item class="item item-text-wrap">
+				<br><strong>Councellor:</strong>
+				<!-- <div id="grid2" ui-grid="gridCouncellor" class="grid"></div> -->
+				<table width="100%" class="table">
+					<thead>
+						<tr>
+							<th>Name</th><th>S/O</th><th>Address</th><th>Phone</th>
+						</tr>
+						</thead>
+				<tbody>
+					<tr ng-repeat="row in gridCouncellor">
+						<td>{{row.Name}}</td>
+						<td>{{row.so}}</td>
+						<td>{{row.Address}}</td>
+						<td>{{row.Phone}}</td>
+						</tr>
+					</tbody>
+				</table>
+      		</ion-item>
+			<ion-item class="item item-text-wrap">
+				<strong>Respected People:</strong>
+				<!-- <div id="grid3" ui-grid="gridRespected" class="grid"></div> -->
+				<table width="100%" class="table">
+					<thead>
+						<tr>
+							<th>Name</th><th>S/O</th><th>Address</th><th>Phone</th>
+						</tr>
+						</thead>
+				<tbody>
+					<tr ng-repeat="row in gridRespected">
+						<td>{{row.Name}}</td>
+						<td>{{row.so}}</td>
+						<td>{{row.Address}}</td>
+						<td>{{row.Phone}}</td>
+						</tr>
+					</tbody>
+				</table>
+			</ion-item>
+			<ion-item class="item item-text-wrap">
+					<strong>Retired Government Servant(s):</strong>
+					<!-- <div id="grid4" ui-grid="gridRetired" class="grid"></div> -->
+				<table width="100%" class="table">
+					<thead>
+						<tr>
+							<th>Name</th><th>S/O</th><th>Address</th><th>Phone</th>
+						</tr>
+						</thead>
+				<tbody>
+					<tr ng-repeat="row in gridRetired">
+						<td>{{row.Name}}</td>
+						<td>{{row.so}}</td>
+						<td>{{row.Address}}</td>
+						<td>{{row.Phone}}</td>
+						</tr>
+					</tbody>
+				</table>
+			</ion-item>
+			<ion-item class="item item-text-wrap">
+					<strong>Polling Station Neighbour(s):</strong>
+					<!-- <div id="grid5" ui-grid="gridNeighbour" class="grid"></div> -->
+				<table width="100%" class="table">
+					<thead>
+						<tr>
+							<th>Name</th><th>S/O</th><th>Address</th><th>Phone</th>
+						</tr>
+						</thead>
+				<tbody>
+					<tr ng-repeat="row in gridNeighbour">
+						<td>{{row.Name}}</td>
+						<td>{{row.so}}</td>
+						<td>{{row.Address}}</td>
+						<td>{{row.Phone}}</td>
+						</tr>
+					</tbody>
+				</table>					
+			</ion-item>
+			<ion-item class="item item-text-wrap">
+					<strong>Arms License Holder(s):</strong>
+					<!-- <div id="grid6" ui-grid="gridArms" class="grid"></div> -->
+				<table width="100%" class="table">
+					<thead>
+						<tr>
+							<th>Name</th><th>S/O</th><th>Address</th><th>Phone</th><th>Weapon</th>
+						</tr>
+						</thead>
+				<tbody>
+					<tr ng-repeat="row in gridArms">
+						<td>{{row.Name}}</td>
+						<td>{{row.so}}</td>
+						<td>{{row.Address}}</td>
+						<td>{{row.Phone}}</td>
+						<td>{{row.Weapon}}</td>
+						</tr>
+					</tbody>
+				</table>	
+			</ion-item>
+			<ion-item class="item item-text-wrap">
+					<strong>History Sheeter:</strong>
+					<!-- <div id="grid7" ui-grid="gridHistory" class="grid"></div> -->
+				<table width="100%" class="table">
+					<thead>
+						<tr>
+							<th>Name</th><th>S/O</th><th>Address</th><th>Status</th><th>Phone</th>
+						</tr>
+						</thead>
+				<tbody>
+					<tr ng-repeat="row in gridHistory">
+						<td>{{row.Name}}</td>
+						<td>{{row.so}}</td>
+						<td>{{row.Address}}</td>
+						<td>{{row.Status}}</td>
+						<td>{{row.Phone}}</td>
+						</tr>
+					</tbody>
+				</table>	
+			</ion-item>
+			<ion-item class="item item-text-wrap">
+					<strong>Convicted Criminals:</strong>
+					<!-- <div id="grid8" ui-grid="gridCon" class="grid"></div> -->
+				<table width="100%" class="table">
+					<thead>
+						<tr>
+							<th>Name</th><th>S/O</th><th>Address</th><th>Crime No.</th><th>Section</th>
+						</tr>
+						</thead>
+				<tbody>
+					<tr ng-repeat="row in gridCon">
+						<td>{{row.Name}}</td>
+						<td>{{row.so}}</td>
+						<td>{{row.Address}}</td>
+						<td>{{row.crimeno}}</td>
+						<td>{{row.section}}</td>
+						</tr>
+					</tbody>
+				</table>
+			</ion-item>
+			<ion-item class="item item-text-wrap">
+					<strong>5 Years Crime:</strong>
+					<!-- <div id="grid9" ui-grid="gridCrime" class="grid"></div> -->
+				<table width="100%" class="table">
+					<thead>
+						<tr>
+							<th>Name</th><th>S/O</th><th>Crime No.</th><th>Section</th><th>Address</th>
+						</tr>
+						</thead>
+				<tbody>
+					<tr ng-repeat="row in gridCrime">
+						<td>{{row.Name}}</td>
+						<td>{{row.so}}</td>
+						<td>{{row.crimeno}}</td>
+						<td>{{row.Section}}</td>
+						<td>{{row.Address}}</td>
+						</tr>
+					</tbody>
+				</table>
+			</ion-item>
+			<ion-item class="item item-text-wrap">
+					<strong>Election Crimes:</strong>
+					<!-- <div id="grid10" ui-grid="grideCrime" class="grid"></div> -->
+				<table width="100%" class="table">
+					<thead>
+						<tr>
+							<th>Name</th><th>S/O</th><th>Crime No.</th><th>Section</th><th>Address</th>
+						</tr>
+						</thead>
+				<tbody>
+					<tr ng-repeat="row in grideCrime">
+						<td>{{row.Name}}</td>
+						<td>{{row.so}}</td>
+						<td>{{row.crimeno}}</td>
+						<td>{{row.Section}}</td>
+						<td>{{row.Address}}</td>
+						</tr>
+					</tbody>
+				</table>			
+			</ion-item>
+			<ion-item class="item item-text-wrap">
+					<strong>Politician:</strong>
+					<!-- <div id="grid10" ui-grid="gridPoli" class="grid"></div> -->
+				<table width="100%" class="table">
+					<thead>
+						<tr>
+							<th>Name</th><th>S/O</th><th>Address</th><th>Phone</th>
+						</tr>
+						</thead>
+				<tbody>
+					<tr ng-repeat="row in gridPoli">
+						<td>{{row.Name}}</td>
+						<td>{{row.so}}</td>
+						<td>{{row.Address}}</td>
+						<td>{{row.Phone}}</td>
+						</tr>
+					</tbody>
+				</table>
+			</ion-item>
+			<ion-item class="item item-text-wrap">
+					<strong>Warranted Criminals: </strong>
+					<!-- <div id="grid11" ui-grid="gridWar" class="grid"></div> -->
+				<table width="100%" class="table">
+					<thead>
+						<tr>
+							<th>Name</th><th>S/O</th><th>Address</th><th>Address</th>
+						</tr>
+						</thead>
+				<tbody>
+					<tr ng-repeat="row in gridWar">
+						<td>{{row.Name}}</td>
+						<td>{{row.so}}</td>
+						<td>{{row.Address}}</td>
+						<td>{{row.Phone}}</td>
+						</tr>
+					</tbody>
+				</table>
+			</ion-item> 
+			<ion-item class="item item-text-wrap">
+					<strong>Bound Down Under: </strong> {{bUnder}}
+			</ion-item>
+			<ion-item class="item item-text-wrap">
+					<strong>Vulnerability Details: </strong> {{vul}}
+			</ion-item>
+			<ion-item class="item item-text-wrap">
+					<strong>Condition: </strong> {{cond}}
+			</ion-item>
+			<ion-item class="item item-text-wrap">
+			<strong>Polling Station Photo: </strong> <br>
+				<ion-scroll direction="xy" locking="false" zooming="true" min-zoom="1">
+						<img class="img1" ng-src="{{iPolPic}}"></img>
+				</ion-scroll>
+			</ion-item>
+			<ion-item class="item item-text-wrap">
+				<strong>Routes  Distances: </strong> <br>
+					<ion-scroll direction="xy" locking="false" zooming="true" min-zoom="1">
+						<img class="img1" ng-src="{{iroutePic}}"></img>
+					</ion-scroll>
+			</ion-item>
+			<ion-item class="item item-text-wrap">
+				<strong>Collection Points: </strong> <br>
+					<ion-scroll direction="xy" locking="false" zooming="true" min-zoom="1">
+						<img class="img1" ng-src="{{icollPtPic}}"></img>
+					</ion-scroll>
+			</ion-item>
+		</div>
+	</ion-content>
+</ion-view>

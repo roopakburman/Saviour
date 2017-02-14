@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Behsuma",
+    "path": "#/menu/tab/behsuma"
+  },
+  {
+    "title": "Bhavanpur",
+    "path": "#/menu/tab/bhavanpur"
+  },
+  {
+    "title": "Brahmpuri",
+    "path": "#/menu/tab/brahmpuri"
+  },
+  {
+    "title": "Civil Lines",
+    "path": "#/menu/tab/civilLines"
+  },
+  {
+    "title": "Daurala",
+    "path": "#/menu/tab/daurala"
+  },
+  {
+    "title": "Delhi Gate",
+    "path": "#/menu/tab/delhiGate"
+  },
+  {
+    "title": "Ganga Nagar",
+    "path": "#/menu/tab/gangaNagar"
+  },
+  {
+    "title": "Hastinapur",
+    "path": "#/menu/tab/hastinapur"
+  },
+  {
+    "title": "Incholi",
+    "path": "#/menu/tab/incholi"
+  },
+  {
+    "title": "Jaani",
+    "path": "#/menu/tab/jani"
+  },
+  {
+    "title": "Kankerkhera",
+    "path": "#/menu/tab/kankarkhera"
+  },
+  {
+    "title": "Kharkhoda",
+    "path": "#/menu/tab/kharkhoda"
+  },
+  {
+    "title": "Kithore",
+    "path": "#/menu/tab/kithore"
+  },
+  {
+    "title": "Kotwali",
+    "path": "#/menu/tab/kotwali"
+  },
+  {
+    "title": "Lalkurti",
+    "path": "#/menu/tab/lalkurti"
+  },
+  {
+    "title": "Lisadi Gate",
+    "path": "#/menu/tab/lisadiGate"
+  },
+  {
+    "title": "Mawana",
+    "path": "#/menu/tab/mawana"
+  },
+  {
+    "title": "Medical",
+    "path": "#/menu/tab/medical"
+  },
+  {
+    "title": "Mundali",
+    "path": "#/menu/tab/mundali"
+  },
+  {
+    "title": "Nauchandi",
+    "path": "#/menu/tab/nauchandi"
+  },
+  {
+    "title": "Pallavpuram",
+    "path": "#/menu/tab/pallavPuram"
+  },
+  {
+    "title": "Parikshitgarh",
+    "path": "#/menu/tab/parikshitgarh"
+  },
+  {
+    "title": "Partapur",
+    "path": "#/menu/tab/partapur"
+  },
+  {
+    "title": "Phalawda",
+    "path": "#/menu/tab/phalawda"
+  },
+  {
+    "title": "Railway Road",
+    "path": "#/menu/tab/railwayRoad"
+  },
+  {
+    "title": "Rohta",
+    "path": "#/menu/tab/rohta"
+  },
+  {
+    "title": "Sadar Bazar",
+    "path": "#/menu/tab/sadar"
+  },
+  {
+    "title": "Sardhana",
+    "path": "#/menu/tab/sardhana"
+  },
+  {
+    "title": "Sarurpur",
+    "path": "#/menu/tab/sarurpur"
+  },
+  {
+    "title": "T.P. Nagar",
+    "path": "#/menu/tab/tpNagar"
+  }
+]

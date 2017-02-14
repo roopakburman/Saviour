@@ -1,0 +1,30 @@
+<ion-view view-title="">
+  <ion-content class="padding" ng-controller="emailCtrl">
+    <div class="card " ng-app>
+      <div class="item item-divider card-bk2">
+        Contact Us
+      </div>
+
+        <!-- <a class="item item-icon-left" href="#" ng-click="sendEmail()">
+          <i class="icon ion-email"></i>
+            Email Us
+        </a> -->
+        <a class="item item-icon-left item-icon-right" ng-href="tel:+919717257131">
+          <i class="icon ion-chatbubble-working"></i>
+            Call Us +91-971-725-7131
+          <i class="icon ion-ios-telephone blink"></i>
+        </a>
+
+        <a class="item item-icon-left" href="#" onclick="window.open('http://www.google.com', '_blank', 'location=yes'); return false;">
+          <i class="icon ion-home"></i>
+            Visit Us http://www.google.com
+            <span class="item-note">
+              Address
+            </span>
+        </a>
+
+    </div>
+    <!-- <a class="button icon-left ion-ios-telephone button-calm button-outline" ng-href="tel: +919717257131">Call Us</a> -->
+
+  </ion-content>
+</ion-view>

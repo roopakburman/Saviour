@@ -1,0 +1,48 @@
+<ion-view>
+	<ion-content class="has-bottom">
+		<div class="item item-input controls">
+					<input id="pac-input" type="text" placeholder="Search Location" data-tap-disabled="true" ng-change='disableTap()' ng-model="search">
+				</div>
+				<div id="map" data-tap-disabled="true"></div>
+
+		</div>
+
+	</ion-content>
+	<div class="fixed-outside">
+		<ion-scroll direction="x">
+		<div class="row">
+				<div class="col ">
+					<button class="d1Shadow button button-circle icon ion-ios-camera" ng-click="callOne()"></button>
+				</div>
+				<div class="col">
+					<button class="d1Shadow button button-circle icon ion-medkit" ng-click="callTwo()"></button>
+				</div>
+				<div class="col">
+					<button class="d1Shadow button button-circle icon ion-android-microphone" ng-click="callThree()"></button>
+				</div>
+				<div class="col">
+					<button class="d1Shadow button button-circle icon ion-ios-speedometer" ng-click="callFour()"></button>
+				</div>
+				<div class="col">
+					<button class="d1Shadow button button-circle icon ion-ios-star" ng-click="callFive()"></button>
+				</div>
+				<div class="col">
+					<button class="d1Shadow button button-circle icon ion-ios-unlocked" ng-click="callSix()"></button>
+				</div>
+				<div class="col">
+					<button class="d1Shadow button button-circle icon ion-ios-videocam" ng-click="callSeven()"></button>
+				</div>
+				<div class="col">
+					<button class="d1Shadow button button-circle icon ion-ios-wineglass" ng-click="callEight()"></button>
+				</div>
+				<div class="col">
+					<button class="d1Shadow button button-circle icon ion-ios-world" ng-click="callNine()"></button>
+				</div>
+				<div class="col">
+					<button class="d1Shadow button button-circle icon ion-ios-thunderstorm" ng-click="callTen()"></button>
+				</div>
+		</div>
+	</ion-scroll>
+
+	</div>
+</ion-view>

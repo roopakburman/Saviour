@@ -1,0 +1,5820 @@
+[
+      {
+        "stationID": "MD-01",
+        "stationName": "Vidhansabha Kithor Panchayatghar Bodh Vihar Kamaalpur",
+        "latitude": "28.9440 ",
+        "longitude": "77.7649",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "4050",
+        "voters": "2050",
+        "villageMohalla": "Bodh Vihar Panchayat Kamaalpur, Ambedkar Bhavan Kamaalpur",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Afnan Kha",
+            "so": "Irfan Ali",
+            "Address": "Kamaalpur",
+            "Phone": "9756629354"
+          },
+          {
+            "Name": "Ashif Alai",
+            "so": "Ali Moh.",
+            "Address": "Kamaalpur",
+            "Phone": "9927204250"
+          },
+          {
+            "Name": "Zahid Ali",
+            "so": "Faimudin",
+            "Address": "Kamaalpur",
+            "Phone": "9927857901"
+          },
+          {
+            "Name": "Abdul Rahim",
+            "so": "Sherdin",
+            "Address": "Kamaalpur",
+            "Phone": "9690600813"
+          },
+          {
+            "Name": "Mangal Singh",
+            "so": "Sher Singh",
+            "Address": "Kamaalpur",
+            "Phone": "9639268267"
+          },
+          {
+            "Name": "Santram",
+            "so": "Ratiram",
+            "Address": "Kamaalpur",
+            "Phone": "9457312517"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Shri Vijender Kumar Gupta",
+            "so": "Baburam",
+            "Address": "Kamaalpur",
+            "Phone": "9897020247"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Mangal Singh",
+            "so": "Lt. Shri Sher Singh",
+            "Address": "Bodh Vihar Kamaalpur",
+            "Phone": "9639268267"
+          },
+          {
+            "Name": "Dharm Singh",
+            "so": "Ram Prasad",
+            "Address": "Bodh Vihar Kamaalpur",
+            "Phone": "9837981144"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Anil Kumar Gupta",
+            "so": "Nil",
+            "Address": "Kamaalpur",
+            "Phone": "9917362381",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Taj Moh.",
+            "so": "Najir",
+            "Address": "Kamaalpur",
+            "Phone": "9897020247",
+            "Weapon": "Dbbl"
+          },
+          {
+            "Name": "Vijender Kumar Gupta",
+            "so": "Baburam",
+            "Address": "Kamaalpur",
+            "Phone": "9897020247",
+            "Weapon": "Dbbl"
+          },
+          {
+            "Name": "Ashif Ali",
+            "so": "Ali Moh.",
+            "Address": "Kamaalpur",
+            "Phone": "9927204250",
+            "Weapon": "Nil"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Moh. Sattar Ahmed",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Shri Afnan Khan",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "9756629354"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Pyar Moh.",
+            "so": "Afsar Ali",
+            "Status": "Nil",
+            "4address": "Kamaalpur Thana Medical Meerut"
+          },
+          {
+            "Name": "Sharafat",
+            "so": "Sulemaan",
+            "Status": "Nil",
+            "4address": "Kamaalpur Thana Medical Meerut"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Munne",
+            "so": "Johri",
+            "crimeno": "204/11",
+            "Section": "323,324,504 Ipc",
+            "Address": "Kamaalpur"
+          },
+          {
+            "Name": "Shahzaad",
+            "so": "Johri",
+            "crimeno": "204/11",
+            "Section": "323,324,504 Ipc",
+            "Address": "Kamaalpur"
+          },
+          {
+            "Name": "Sharfat",
+            "so": "Chapan Shahay",
+            "crimeno": "204/11",
+            "Section": "323,324,504 Ipc",
+            "Address": "Kamaalpur"
+          },
+          {
+            "Name": "Naved",
+            "so": "Nil",
+            "crimeno": "204/11",
+            "Section": "323,324,504 Ipc",
+            "Address": "Nil"
+          },
+          {
+            "Name": "Salim",
+            "so": "Sagir",
+            "crimeno": "6328/12",
+            "Section": "380,411 Ipc",
+            "Address": "Tara Puri Brahmpuri"
+          },
+          {
+            "Name": "Sabir",
+            "so": "Habib",
+            "crimeno": "6328/13",
+            "Section": "380,411 Ipc",
+            "Address": "Reti Kaswa Thana Garh Hapur"
+          },
+          {
+            "Name": "Firoz",
+            "so": "Yasin",
+            "crimeno": "6328/14",
+            "Section": "380,411 Ipc",
+            "Address": "Gali No. 4 Shayam Nagar"
+          },
+          {
+            "Name": "Allah Rakha",
+            "so": "Nawab",
+            "crimeno": "6328/15",
+            "Section": "380,411 Ipc",
+            "Address": "Gali No. 6 Shayam Nagar"
+          },
+          {
+            "Name": "Love Thakur",
+            "so": "Jaynand",
+            "crimeno": "478/13",
+            "Section": "25 Arms Act",
+            "Address": "Taxila Colony Meerut"
+          },
+          {
+            "Name": "Vaibhab Mudgal",
+            "so": "Nathi Lal",
+            "crimeno": "450/13",
+            "Section": "307,34,120 Ipc",
+            "Address": "Shastri Nagar Nayi Sarak"
+          },
+          {
+            "Name": "Ansar",
+            "so": "Moh.",
+            "crimeno": "450/14",
+            "Section": "307,34,120 Ipc",
+            "Address": "J.e Thana Bhavan Pur"
+          },
+          {
+            "Name": "Akram",
+            "so": "Irshaad",
+            "crimeno": "450/15",
+            "Section": "307,34,120 Ipc",
+            "Address": "Shahjhan Pur Kithor"
+          },
+          {
+            "Name": "Akhil",
+            "so": "Jeet Singh",
+            "crimeno": "132/15",
+            "Section": "363,366  Ipc",
+            "Address": "Vodh Vihar Bhatta Kamaalpu"
+          },
+          {
+            "Name": "Satish",
+            "so": "Vikram",
+            "crimeno": "132/16",
+            "Section": "363,366  Ipc",
+            "Address": "Vodh Vihar Bhatta Kamaalpu"
+          },
+          {
+            "Name": "Jeet",
+            "so": "Vikram",
+            "crimeno": "132/17",
+            "Section": "363,366  Ipc",
+            "Address": "Vodh Vihar Bhatta Kamaalpu"
+          },
+          {
+            "Name": "Amir",
+            "so": "Din Moh.",
+            "crimeno": "643/15",
+            "Section": "13 G Act",
+            "Address": "Kamaalpur"
+          },
+          {
+            "Name": "Akash",
+            "so": "Tulsi Das",
+            "crimeno": "19/16",
+            "Section": "13 G Act",
+            "Address": "Nil"
+          },
+          {
+            "Name": "Gabbar",
+            "so": "Totaram",
+            "crimeno": "20/16",
+            "Section": "13 G Act",
+            "Address": "Jalalpur Thana Kharkhoda"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Jaan Moh.",
+            "so": "Sirjudin",
+            "Address": "Kamaalpur",
+            "Phone": "9927341534"
+          }
+        ],
+        "boundDownUnder": "Nil",
+        "vulnerabilityDetails": "Very Critical",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "MD-02",
+        "stationName": "Vidhansabha Kithor Panchayatghar Bodh Vihar Kamaalpur",
+        "latitude": "28.9400",
+        "longitude": "77.7658    ",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "4050",
+        "voters": "1050",
+        "villageMohalla": "Kamalpur 3, kamalpur 4",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Afnan Kha",
+            "so": "Irfan Ali",
+            "Address": "Kamaalpur",
+            "Phone": "9756629354"
+          },
+          {
+            "Name": "Ashif Alai",
+            "so": "Ali Moh.",
+            "Address": "Kamaalpur",
+            "Phone": "9927204250"
+          },
+          {
+            "Name": "Zahid Ali",
+            "so": "Faimudin",
+            "Address": "Kamaalpur",
+            "Phone": "9927857901"
+          },
+          {
+            "Name": "Abdul Rahim",
+            "so": "Sherdin",
+            "Address": "Kamaalpur",
+            "Phone": "9690600813"
+          },
+          {
+            "Name": "Mangal Singh",
+            "so": "Sher Singh",
+            "Address": "Kamaalpur",
+            "Phone": "9639268267"
+          },
+          {
+            "Name": "Santram",
+            "so": "Ratiram",
+            "Address": "Kamaalpur",
+            "Phone": "9457312517"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Shri Vijender Kumar Gupta",
+            "so": "Baburam",
+            "Address": "Kamaalpur",
+            "Phone": "9897020247"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Mangal Singh",
+            "so": "Lt. Shri Sher Singh",
+            "Address": "Bodh Vihar Kamaalpur",
+            "Phone": "9639268267"
+          },
+          {
+            "Name": "Dharm Singh",
+            "so": "Ram Prasad",
+            "Address": "Bodh Vihar Kamaalpur",
+            "Phone": "9837981144"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Anil Kumar Gupta",
+            "so": "Nil",
+            "Address": "Kamaalpur",
+            "Phone": "9917362381",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Taj Moh.",
+            "so": "Najir",
+            "Address": "Kamaalpur",
+            "Phone": "9897020247",
+            "Weapon": "Dbbl"
+          },
+          {
+            "Name": "Vijender Kumar Gupta",
+            "so": "Baburam",
+            "Address": "Kamaalpur",
+            "Phone": "9897020247",
+            "Weapon": "Dbbl"
+          },
+          {
+            "Name": "Ashif Ali",
+            "so": "Ali Moh.",
+            "Address": "Kamaalpur",
+            "Phone": "9927204250",
+            "Weapon": "Nil"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Moh. Sattar Ahmed",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Shri Afnan Khan",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "9756629354"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Pyar Moh.",
+            "so": "Afsar Ali",
+            "Status": "Nil",
+            "4address": "Kamaalpur Thana Medical Meerut"
+          },
+          {
+            "Name": "Sharafat",
+            "so": "Sulemaan",
+            "Status": "Nil",
+            "4address": "Kamaalpur Thana Medical Meerut"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Rajkumar",
+            "so": "Dal Chand",
+            "crimeno": "341/11",
+            "Section": "452/323/324/504/506/307/bhadvi",
+            "Address": "Nil"
+          },
+          {
+            "Name": "Gaurav",
+            "so": "Rajkumar",
+            "crimeno": "341/11",
+            "Section": "452/323/324/504/506/307/bhadvi",
+            "Address": "Nil"
+          },
+          {
+            "Name": "Baburam",
+            "so": "Dal Chand",
+            "crimeno": "341/11",
+            "Section": "452/323/324/504/506/307/bhadvi",
+            "Address": "Nil"
+          },
+          {
+            "Name": "Jani",
+            "so": "Baburam",
+            "crimeno": "341/11",
+            "Section": "452/323/324/504/506/307/bhadvi",
+            "Address": "Gan Kamaalpur Thana Medical Meerut"
+          },
+          {
+            "Name": "Nasur",
+            "so": "Aas Moh.",
+            "crimeno": "388/12",
+            "Section": "302 Bhadvi",
+            "Address": "Bohad Pur Thana Mavana Meerut Hal Kamaalpur"
+          },
+          {
+            "Name": "Mansoor",
+            "so": "Aas Moh.",
+            "crimeno": "339/12",
+            "Section": "25/4 Arms Act",
+            "Address": "Kamaalpur"
+          },
+          {
+            "Name": "Sajid",
+            "so": "Khalil",
+            "crimeno": "122/13",
+            "Section": "279/337/427/304a Bhadvi",
+            "Address": "Bahrod Thana Kithor Meerut"
+          },
+          {
+            "Name": "Sarjat",
+            "so": "Khalil",
+            "crimeno": "468/14",
+            "Section": "307/504 Bhadvi",
+            "Address": "Kamaalpur"
+          },
+          {
+            "Name": "Bahid",
+            "so": "Jamil",
+            "crimeno": "468/14",
+            "Section": "363/366/376bhadvi 3/4pocso",
+            "Address": "Gokal Pur Bhavanpur"
+          },
+          {
+            "Name": "Deepak",
+            "so": "Jay Prakash",
+            "crimeno": "482/14",
+            "Section": "363/366/376bhadvi 3/4pocso",
+            "Address": "Asalatnagar Muradnagar Gaziabad"
+          },
+          {
+            "Name": "Kapil",
+            "so": "Rajendra",
+            "crimeno": "14/15",
+            "Section": "363/366bhadvi 3(1)12 Sc St,8 Pocso",
+            "Address": "Kamaalpur"
+          },
+          {
+            "Name": "Nilu",
+            "so": "Harsharan",
+            "crimeno": "14/15",
+            "Section": "363/366bhadvi 3(1)12 Sc St,8 Pocso",
+            "Address": "Peernagar Sibbhavali Hapur"
+          },
+          {
+            "Name": "Rajendra",
+            "so": "Jaggi",
+            "crimeno": "14/15",
+            "Section": "363/366bhadvi 3(1)12 Sc St,8 Pocso",
+            "Address": "Peernagar Sibbhavali Hapur"
+          },
+          {
+            "Name": "Meheraj",
+            "so": "Intejaar",
+            "crimeno": "21/16",
+            "Section": "13 G Act",
+            "Address": "Kamaalpur Thana Medical Meerut"
+          },
+          {
+            "Name": "Yahaya Khan",
+            "so": "Rijvaan",
+            "crimeno": "115/16",
+            "Section": "376/452/346/506bhadvi",
+            "Address": "Kamaalpur Thana Medical Meerut"
+          },
+          {
+            "Name": "Ashvini",
+            "so": "Nathur",
+            "crimeno": "346/16",
+            "Section": "323/354/354v/376/511bhadvi",
+            "Address": "Kamaalpur"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Jaan Moh.",
+            "so": "Sirjudin",
+            "Address": "Kamaalpur",
+            "Phone": "9927341534"
+          }
+        ],
+        "boundDownUnder": "Nil",
+        "vulnerabilityDetails": "Very Critical",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "MD-03",
+        "stationName": "Prathmik Vidyalay Aurangshah Pur Deggi",
+        "latitude": "28.9662",
+        "longitude": "77.7448",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "3200",
+        "voters": "2500",
+        "villageMohalla": "Aurang Shahpur Diggi, Inder Nagar, Ajanta Colony",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Afnan Kha",
+            "so": "Irfan Ali",
+            "Address": "Kamaalpur",
+            "Phone": "9756629354"
+          },
+          {
+            "Name": "Ashif Alai",
+            "so": "Ali Moh.",
+            "Address": "Kamaalpur",
+            "Phone": "9927204250"
+          },
+          {
+            "Name": "Zahid Ali",
+            "so": "Faimudin",
+            "Address": "Kamaalpur",
+            "Phone": "9927857901"
+          },
+          {
+            "Name": "Abdul Rahim",
+            "so": "Sherdin",
+            "Address": "Kamaalpur",
+            "Phone": "9690600813"
+          },
+          {
+            "Name": "Mangal Singh",
+            "so": "Sher Singh",
+            "Address": "Kamaalpur",
+            "Phone": "9639268267"
+          },
+          {
+            "Name": "Santram",
+            "so": "Ratiram",
+            "Address": "Kamaalpur",
+            "Phone": "9457312517"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Chandrmani",
+            "so": "Chander Singh",
+            "Address": "Aurangshahpur Deggi",
+            "Phone": "9917798174"
+          },
+          {
+            "Name": "Omkar Singh",
+            "so": "Dishodi",
+            "Address": "Aurangshahpur Deggi",
+            "Phone": "9837560183"
+          },
+          {
+            "Name": "Hari Singh",
+            "so": "Tikaram",
+            "Address": "Aurangshahpur Deggi",
+            "Phone": "9410860183"
+          },
+          {
+            "Name": "Jeele",
+            "so": "Vikkan Singh",
+            "Address": "Aurangshahpur Deggi",
+            "Phone": "8171775465"
+          },
+          {
+            "Name": "Gyan Singh",
+            "so": "Hansa Singh",
+            "Address": "Aurangshahpur Deggi",
+            "Phone": "9837012722"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Babu Lal",
+            "so": "Ram Singh",
+            "Address": "Deggi",
+            "Phone": "9412552141"
+          },
+          {
+            "Name": "Surender",
+            "so": "Ram Singh",
+            "Address": "Deggi",
+            "Phone": "9410608774"
+          },
+          {
+            "Name": "TejPal",
+            "so": "Nathu",
+            "Address": "Deggi",
+            "Phone": "9897396762"
+          },
+          {
+            "Name": "Vijender",
+            "so": "Charan",
+            "Address": "Deggi",
+            "Phone": "9927972785"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Harpal ",
+            "so": "Kannu Singh ",
+            "Address": "Deggi",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Amar Pratap ",
+            "so": "Chatarpal ",
+            "Address": "Deggi",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Sheeshpal ",
+            "so": "Hera Singh ",
+            "Address": "Deggi",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Shrimati Varun ",
+            "so": " Udayvir ",
+            "Address": "Deggi",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Madan Mohan ",
+            "so": "Banwari Lal ",
+            "Address": "Deggi",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Abdul Kalam ",
+            "so": "Akhlak ",
+            "Address": "Deggi",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Rampal ",
+            "so": "Pus ",
+            "Address": "Deggi",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Jagat Singh ",
+            "so": "Kishanlal",
+            "Address": "Deggi",
+            "Phone": "Nil",
+            "Weapon": "DBBL "
+          },
+          {
+            "Name": "Ravi ",
+            "so": " Babu Ram ",
+            "Address": "Deggi",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Jyoti Verma",
+            "so": "Nil",
+            "Address": "PhoolBhgh Colony",
+            "Phone": "983763865"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Sharif",
+            "so": "Hanif",
+            "Address": "Aurangshahpur Deggi",
+            "Status": "Present",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Status": "Nil",
+            "4address": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Sameer",
+            "so": "Yusuf Kha",
+            "crimeno": "51/12",
+            "Section": "25 A Act",
+            "Address": "Golakuan Islamabad Lisadi Gate"
+          },
+          {
+            "Name": "Parvesh",
+            "so": "Khalil",
+            "crimeno": "51/12",
+            "Section": "25 A Act",
+            "Address": "Sharaybeli Sabzi mandi vali"
+          },
+          {
+            "Name": "Yash",
+            "so": "Dhamender",
+            "crimeno": "51/12",
+            "Section": "25 A Act",
+            "Address": "112 Krishana pada"
+          },
+          {
+            "Name": "Ankur Swami",
+            "so": "Nirvesh Swami",
+            "crimeno": "51/12",
+            "Section": "25 A Act",
+            "Address": "b 2/9 Jativada Meerut"
+          },
+          {
+            "Name": "Shakir",
+            "so": "Hanif",
+            "crimeno": "327/13",
+            "Section": "147,336,427,504,506 ipc",
+            "Address": "Aurangshahpur Deggi"
+          },
+          {
+            "Name": "Shahid",
+            "so": "Hanif",
+            "crimeno": "327/13",
+            "Section": "147,336,427,504,506 ipc",
+            "Address": "Aurangshahpur Deggi"
+          },
+          {
+            "Name": "Sagir",
+            "so": "Hanif",
+            "crimeno": "327/13",
+            "Section": "147,336,427,504,506 ipc",
+            "Address": "Aurangshahpur Deggi"
+          },
+          {
+            "Name": "Isaluddin",
+            "so": "Hafiz",
+            "crimeno": "327/13",
+            "Section": "147,336,427,504,506 ipc",
+            "Address": "Ahemdnagar Lisadi Gate"
+          },
+          {
+            "Name": "Sabhaa",
+            "so": "Arte",
+            "crimeno": "415/14",
+            "Section": "147,323,324 ipc",
+            "Address": "Aurangshahpur Deggi"
+          },
+          {
+            "Name": "Bhura",
+            "so": "Arte",
+            "crimeno": "415/14",
+            "Section": "147,323,324 ipc",
+            "Address": "Aurangshahpur Deggi"
+          },
+          {
+            "Name": "Kalim",
+            "so": "Sabhaa",
+            "crimeno": "415/14",
+            "Section": "147,323,324 ipc",
+            "Address": "Aurangshahpur Deggi"
+          },
+          {
+            "Name": "Naved",
+            "so": "Sabhaa",
+            "crimeno": "415/14",
+            "Section": "147,323,324 ipc",
+            "Address": "Aurangshahpur Deggi"
+          },
+          {
+            "Name": "Vasim",
+            "so": "Sabhaa",
+            "crimeno": "415/14",
+            "Section": "147,323,324 ipc",
+            "Address": "Aurangshahpur Deggi"
+          },
+          {
+            "Name": "Sensar Pal",
+            "so": "Nanak Chand",
+            "crimeno": "381/16  ",
+            "Section": "60 EX Act",
+            "Address": "Rali Chuhan Bhavanpur"
+          },
+          {
+            "Name": "Bunty",
+            "so": "Nil",
+            "crimeno": "381/16",
+            "Section": "307,504,506 ipc",
+            "Address": "Aurangshahpur Deggi"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "boundDownUnder": "05",
+        "vulnerabilityDetails": "Very Critical",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "MD-04",
+        "stationName": "S. H. Aacademy E.M. School Ajanta Colony",
+        "latitude": "28.2655",
+        "longitude": "77.7455",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "5000",
+        "voters": "3500",
+        "villageMohalla": "Ajanta Colony, Jankpuri",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Deepak Agarwal",
+            "so": "Nil",
+            "Address": "Ajanta Colony",
+            "Phone": "9045704442"
+          },
+          {
+            "Name": "Rajiv Kumar",
+            "so": "Nil",
+            "Address": "Ajanta Colony",
+            "Phone": "8923073517"
+          },
+          {
+            "Name": "Rajat Kant",
+            "so": "Nil",
+            "Address": "Ajanta Colony",
+            "Phone": "9411907261"
+          },
+          {
+            "Name": "Atul Pundir",
+            "so": "Nil",
+            "Address": "Ajanta Colony",
+            "Phone": "9837030070"
+          },
+          {
+            "Name": "Golu Sharma",
+            "so": "Nil",
+            "Address": "Ajanta Colony",
+            "Phone": "9411667935"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "V.P. Singh",
+            "so": "Nil",
+            "Address": "Ajanta Colony",
+            "Phone": "Nil"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Choke Lal",
+            "so": "Basudev",
+            "Address": "Ajanta Colony",
+            "Phone": "9458608607"
+          },
+          {
+            "Name": "B.C. Kushwaha",
+            "so": "Nil",
+            "Address": "Ajanta Colony",
+            "Phone": "9837963000"
+          },
+          {
+            "Name": "Pradeep Kumar",
+            "so": "Nil",
+            "Address": "Ajanta Colony",
+            "Phone": "9927500125"
+          },
+          {
+            "Name": "Rajpal",
+            "so": "Harphool",
+            "Address": "Ajanta Colony",
+            "Phone": "9837265365"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "V.P. Singh",
+            "so": "Begpal",
+            "Address": "Ajanta Colony",
+            "Phone": "9415182090",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Himanshu",
+            "so": "Charanpal",
+            "Address": "Ajanta Colony",
+            "Phone": "9411668530",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Manoj",
+            "so": "Mavichand",
+            "Address": "Ajanta Colony",
+            "Phone": "9897473731",
+            "Weapon": "Revolver"
+          },
+          {
+            "Name": "Mukesh",
+            "so": "Ajab Singh",
+            "Address": "Ajanta Colony",
+            "Phone": "971952321",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Sudhir Pawar",
+            "so": "Mahipal Singh",
+            "Address": "Ajanta Colony",
+            "Phone": "93139112170",
+            "Weapon": "DBBL"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Kishan Pal Singh",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "9927046666"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Chote Lal",
+            "so": "Chander",
+            "Address": "Ambedkar Nagar",
+            "Status": "Nil",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Prem Chans",
+            "so": "Chander",
+            "Address": "Ambedkar Nagar",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Status": "Nil",
+            "4address": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Sonu",
+            "so": "Charan Pal",
+            "crimeno": "61/12",
+            "Section": "452,354,504,506 ipc",
+            "Address": "Shastri Nagar"
+          },
+          {
+            "Name": "Ashif",
+            "so": "Hamid Phalwan",
+            "crimeno": "61/12",
+            "Section": "452,354,504,506 ipc",
+            "Address": "Shastri Nagar"
+          },
+          {
+            "Name": "Praven Kumar",
+            "so": "Inderjeet Sharma",
+            "crimeno": "462/12 ",
+            "Section": "307 ipc & 25 A Act",
+            "Address": "Indernagar"
+          },
+          {
+            "Name": "Manoj",
+            "so": "Pritam",
+            "crimeno": "783/12",
+            "Section": "323,450,307,504,506 ipc",
+            "Address": "Shivanpura Sihani"
+          },
+          {
+            "Name": "Vinay",
+            "so": "Devraj",
+            "crimeno": "732/13",
+            "Section": "342,504,506 ipc",
+            "Address": "Ansal Colony Medical"
+          },
+          {
+            "Name": "Rahul Sharma",
+            "so": "Santram",
+            "crimeno": "732/13",
+            "Section": "342,504,506 ipc",
+            "Address": "Ansal Colony Medical"
+          },
+          {
+            "Name": "Sobodh Sharma",
+            "so": "Yashvant",
+            "crimeno": "732/13",
+            "Section": "342,504,506 ipc",
+            "Address": "New Ajanta Colony"
+          },
+          {
+            "Name": "Mukul",
+            "so": "Krishan Pal",
+            "crimeno": "92/14",
+            "Section": "25A ACT",
+            "Address": "Timkiya Thana Jani"
+          },
+          {
+            "Name": "Nitesh",
+            "so": "Baburam",
+            "crimeno": "458/14",
+            "Section": "25A ACT",
+            "Address": "Kasimpur Kheda Ramala Bagpat"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Gajraj Singh Nagar",
+            "so": "Nil",
+            "Address": "Ajanta Colony",
+            "Phone": "Nil"
+          }
+        ],
+        "boundDownUnder": "Nil",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "MD-05",
+        "stationName": "Karyalaya Vishwa Vidyalaya Meerut",
+        "latitude": "28.9686",
+        "longitude": "77.7408",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "1350",
+        "voters": "650",
+        "villageMohalla": "Ramgadi, Mangal Pandey Nagar, Sector 1,2,3, JJ Colony, Ashanagar, Ramgadi-2",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Satypal Rana ",
+            "so": " Gangadas ",
+            "Address": "Nil",
+            "Phone": "9897603552"
+          },
+          {
+            "Name": "Pretam Singh ",
+            "so": " Dharm Singh",
+            "Address": "Nil",
+            "Phone": "9412579491"
+          },
+          {
+            "Name": "Sher Singh ",
+            "so": " Prem Singh",
+            "Address": "Nil",
+            "Phone": "9917423577"
+          },
+          {
+            "Name": "Kamal Singh ",
+            "so": " Kaniya Lal",
+            "Address": "Nil",
+            "Phone": "9760888707"
+          },
+          {
+            "Name": "Charan Singh ",
+            "so": " Dharm Singh ",
+            "Address": "Nil",
+            "Phone": "9410275998"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "PremRaj ",
+            "so": "Nil",
+            "Address": "Ramgadi ",
+            "Phone": "9634737799"
+          },
+          {
+            "Name": "Satyaprakash ",
+            "so": "Nil",
+            "Address": "Ramgadi ",
+            "Phone": "9312738284"
+          },
+          {
+            "Name": "Salekh Chand ",
+            "so": "Nil",
+            "Address": "Ramgadi ",
+            "Phone": "9568853642"
+          },
+          {
+            "Name": "Shersingh Verma ",
+            "so": "Nil",
+            "Address": "Ramgadi ",
+            "Phone": "9219100359"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Satyapal Rana",
+            "so": "Gangadas",
+            "Address": "Nil",
+            "Phone": "9897603552",
+            "Weapon": "Pistol"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Status": "Nil",
+            "4address": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Gajraj Singh Nagar",
+            "so": "Nil",
+            "Address": "Ajanta Colony",
+            "Phone": "Nil"
+          }
+        ],
+        "boundDownUnder": "Nil",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "MD-06",
+        "stationName": "Dr. Ambedkar Degree College",
+        "latitude": "28.9641",
+        "longitude": "77.7376",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "1400",
+        "voters": "1000",
+        "villageMohalla": "Tejgadi, Gita Colony, Telphone Exchange Colony, Incometax Colony",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Vijendera Singh ",
+            "so": " Rajpal Singh ",
+            "Address": "Nil",
+            "Phone": "8881541414"
+          },
+          {
+            "Name": "Mahesh Kumar ",
+            "so": " Lile Singh      ",
+            "Address": "Nil",
+            "Phone": "9357407786"
+          },
+          {
+            "Name": "Sanjay ",
+            "so": " Hariveer              ",
+            "Address": "Nil",
+            "Phone": "9897407786"
+          },
+          {
+            "Name": "Manoj Kumar ",
+            "so": " Kartar Singh     ",
+            "Address": "Nil",
+            "Phone": "9927166148"
+          },
+          {
+            "Name": "Charan Singh ",
+            "so": " Dharm Singh ",
+            "Address": "Nil",
+            "Phone": "9410275998"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Shrimati Premvati",
+            "so": "Mahender",
+            "Address": "Tejgadi",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Rajkaran",
+            "so": "Shriram",
+            "Address": "Tejgadi",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Mahesh Kumar",
+            "so": "Lile Singh",
+            "Address": "Tejgadi",
+            "Phone": "9359170852"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Jil Sing",
+            "so": "Tejpal",
+            "Address": "Tejgadi",
+            "Phone": "Nil",
+            "Weapon": "SBBL"
+          },
+          {
+            "Name": "Shrimati Premvati ",
+            "so": "Mahender",
+            "Address": "Tejgadi",
+            "Phone": "Nil",
+            "Weapon": "SBBL"
+          },
+          {
+            "Name": "Rajkaran ",
+            "so": "Shriram",
+            "Address": "Tejgadi",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Vir Singh",
+            "so": "Dhram Singh",
+            "Address": "Tejgadi",
+            "Phone": "Nil",
+            "Weapon": "Rifle"
+          },
+          {
+            "Name": "Harish ",
+            "so": "Khachedu",
+            "Address": "Tejgadi",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Jyoti Verma",
+            "so": "Nil",
+            "Address": "PhoolBhgh Colony",
+            "Phone": "983763865"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Status": "Nil",
+            "4address": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Shahid",
+            "so": "Amir",
+            "crimeno": "10/12.",
+            "Section": "25A Act",
+            "Address": "Jakir Colony Lisadi Gate"
+          },
+          {
+            "Name": "Monu",
+            "so": "Harveer",
+            "crimeno": "82/12",
+            "Section": "352,323,504,506 ipc",
+            "Address": "Gan Tejgadi"
+          },
+          {
+            "Name": "Bhanu",
+            "so": "Harveer",
+            "crimeno": "82/12",
+            "Section": "352,323,504,506 ipc",
+            "Address": "Gan Tejgadi"
+          },
+          {
+            "Name": "Punit",
+            "so": "Harveer",
+            "crimeno": "82/12",
+            "Section": "352,323,504,506 ipc",
+            "Address": "Gan Tejgadi"
+          },
+          {
+            "Name": "Harbhajan",
+            "so": "Nil",
+            "crimeno": "432/12 ",
+            "Section": "307,323,324,504,506,542 ipc",
+            "Address": "Gan Tejgadi"
+          },
+          {
+            "Name": "Baburam",
+            "so": "Harbhajan",
+            "crimeno": "432/12 ",
+            "Section": "307,323,324,504,506,542 ipc",
+            "Address": "Gan Tejgadi"
+          },
+          {
+            "Name": "Raju aka Jitender",
+            "so": "Harbhajan",
+            "crimeno": "432/12 ",
+            "Section": "307,323,324,504,506,542 ipc",
+            "Address": "Gan Tejgadi"
+          },
+          {
+            "Name": "Sidhath",
+            "so": "Avdhesh Bansal",
+            "crimeno": "421/13",
+            "Section": "302,307,34 ipc 7 CLR ACT",
+            "Address": "Gan 357/1 Saket Colony C. L. M. Nagar"
+          },
+          {
+            "Name": "Avdesh",
+            "so": "Kunjvihari",
+            "crimeno": "421/13",
+            "Section": "302,307,34 ipc 7 CLR ACT",
+            "Address": "Gan 357/1 Saket Colony C. L. M. Nagar"
+          },
+          {
+            "Name": "Mukesh",
+            "so": "Kunjvihari",
+            "crimeno": "421/13",
+            "Section": "302,307,34 ipc 7 CLR ACT",
+            "Address": "Gan 357/1 Saket Colony C. L. M. Nagar"
+          },
+          {
+            "Name": "Deepak",
+            "so": "RamPrasad",
+            "crimeno": "148/15",
+            "Section": "25 ARMS ACT",
+            "Address": "Viloha Kotvali Hamirpur"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "boundDownUnder": "Nil",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "MD-07",
+        "stationName": "Barat Ghar Shastri Nagar Meerut",
+        "latitude": "28.9618",
+        "longitude": "77.7422",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "1200",
+        "voters": "850",
+        "villageMohalla": "Shastri Nagar, B- Block- Shastri Nagar, C- Block Shastri Nagar, A- Block Shastri Nagar, Kirti Place",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Jyoti Verma",
+            "so": "Nil",
+            "Address": "Poolbagh Colony",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "R.D Verma",
+            "so": "Nil",
+            "Address": "V-91 Shastri Nagar",
+            "Phone": "9412628313"
+          },
+          {
+            "Name": "S.d. Kher",
+            "so": "Nil",
+            "Address": "B-99 Shastri Nagar",
+            "Phone": "9897703292"
+          },
+          {
+            "Name": "Y.N. Sharma",
+            "so": "Nil",
+            "Address": "B-99 Shastri Nagar",
+            "Phone": "9412472016"
+          },
+          {
+            "Name": "Dr. V.P. Singh",
+            "so": "Nil",
+            "Address": "V-135",
+            "Phone": "9412704877"
+          },
+          {
+            "Name": "Anil Gupta",
+            "so": "Nil",
+            "Address": "B-139",
+            "Phone": "9411622770"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "C.K. Sikri",
+            "so": "Nil",
+            "Address": "V 137 Shastri Nagar",
+            "Phone": "8307377681"
+          },
+          {
+            "Name": "M.M.L Singal",
+            "so": "Nil",
+            "Address": "B-147 Shastri Nagar",
+            "Phone": "9412106111"
+          },
+          {
+            "Name": "Dr. K. D. Sharma",
+            "so": "Nil",
+            "Address": "B 157 Shastri Nagar",
+            "Phone": "9412106762"
+          },
+          {
+            "Name": "Dr. B. K. Argawal",
+            "so": "Nil",
+            "Address": "B 161 Shastri Nagar",
+            "Phone": "9012211666"
+          },
+          {
+            "Name": "Dr. M.C. Bansal",
+            "so": "Nil",
+            "Address": "B25",
+            "Phone": "9837169567"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Dr. Rajkumar",
+            "so": "Nil",
+            "Address": "Shastri Nagar",
+            "Phone": "9837418207"
+          },
+          {
+            "Name": "Ramanand Agarwal",
+            "so": "Nil",
+            "Address": "Shastri Nagar",
+            "Phone": "8171012273"
+          },
+          {
+            "Name": "V.P. Ravat",
+            "so": "Nil",
+            "Address": "Shastri Nagar",
+            "Phone": "9837032924"
+          },
+          {
+            "Name": "S.K. Padhan",
+            "so": "Nil",
+            "Address": "Shastri Nagar",
+            "Phone": "9719136033"
+          },
+          {
+            "Name": "Y.P. Singh",
+            "so": "Nil",
+            "Address": "Shastri Nagar",
+            "Phone": "9837775017"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Vishmber Agarwal",
+            "so": "Chandu Lal",
+            "Address": "Shastri Nagar",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Jagdish Lal ",
+            "so": "Chunni Lal",
+            "Address": "Shastri Nagar",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          },
+          {
+            "Name": "Lokesh Tyagi",
+            "so": "Raghunath Tyagi",
+            "Address": "Shastri Nagar",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          },
+          {
+            "Name": "Satish Goyal",
+            "so": "Keshav Goyal",
+            "Address": "Shastri Nagar",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          },
+          {
+            "Name": "Madan Mohan Lal",
+            "so": "Kailash Chand",
+            "Address": "Shastri Nagar",
+            "Phone": "Nil",
+            "Weapon": "Rifle"
+          },
+          {
+            "Name": "Richpal",
+            "so": "Sodan Singh",
+            "Address": "Shastri Nagar",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          },
+          {
+            "Name": "Rakesh Sharma",
+            "so": "Baldev Sharma",
+            "Address": "Shastri Nagar",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          },
+          {
+            "Name": "Rajender Argarwal",
+            "so": "Jagdesh Agarwal",
+            "Address": "Shastri Nagar",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Om Prakash Sharma",
+            "so": "Nil",
+            "Address": "B Block Shastri Nagar",
+            "Phone": "9415905944"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Status": "Nil",
+            "4address": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Ankur Tomar",
+            "so": "Om Prakash",
+            "crimeno": "299/11",
+            "Section": "279,338,337,427,IPC",
+            "Address": "L1269 Shastri Nagar"
+          },
+          {
+            "Name": "Mahtab",
+            "so": "Rahis",
+            "crimeno": "617/12",
+            "Section": "392,506 ipc",
+            "Address": "519 Kinnulabala Kota Mo Nagar"
+          },
+          {
+            "Name": "Salman",
+            "so": "Salim",
+            "crimeno": "617/12",
+            "Section": "392,506 ipc",
+            "Address": "399/15 Lachvala Kota Mo Nagar"
+          },
+          {
+            "Name": "Vinay",
+            "so": "Dharmpal",
+            "crimeno": "345/13",
+            "Section": "302 ipc",
+            "Address": "C-143 Sastri Nagar Medical Meerut"
+          },
+          {
+            "Name": "Sanju",
+            "so": "Prakash",
+            "crimeno": "149/15",
+            "Section": "25 Arms Act",
+            "Address": "Bagu Thana vijaynagar Gaziabad"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "boundDownUnder": "Nil",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "MD-08",
+        "stationName": "Barat Ghar Shastri Nagar Meerut",
+        "latitude": "28.9509",
+        "longitude": "77.7278",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "2500",
+        "voters": "1400",
+        "villageMohalla": "Shastri Nagar K-2, K-3, K-4, K-5, Pravesh Vihar, Bank Colony, RamaPurm, Sardar Patel Nagar, Basundra Colony",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Dr. Manjul",
+            "so": "Jaypal Singh",
+            "Address": "Shastri Nagar",
+            "Phone": "9412201793"
+          },
+          {
+            "Name": "Pankaj Katira Sabhsad",
+            "so": "Nil",
+            "Address": "Shastri Nagar",
+            "Phone": "9897648842"
+          },
+          {
+            "Name": "Mahipal Singh Bhadana",
+            "so": "Dhanpal",
+            "Address": "Shastri Nagar",
+            "Phone": "9358451475"
+          },
+          {
+            "Name": "Rajender Sharma",
+            "so": "Jayanti Prasad",
+            "Address": "Shastri Nagar",
+            "Phone": "9837634456"
+          },
+          {
+            "Name": "Sandeep Jewellers",
+            "so": "Jaybagwan",
+            "Address": "Shastri Nagar",
+            "Phone": "9984781494"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "U. N. Shivram Singh",
+            "so": "tulsi Singh",
+            "Address": "Shastri Nagar",
+            "Phone": "9997574120"
+          },
+          {
+            "Name": "Jaypal Singh",
+            "so": "Ramal",
+            "Address": "Shastri Nagar",
+            "Phone": "9358801702"
+          },
+          {
+            "Name": "Mahender",
+            "so": "Chidi Singh",
+            "Address": "Shastri Nagar",
+            "Phone": "9536853265"
+          },
+          {
+            "Name": "U.N. Harpal Singh",
+            "so": "Harvansh Singh",
+            "Address": "Shastri Nagar",
+            "Phone": "9927930690"
+          },
+          {
+            "Name": "U.N. Jasraj Singh",
+            "so": "Chokhe lal",
+            "Address": "Shastri Nagar",
+            "Phone": "9412622589"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Shubham Aka Bhola",
+            "so": "Ashok",
+            "Address": "Shastri Nagar",
+            "Phone": "9690999927"
+          },
+          {
+            "Name": "Jeetender",
+            "so": "Ashok",
+            "Address": "Shastri Nagar",
+            "Phone": "9927015343"
+          },
+          {
+            "Name": "Varsha Kaushik",
+            "so": "Neeraj  Right Side",
+            "Address": "Shastri Nagar",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Supreme Goyal",
+            "so": "Bhubhanesh",
+            "Address": "Shastri Nagar",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Bhubhanesh",
+            "so": "Mahavir",
+            "Address": "Shastri Nagar",
+            "Phone": "9058184475"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Naresh Kumar",
+            "so": "Baburam",
+            "Address": "K-5 Shastri Nagar",
+            "Phone": "9917424450",
+            "Weapon": "SBBL"
+          },
+          {
+            "Name": "Rajnesh Tyagi",
+            "so": "Raghuraj Tyagi",
+            "Address": "Pravesh Vihar K-Block",
+            "Phone": "9319389722",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Samay Singh",
+            "so": "Gyan Singh",
+            "Address": "Pravesh Vihar",
+            "Phone": "8171940007",
+            "Weapon": "Revolver"
+          },
+          {
+            "Name": "Devender Kumar Sharma",
+            "so": "Lalni Narayan",
+            "Address": "Pravesh Vihar",
+            "Phone": "Nil",
+            "Weapon": "Rifle"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Pankaj Katira",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "9897648842"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Amit Bhadna aka Sonu",
+            "so": "Dhanpal",
+            "Address": "K-3 3016 Shastri Nagar",
+            "Status": "Jail",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Status": "Nil",
+            "4address": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Subhash",
+            "so": "Harfol",
+            "crimeno": "242/11",
+            "Section": "13 G ACT",
+            "Address": "L1269 Shastri Nagar"
+          },
+          {
+            "Name": "Rohit",
+            "so": "Jagdish",
+            "crimeno": "243/11",
+            "Section": "13 G ACT",
+            "Address": "116 Kutti Thana Nauchandi"
+          },
+          {
+            "Name": "Sunder",
+            "so": "Kali Charan",
+            "crimeno": "95/12",
+            "Section": "363,366 ipc",
+            "Address": "nehru nagar Nauchandi"
+          },
+          {
+            "Name": "Birender",
+            "so": "Chechaalal",
+            "crimeno": "95/12",
+            "Section": "363,366 ipc",
+            "Address": "Garh Stand Ashok Nagar"
+          },
+          {
+            "Name": "Om Prakash",
+            "so": "Charan Singh",
+            "crimeno": "95/12",
+            "Section": "363,366 ipc",
+            "Address": "Kuti"
+          },
+          {
+            "Name": "Hasrat",
+            "so": "Jasad Sarurpur",
+            "crimeno": "95/12",
+            "Section": "363,366 ipc",
+            "Address": "Kuti"
+          },
+          {
+            "Name": "Sandeep",
+            "so": "Vijender",
+            "crimeno": "417/13",
+            "Section": "376,511,354,366,376,354,511 ipc",
+            "Address": "Raningala Hastinapur"
+          },
+          {
+            "Name": "Sachin",
+            "so": "Chander Shekar",
+            "crimeno": "417/13",
+            "Section": "376,511,354,366,376,354,511 ipc",
+            "Address": "Munda Kheda  J.P. Nagar"
+          },
+          {
+            "Name": "Vir Singh",
+            "so": "Ram Prasad ",
+            "crimeno": "167/15",
+            "Section": "13G ACT",
+            "Address": "Street No. 2 Sidhart Nagar"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "boundDownUnder": "Nil",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "MD-09",
+        "stationName": "Master School of Mgmt. Shastri Nagar",
+        "latitude": "28.9545",
+        "longitude": "77.7353",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "2500",
+        "voters": "1400",
+        "villageMohalla": "Shastri Nagar, I Block, Surya Dev, Golden Tower, Vihar Colony, Chankyapuri, Lakshmi Vihar, Gyan Niketan",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Alok Agrawal",
+            "so": "Nil",
+            "Address": "A-3 Golden Tower",
+            "Phone": "9719031267"
+          },
+          {
+            "Name": "Roop Kumar",
+            "so": "Amar Kumar",
+            "Address": "V-302 Golden Tower",
+            "Phone": "9719031267"
+          },
+          {
+            "Name": "Dr. R. K. Agrawal",
+            "so": "Nil",
+            "Address": "V-302 Golden Tower",
+            "Phone": "9557044475"
+          },
+          {
+            "Name": "H.N. Narayan Saxena",
+            "so": "Raguveer ",
+            "Address": "A103",
+            "Phone": "8171660607"
+          },
+          {
+            "Name": "Rajkumar",
+            "so": "Nil",
+            "Address": "Golden Tower",
+            "Phone": "8909845000"
+          },
+          {
+            "Name": "Veenet Tyagi",
+            "so": "K.L. Tyagi",
+            "Address": "B-162 A Ansal Colony",
+            "Phone": "9760011364"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Divakar",
+            "2Do": "Nandeshwar Prasad",
+            "Address": "E-132 Shastri Nagar",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Amit Chandna",
+            "so": "Jagdish Chandna",
+            "Address": "E-193 Shastri Nagar",
+            "Phone": "9897094040"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Madhav Tyagi",
+            "so": "Rajender Tyagi",
+            "Address": "I 268 Ansal Road Shastri Nagar",
+            "Phone": "8445623400"
+          },
+          {
+            "Name": "Anil Tyagi",
+            "so": "Tikaram",
+            "Address": "I 268 Ansal Road Shastri Nagar",
+            "Phone": "8171785346"
+          },
+          {
+            "Name": "Vivek ",
+            "so": "Ramnath ",
+            "Address": "F13 Ansal Road Shastri Nagar",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Dr. Vikas",
+            "so": "Ramnath ",
+            "Address": "F13 Ansal Road Shastri Nagar",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Nagender ",
+            "so": "OP",
+            "Address": "F11 Shastri Nagar",
+            "Phone": "Nil"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Gaurav Kumar ",
+            "so": "Raghuvansh Giri",
+            "Address": "Shastri Nagar",
+            "Phone": "8006009599  ",
+            "Weapon": "Rifle "
+          },
+          {
+            "Name": "Mahender ",
+            "so": "Ram swaroop ",
+            "Address": "E-block Shastri Nagar",
+            "Phone": "Nil  ",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "RishiPal Singh",
+            "so": "Vanshi Singh",
+            "Address": "E-193 Shastri Nagar",
+            "Phone": "Nil ",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Amit Chandna ",
+            "so": "Jagdish Chandna",
+            "Address": "E-193 Shastri Nagar",
+            "Phone": "9897094040  ",
+            "Weapon": "Revolver"
+          },
+          {
+            "Name": "Divakar,",
+            "so": "Nandesh Prasad",
+            "Address": "E-132 Shastri Nagar Meerut",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          },
+          {
+            "Name": "Sunil Kumar",
+            "so": "Babulal",
+            "Address": "E-15 shastri nagar",
+            "Phone": "9927259967       ",
+            "Weapon": "Rifle"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Vishal Vasist",
+            "so": "Naresh Tyagi",
+            "Address": "128 Chankyapuri Exist",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Status": "Nil",
+            "4address": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Manish",
+            "so": "Narayan",
+            "crimeno": "174/11 ",
+            "Section": " 25 A ACT ",
+            "Address": "1002/3 Shastri Nagar Thana Nauchandi"
+          },
+          {
+            "Name": "Vikash ",
+            "so": "Jay prakash ",
+            "crimeno": "731/12",
+            "Section": "25/4 A ACT",
+            "Address": "197A Kaliyagarhi"
+          },
+          {
+            "Name": "Pappu",
+            "so": "Kamal Singh",
+            "crimeno": "732/12 ",
+            "Section": "25/4 A ACT",
+            "Address": "56B Kaliyagarhi "
+          },
+          {
+            "Name": "Ajit   ",
+            "so": "Jaggi  ",
+            "crimeno": "755/12",
+            "Section": "25/4",
+            "Address": "Haider Nagar Thana Kharkoda"
+          },
+          {
+            "Name": "AnangPalTomar",
+            "so": "Nil",
+            "crimeno": "754/12",
+            "Section": "398/401/IPC",
+            "Address": "Nil"
+          },
+          {
+            "Name": "Irfan ",
+            "so": "Nil ",
+            "crimeno": "754/12",
+            "Section": "398/401/IPC",
+            "Address": "Nil"
+          },
+          {
+            "Name": "Satish",
+            "so": "Nil   ",
+            "crimeno": "754/12",
+            "Section": "398/401/IPC",
+            "Address": "Gan Maukhas"
+          },
+          {
+            "Name": "Rakesh",
+            "so": "Ravinder  ",
+            "crimeno": "96/15",
+            "Section": "323/504/506/354D/IPC",
+            "Address": " C179 Shastri Nagar"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "boundDownUnder": "Nil",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "MD-10",
+        "stationName": "Kalyankari Junior High School Shergadi",
+        "latitude": "28.9500",
+        "longitude": "77.7347",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "3200",
+        "voters": "2600",
+        "villageMohalla": "Shergarhi, Mayapuri, Sidharth Nagar",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Rambhol (Sabhasad)",
+            "so": "Nil",
+            "Address": "Shergarhi",
+            "Phone": "9412094411"
+          },
+          {
+            "Name": "Dharmdas",
+            "so": "ChanderDas",
+            "Address": "street no. 15",
+            "Phone": "9358190724"
+          },
+          {
+            "Name": " Jagpal",
+            "so": "Shekhar Ajency Vale",
+            "Address": "Nil ",
+            "Phone": "9219888546"
+          },
+          {
+            "Name": "Devender Kumar",
+            "so": "Kallu Singh",
+            "Address": "Nil ",
+            "Phone": "9411022138"
+          },
+          {
+            "Name": "Dharmveer Singh",
+            "so": "Asha Ram",
+            "Address": "street no.4 ",
+            "Phone": "8868892774"
+          },
+          {
+            "Name": "Mohar Singh",
+            "so": "Balmukand",
+            "Address": "street no.4 ",
+            "Phone": "9319165185"
+          },
+          {
+            "Name": "Anil",
+            "so": "Tikaram",
+            "Address": "street no.4 ",
+            "Phone": "9412188112"
+          },
+          {
+            "Name": "Mangal",
+            "so": "Char Singh",
+            "Address": "street no.4 ",
+            "Phone": "9368412958"
+          },
+          {
+            "Name": "Mahesh",
+            "so": "Puran",
+            "Address": "street no.4 ",
+            "Phone": "9359692366"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Rajveer Singh Bhadana",
+            "so": "Rajveer Singh Bhadana",
+            "Address": "st. no 11 Shergadi (U.P.",
+            "Phone": "9219283608"
+          },
+          {
+            "Name": "Gulveer Singh Bhadana",
+            "so": "l/o Ramchander",
+            "Address": "st. no. 11 Shergadi  (Militry)",
+            "Phone": "9897551554"
+          },
+          {
+            "Name": "Richpal Singh",
+            "so": "l/o Jagna",
+            "Address": "st. no. 15 Shergadi (edu Dept)",
+            "Phone": "9351148065"
+          },
+          {
+            "Name": "Om Prakash ",
+            "so": "Jahariya",
+            "Address": "Near Sherakh Agency (HYDLE Dept.)  ",
+            "Phone": "92197441954"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Anil",
+            "so": "Tikaram",
+            "Address": "461 right side of school",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Dharmpal",
+            "so": "Tejram",
+            "Address": "Shergarhi, front of school",
+            "Phone": "9410054948"
+          },
+          {
+            "Name": "Surender",
+            "so": "Ratiram ",
+            "Address": "Shergarhi, right side of school",
+            "Phone": "9319316664"
+          },
+          {
+            "Name": "Vijay",
+            "so": "Balkrishan",
+            "Address": "Shergarhi, front of school",
+            "Phone": "8057873601"
+          },
+          {
+            "Name": "Mohar singh",
+            "so": "Balmukand",
+            "Address": "Shergarhi, Left side of school",
+            "Phone": "9319165185"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Padam Singh",
+            "so": "Prahalad",
+            "Address": "Saraykazi",
+            "Phone": "Nil",
+            "Weapon": "SBBL"
+          },
+          {
+            "Name": "Ashok Saine",
+            "so": "Kallu",
+            "Address": "Saraykazi",
+            "Phone": "9319300594",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Ravinder Kumar",
+            "so": "Kamal Singh",
+            "Address": "Saraykazi",
+            "Phone": "9568229897",
+            "Weapon": "Rifle"
+          },
+          {
+            "Name": "Somnath",
+            "so": "Kallu",
+            "Address": "Saraykazi",
+            "Phone": "8958252868",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Sulekh Chand",
+            "so": "Kalicharan",
+            "Address": "Saraykazi",
+            "Phone": "Nil",
+            "Weapon": "SBBL"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Ramfool Singh (sabhasad)",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "9412094411"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Adesh",
+            "so": "Ramjilal",
+            "Address": "st.11 Shergahi (status- Unknown)",
+            "Status": "Nil",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Sunil Kumar",
+            "so": "Ramsingh",
+            "Address": "st.15 Shergarhi (Exist and Silent, Milkman)",
+            "Status": "Nil",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Vovi aka Balu",
+            "so": "Ramjilal",
+            "Address": "Shergarhi (status- Unknown)",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Status": "Nil",
+            "4address": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Naresh ",
+            "so": "Nil",
+            "crimeno": "487/12",
+            "Section": "392,452,427,323,504,506,324 IPC",
+            "Address": "Gan Sidhart Nagar Shergarhi"
+          },
+          {
+            "Name": "Anushul ",
+            "so": "Naresh",
+            "crimeno": "487/12",
+            "Section": "392,452,427,323,504,506,324 IPC",
+            "Address": "Gan Sidhart Nagar Shergarhi"
+          },
+          {
+            "Name": "Arun ",
+            "so": "Naresh",
+            "crimeno": "487/12",
+            "Section": "392,452,427,323,504,506,324 IPC",
+            "Address": "Gan Sidhart Nagar Shergarhi"
+          },
+          {
+            "Name": "Anuj ",
+            "so": "Naresh",
+            "crimeno": "487/12",
+            "Section": "392,452,427,323,504,506,324 IPC",
+            "Address": "Gan Sidhart Nagar Shergarhi"
+          },
+          {
+            "Name": "Arvind ",
+            "so": "Ramesh",
+            "crimeno": "487/12",
+            "Section": "392,452,427,323,504,506,324 IPC",
+            "Address": "Mumma Mirapur Modinagar"
+          },
+          {
+            "Name": "Shrived aka Monu Bhati",
+            "so": "Brijesh",
+            "crimeno": "760/12",
+            "Section": "323/504/506/Bhadvi",
+            "Address": "Shergarhi Medical"
+          },
+          {
+            "Name": "Ravi",
+            "so": "Jaybhagvan",
+            "crimeno": "570/13",
+            "Section": "376 Act Bhadvi 8/9 POCSO",
+            "Address": "st. 5 Shergarhi"
+          },
+          {
+            "Name": "Rishipal",
+            "so": "Haricharn",
+            "crimeno": "596/13",
+            "Section": "377 Act Bhadvi 8/9 POCSO",
+            "Address": "st. 5 Shergarhi"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "boundDownUnder": "07",
+        "vulnerabilityDetails": "Very Critical",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "MD-11",
+        "stationName": "Cumunity Hall Jagrari Vihar Sec- 03",
+        "latitude": "28.9556",
+        "longitude": "77.7446",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "2500",
+        "voters": "1250",
+        "villageMohalla": "Jagriti Vihar Sec 03, 02, 01, Kirti Palace",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Virender Singh Chauhan",
+            "so": "Nil",
+            "Address": "Jagriti Vihar",
+            "Phone": "9837246271"
+          },
+          {
+            "Name": "Balraj Singh",
+            "so": "J. Raj Singh",
+            "Address": "Jagriti Vihar",
+            "Phone": "9058206000"
+          },
+          {
+            "Name": "Sunil",
+            "so": "Tarachand Sainy",
+            "Address": "Jagriti Vihar",
+            "Phone": "9358439681"
+          },
+          {
+            "Name": "Vijaypal",
+            "so": "Nandram",
+            "Address": "Jagriti Vihar",
+            "Phone": "9759293382"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Vedprakash Sharma",
+            "so": "Nil",
+            "Address": "566/3 Jagriti Vihar (Hydle Vibhag)",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Brajpal Sharma",
+            "so": "Nil",
+            "Address": "541/3 Jagriti Vihar (Hydle Vibhag)",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "V.P. Singh",
+            "so": "Nil",
+            "Address": "334/3 Jagriti Vihar (Ret. Judge)",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Shivdan Singh",
+            "so": "Nil",
+            "Address": "70/2 Jagriti Vihar (Army)",
+            "Phone": "Nil"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Narayan",
+            "so": "Nil",
+            "Address": "437/3 Jagriti Vihar",
+            "Phone": "09278135927"
+          },
+          {
+            "Name": "Pravesh Yadav",
+            "so": "Nil",
+            "Address": "460/3 Jagriti Vihar",
+            "Phone": "9219555772"
+          },
+          {
+            "Name": "Lalit",
+            "so": "Nil",
+            "Address": "461/3 Jagriti Vihar",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "P.K.",
+            "so": "Nil",
+            "Address": "291/4 Jagriti Vihar",
+            "Phone": "9412363748"
+          },
+          {
+            "Name": "Shailender Tiwari",
+            "so": "Jagdish Tiwari",
+            "Address": "400/3 Jagriti Vihar",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Munesh",
+            "so": "Nil",
+            "Address": "463/3 Jagriti Vihar",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "P.K. Pashaney",
+            "so": "Nil",
+            "Address": "291/4 Jagriti Vihar",
+            "Phone": "9412369748"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Sonu Kumar",
+            "so": "L/O Jaypal Singh",
+            "Address": "Jagriti Vihar",
+            "Phone": "9457268355",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Dharmender Singh",
+            "so": "Dharmpal Singh",
+            "Address": "89/1  Jagriti Vihar",
+            "Phone": "9837948826",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Virender Singh",
+            "so": "Deshraj Singh",
+            "Address": "487/9  Jagriti Vihar",
+            "Phone": "9927122135",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Narenderpal Singh",
+            "so": "Varf Singh",
+            "Address": "28/8 Jagriti Vihar",
+            "Phone": "Nil",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Bir Singh",
+            "so": "Padam Singh",
+            "Address": "Jagriti Vihar",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Vijay Tyagi Aka Tinku",
+            "so": "Seva Ram",
+            "Address": "139/1 Jagriti Vihar",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Ashok",
+            "so": "Deptiram",
+            "Address": "317/5 Jagriti Vihar Meerut",
+            "Phone": "Nil"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Vinay Tyagi aka Tinku",
+            "so": "Seva Ram",
+            "Address": "139/1 Jagriti Vihar",
+            "Status": "Jail",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Ashok",
+            "so": "Deptiram",
+            "Address": "317/5 Jagriti Vihar Meerut",
+            "Status": "Missing",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Pramod Kumar",
+            "so": "Ramfal",
+            "Status": "Nil",
+            "4address": "155/3 Jagriti Vihar"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Ravi",
+            "so": "Vijay",
+            "crimeno": "237/11",
+            "Section": "363/366/376 IPC",
+            "Address": "Kaliyagarhi"
+          },
+          {
+            "Name": "Omkar",
+            "so": "Vijay",
+            "crimeno": "237/11",
+            "Section": "363/366/376 IPC",
+            "Address": "Kaliyagarhi"
+          },
+          {
+            "Name": "Sajid",
+            "so": "Sadakat",
+            "crimeno": "245/11",
+            "Section": "279/304 A/427 IPC",
+            "Address": "Meva Bhatta Thana Kotvali"
+          },
+          {
+            "Name": "Amit",
+            "so": "Satyveer",
+            "crimeno": "287/11",
+            "Section": "324/323/506 IPC",
+            "Address": "Paith Road Jagriti Vihar"
+          },
+          {
+            "Name": "Rohit",
+            "so": "Devu Singh",
+            "crimeno": "287/11",
+            "Section": "324/323/506 IPC",
+            "Address": "St.3 Nai Basti Ambedkar Nagar"
+          },
+          {
+            "Name": "Manoj",
+            "so": "Jaypal",
+            "crimeno": "287/11",
+            "Section": "324/323/506 IPC",
+            "Address": "Nai Basti Ambedkar Nagar"
+          },
+          {
+            "Name": "Parmanand",
+            "so": "Shivdayal",
+            "crimeno": "287/11",
+            "Section": "324/323/506 IPC",
+            "Address": "Tejgarhi"
+          },
+          {
+            "Name": "Sunil",
+            "so": "Bhavar Singh",
+            "crimeno": "293A/11",
+            "Section": "153A",
+            "Address": "Jagriti Vihar"
+          },
+          {
+            "Name": "Anand Prakash Sarasvat",
+            "so": "Maharaj Singh",
+            "crimeno": "293A/11",
+            "Section": "153A",
+            "Address": "CCSU"
+          },
+          {
+            "Name": "Nakul",
+            "so": "Jagveer",
+            "crimeno": "515/11",
+            "Section": "323/325 IPC",
+            "Address": "Nil"
+          },
+          {
+            "Name": "Jagveer",
+            "so": "Sheeshpal",
+            "crimeno": "515/11",
+            "Section": "323/325 IPC",
+            "Address": "Nil"
+          },
+          {
+            "Name": "Chanderpal",
+            "so": "Hansa Singh",
+            "crimeno": "515/11",
+            "Section": "323/325 IPC",
+            "Address": "Gan Jagriti Vihar Meerut"
+          },
+          {
+            "Name": "Hargovind",
+            "so": "Veer Singh",
+            "crimeno": "516/11",
+            "Section": " 323/504/506/3/25 IPC",
+            "Address": "595/3 Jagriti Vihar"
+          },
+          {
+            "Name": "Nonu Aka Monu",
+            "so": "Braham Singh",
+            "crimeno": "516/11",
+            "Section": " 323/504/506/3/25 IPC",
+            "Address": "576/3 Jagriti Vihar"
+          },
+          {
+            "Name": "Sarlanand",
+            "so": "Suresh Chand",
+            "crimeno": "516/11",
+            "Section": " 323/504/506/3/25 IPC",
+            "Address": "576/3 Jagriti Vihar"
+          },
+          {
+            "Name": "Deepak",
+            "so": "Deshraj",
+            "crimeno": "40/12",
+            "Section": "294 IPC",
+            "Address": "181/3 Jagriti Vihar"
+          },
+          {
+            "Name": "Manish",
+            "so": "Radheshyam",
+            "crimeno": "435/12",
+            "Section": "13 G Act",
+            "Address": "252/5 Jagriti Vihar"
+          },
+          {
+            "Name": "Vikki",
+            "so": "Rishipal",
+            "crimeno": "159/16",
+            "Section": "379/511 IPC",
+            "Address": "Kaliyagarhi"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "boundDownUnder": "Nil",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "MD-12",
+        "stationName": "New Delhi Public School Jagriti Vihar Sec-03",
+        "latitude": "Nil",
+        "longitude": "77.743",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "1800",
+        "voters": "1200",
+        "villageMohalla": "Jagriti Vihar Sector - 5, 3, 4",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Ramchander Singh Chauhan",
+            "so": "Nil",
+            "Address": "Jagriti Vihar",
+            "Phone": "9997533561"
+          },
+          {
+            "Name": "Virender Singh",
+            "so": "Nil",
+            "Address": "Jagriti Vihar",
+            "Phone": "9837246271"
+          },
+          {
+            "Name": "P.K. Vasneey",
+            "so": "Nil",
+            "Address": "Jagriti Vihar",
+            "Phone": "9412388148"
+          },
+          {
+            "Name": "Narayan",
+            "so": "Nil",
+            "Address": "Jagriti Vihar",
+            "Phone": "9278135927"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Vedprakash Sharma",
+            "so": "Nil",
+            "Address": "566/3 Jagriti Vihar (Hydle Vibhag)",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Brajpal Sharma",
+            "so": "Nil",
+            "Address": "541/3 Jagriti Vihar (Hydle Vibhag)",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "V.P. Singh",
+            "so": "Nil",
+            "Address": "334/3 Jagriti Vihar (Ret. Judge)",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Shivdan Singh",
+            "so": "Nil",
+            "Address": "70/2 Jagriti Vihar (Army)",
+            "Phone": "Nil"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Balraj",
+            "so": "Jiran Singh",
+            "Address": "266/3 Jagriti Vihar",
+            "Phone": "9058206000"
+          },
+          {
+            "Name": "Sushil",
+            "so": "Tarachand",
+            "Address": "514/3 Jagriti Vihar",
+            "Phone": "9358434968"
+          },
+          {
+            "Name": "Rani",
+            "so": "W/O Ramcharan",
+            "Address": "514/8/3 Jagriti Vihar",
+            "Phone": "9952533561"
+          },
+          {
+            "Name": "Vijaypal",
+            "so": "Nand Ram",
+            "Address": "515/3 Jagriti Vihar",
+            "Phone": "9759293382"
+          },
+          {
+            "Name": "Rinku",
+            "so": "Balraj",
+            "Address": "266/3 Jagriti Vihar",
+            "Phone": "Nil"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Sonu Kumar",
+            "so": "L/o Jaypal Singh",
+            "Address": "Jagriti Vihar",
+            "Phone": "9457268355",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Dharmender Singh",
+            "so": "Dharmpal Singh",
+            "Address": "89/1  Jagriti Vihar",
+            "Phone": "9837948826",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Virender Singh",
+            "so": "Deshraj Singh",
+            "Address": "487/9  Jagriti Vihar",
+            "Phone": "9927122135",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Narenderpal Singh",
+            "so": "Varf Singh",
+            "Address": "28/8 Jagriti Vihar",
+            "Phone": "Nil",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Bir Singh",
+            "so": "Padam Singh",
+            "Address": "Jagriti Vihar",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Vijay Tyagi Aka Tinku",
+            "so": "Seva Ram",
+            "Address": "139/1 Jagriti Vihar",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Ashok",
+            "so": "Deptiram",
+            "Address": "317/5 Jagriti Vihar Meerut",
+            "Phone": "Nil"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Vinay Tyagi aka Tinku",
+            "so": "Seva Ram",
+            "Address": "139/1 Jagriti Vihar",
+            "Status": "Jail",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Ashok",
+            "so": "Deptiram",
+            "Address": "317/5 Jagriti Vihar Meerut",
+            "Status": "Missing",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Sushil",
+            "so": "Bhavar Singh",
+            "Status": "Nil",
+            "4address": "406/5 Jagriti Vihar"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Vipin Giri",
+            "so": "Chanderbhan",
+            "crimeno": "684/12",
+            "Section": "364/302/201 IPC",
+            "Address": "188/8 Jagriti Vihar"
+          },
+          {
+            "Name": "Pradeep Giri",
+            "so": "Udayveer",
+            "crimeno": "684/12",
+            "Section": "364/302/201 IPC",
+            "Address": "Dhanora Kotavali Dehat Bulandshehar"
+          },
+          {
+            "Name": "Ankit",
+            "so": "Mahipal",
+            "crimeno": "684/12",
+            "Section": "364/302/201 IPC",
+            "Address": "K-5303 Kashiram Awas Lohiya Nagar Meerut"
+          },
+          {
+            "Name": "Triloki Aka Teja",
+            "so": "Giri",
+            "crimeno": "684/12",
+            "Section": "364/302/201 IPC",
+            "Address": "Musana Kotvali Bulandshehar"
+          },
+          {
+            "Name": "Bunti",
+            "so": "Musana Kotvali Bulandshehar",
+            "crimeno": "684/12",
+            "Section": "324/323/506 IPC",
+            "Address": "Musana Kotvali Bulandshehar"
+          },
+          {
+            "Name": "Vikas",
+            "so": "Jayprakash",
+            "crimeno": "720/12",
+            "Section": "380/411 IPC",
+            "Address": "197A Kaliyagarhi"
+          },
+          {
+            "Name": "Shajad",
+            "so": "Kurimudin",
+            "crimeno": "720/12",
+            "Section": "380/411 IPC",
+            "Address": "Dalivali street Rashid Nagar Thana Lisadi Gate"
+          },
+          {
+            "Name": "Pappu",
+            "so": "Kamal Singh",
+            "crimeno": "720/12",
+            "Section": "380/411 IPC",
+            "Address": "56B Kaliyagarhi"
+          },
+          {
+            "Name": "Himanshu",
+            "so": "Jaybhagvan",
+            "crimeno": "132/13",
+            "Section": "380/411 IPC",
+            "Address": "Nil"
+          },
+          {
+            "Name": "Vikki",
+            "so": "Rishipal",
+            "crimeno": "132/13",
+            "Section": "380/411 IPC",
+            "Address": "Gan Kaliyagarhi"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "boundDownUnder": "Nil",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "MD-13",
+        "stationName": "Kand Vikas Karyalaya Rajpura",
+        "latitude": "28.9555",
+        "longitude": "77.7502",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "7150",
+        "voters": "3350",
+        "villageMohalla": "Jagriti Vihar  Sector 6, Medical College 1, 2",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Praveen Kumar",
+            "so": "Madan Lal Sharma",
+            "Address": "D-81 Kaliyagarhi",
+            "Phone": "9411666892"
+          },
+          {
+            "Name": "Shripal Singh",
+            "so": "L/O Chunni Lal",
+            "Address": "707/1 Kaliyagarhi",
+            "Phone": "9359065992"
+          },
+          {
+            "Name": "Dr. Naval Singh Rana",
+            "so": "L/O Shri Ram Karan",
+            "Address": "385/8 Jagriti Vihar",
+            "Phone": "9758511110"
+          },
+          {
+            "Name": "Shrimati Savitri Devi",
+            "so": "W/O Lakhan Singh",
+            "Address": "Sec-8 (Sabhasad)",
+            "Phone": "8126541805"
+          },
+          {
+            "Name": "Raviraj",
+            "so": "Dhanshyam Singh",
+            "Address": "Sec-7 Jagriti Vihar",
+            "Phone": "8954244445"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Shri Sushil Kumar Tyagi",
+            "so": "L/O Dev Singh Tyagi",
+            "Address": "744/6 Jagriti Vihar (Ret. From R.T.O.)",
+            "Phone": "9837962621"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Sanjay",
+            "so": "Omprakash",
+            "Address": "136/6 Jagriti Vihar",
+            "Phone": "9837403425"
+          },
+          {
+            "Name": "Himachal Rao",
+            "so": "Ramkala",
+            "Address": "587/6 Jagriti Vihar",
+            "Phone": "8445177850"
+          },
+          {
+            "Name": "Brijesh",
+            "so": "Babu",
+            "Address": "586/6 Jagriti Vihar",
+            "Phone": "9027270752"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Vijay Pal",
+            "so": "Shri Prakash",
+            "Address": "Kaliyagarhi",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Ishrat Singh",
+            "so": "Mohan Lal",
+            "Address": "Kaliyagarhi",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Dr. Praveen Kumar",
+            "so": "Hariveer Singh",
+            "Address": "Kaliyagarhi",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Shiv Om Sharma",
+            "so": "Kaliram Sharma",
+            "Address": "Kaliyagarhi",
+            "Phone": "Nil",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Abhishek Tirkha",
+            "so": "Raviprakash",
+            "Address": "Kaliyagarhi",
+            "Phone": "Nil",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Narender Singh",
+            "so": "Varaf Singh",
+            "Address": "Kaliyagarhi",
+            "Phone": "Nil",
+            "Weapon": "Pistol"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Babu",
+            "so": "Harpal Singh",
+            "Address": "Kaliyagarhi",
+            "Status": "Nil",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Aadesh Aka Rajeev Singhal",
+            "so": "Dulichand",
+            "Address": "774/7 Jagriti Vihar",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Status": "Nil",
+            "4address": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Farad",
+            "so": "Taslim",
+            "crimeno": "598/13",
+            "Section": "302/201 IPC",
+            "Address": "Musapur Thana Hayatnagar Sambhal"
+          },
+          {
+            "Name": "Sunil",
+            "so": "Bahdur Singh",
+            "crimeno": "726/13",
+            "Section": "13G ACT",
+            "Address": "Type 1 C 25 Medical Campus"
+          },
+          {
+            "Name": "Mahesh Kumars",
+            "so": "Kishorilal",
+            "crimeno": "726/13",
+            "Section": "13G ACT",
+            "Address": "Type 1 C 202 Medical Campus"
+          },
+          {
+            "Name": "Bittu",
+            "so": "Ramji Lal",
+            "crimeno": "726/13",
+            "Section": "13G ACT",
+            "Address": "Type 1 F 21 Medical Campus"
+          },
+          {
+            "Name": "Rajib Saini",
+            "so": "Malik",
+            "crimeno": "507/14",
+            "Section": "504/324 IPC",
+            "Address": "Mangal Hospital"
+          },
+          {
+            "Name": "Rajesh Kumar",
+            "so": "Hukum Singh",
+            "crimeno": "507/14",
+            "Section": "504/324 IPC",
+            "Address": "Saraykazi"
+          },
+          {
+            "Name": "Dharmveer",
+            "so": "Khauf Singh",
+            "crimeno": "507/14",
+            "Section": "504/324 IPC",
+            "Address": "Bhopal Vihar Bhavanpur"
+          },
+          {
+            "Name": "Shahruk",
+            "so": "Vakil",
+            "crimeno": "626/14",
+            "Section": "323/332/353 IPC",
+            "Address": "St.30 Jakir Colony Meerut"
+          },
+          {
+            "Name": "Rampal",
+            "so": "Tejpal",
+            "crimeno": "549/15",
+            "Section": "223/224 IPC",
+            "Address": "Savoday Colony Civil Line Meerut"
+          },
+          {
+            "Name": "Manish kumar",
+            "so": "Amir Chand",
+            "crimeno": "631/15",
+            "Section": "13 G ACT",
+            "Address": "G-171 Medical Campus"
+          },
+          {
+            "Name": "Tushar",
+            "so": "Sompal",
+            "crimeno": "631/15",
+            "Section": "13 G ACT",
+            "Address": "Jaybhimnagar"
+          },
+          {
+            "Name": "Anas Aas Moh.",
+            "so": "Hanif",
+            "crimeno": "453/16",
+            "Section": "223/224 IPC",
+            "Address": "NurNagar Near Madina Majid Lisadi Gate"
+          },
+          {
+            "Name": "Ashish",
+            "so": "Gokul",
+            "crimeno": "11/14",
+            "Section": "354/354G/7/8 POCSO",
+            "Address": "309/5 Jagriti Vihar"
+          },
+          {
+            "Name": "Monu",
+            "so": "Surender",
+            "crimeno": "11/14",
+            "Section": "354/354G/7/8 POCSO",
+            "Address": "307/5 Jagriti Vihar"
+          },
+          {
+            "Name": "Daalchand",
+            "so": "Mohan Lal",
+            "crimeno": "177/16",
+            "Section": "4/25 Arms ACT",
+            "Address": "Kartana Thana Fatehnagar Udhampur Rajasthan"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "boundDownUnder": "Nil",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "MD-14",
+        "stationName": "K. V.S. S. H. Sanik Public School Sec-8 Jagriti Vihar Meerut",
+        "latitude": "28.9506",
+        "longitude": "77.7460",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "2800",
+        "voters": "1300",
+        "villageMohalla": "Jagriti Vihar Sector-8-2, 8-3",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Raviraj Singh",
+            "so": "Dhanshyam Singh",
+            "Address": "Sec- 7 Jagriti Vihar",
+            "Phone": "8954244445"
+          },
+          {
+            "Name": "Savitiri Devi",
+            "so": "Ratan Singh",
+            "Address": "Sec- 8 Jagriti Vihar",
+            "Phone": "8126541805"
+          },
+          {
+            "Name": "Shripal Singh",
+            "so": "late Punni Lal",
+            "Address": "707-A/7 Jagriti Vihar",
+            "Phone": "9359065992"
+          },
+          {
+            "Name": "Dr. Naval Singh Rana",
+            "so": "Shri Ramkaran",
+            "Address": "385/8 Jagriti Vihar",
+            "Phone": "Nil"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Rajesh Kumar Sharma",
+            "so": "",
+            "Address": "Lakhmi Vihar UPP",
+            "Phone": "9411081397"
+          },
+          {
+            "Name": "Balbir Singh Tevtiyapur",
+            "so": "Ramkaran",
+            "Address": "A-8 Lakhmi Vihar",
+            "Phone": "9412609662"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Suvedh Tyagi",
+            "so": "Dayanand Tyagi",
+            "Address": "290/8 Jagriti Vihar",
+            "Phone": "9837343991"
+          },
+          {
+            "Name": "Satish Sharma",
+            "so": "Nil",
+            "Address": "327/8 Jagriti Vihar",
+            "Phone": "9917000069"
+          },
+          {
+            "Name": "Ramotar Singh",
+            "so": "Baine Singh",
+            "Address": "334/8 Jagriti Vihar",
+            "Phone": "8938921956"
+          },
+          {
+            "Name": "Sobodh Tyagi",
+            "so": "Dayanand Tyagi",
+            "Address": "290-91/8 Jagriti Vihar",
+            "Phone": "9837343991"
+          },
+          {
+            "Name": "Satish Sharma",
+            "so": "Nil",
+            "Address": "327/8 Jagriti Vihar Left side of School",
+            "Phone": "9917000069"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Rajeev Rana",
+            "so": "Shreepal Rana",
+            "Address": "131/7 Jagriti Vihar",
+            "Phone": "9457070875",
+            "Weapon": "Revolver"
+          },
+          {
+            "Name": "Dr. Prabhat Kumar",
+            "so": "Bijender Singh",
+            "Address": "527/7 Jagriti Vihar",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          },
+          {
+            "Name": "Member Singh",
+            "so": "Sardar Singh",
+            "Address": "786/7 Jagriti Vihar",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Vinay Tyagi aka Tinku",
+            "so": "Seva Ram",
+            "Address": "Shastri Nagar",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Shashank Sharma",
+            "so": "Sanjeev",
+            "Status": "Nil",
+            "4address": "215/8 Jagriti Vihar Meerutt"
+          },
+          {
+            "Name": "Sharafat",
+            "so": "Sulemaan",
+            "Status": "Nil",
+            "4address": "Kamaalpur Thana Medical Meerut"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Budha",
+            "so": "Bhavani",
+            "crimeno": "20/11",
+            "Section": "13 G Act",
+            "Address": "D 223 Kaliyagarhi"
+          },
+          {
+            "Name": " Jani",
+            "so": "Mulchan",
+            "crimeno": "20/11",
+            "Section": "13 G Act",
+            "Address": "D 112 Kaliyagarhi"
+          },
+          {
+            "Name": "Raju",
+            "so": "Vijay Singh",
+            "crimeno": "20/11",
+            "Section": "13 G Act",
+            "Address": "D 258 Kaliyagarhi"
+          },
+          {
+            "Name": "Satyaprakash",
+            "so": "Vikiram",
+            "crimeno": "20/11",
+            "Section": "13 G Act",
+            "Address": "D 274 Kaliyagarhi"
+          },
+          {
+            "Name": "Sonu",
+            "so": "Nanak Chand",
+            "crimeno": "20/11",
+            "Section": "13 G Act",
+            "Address": "D 219 Kaliyagarhi"
+          },
+          {
+            "Name": "Ajay",
+            "so": "Dayaram",
+            "crimeno": "20/11",
+            "Section": "13 G Act",
+            "Address": "Kaliyagarhi"
+          },
+          {
+            "Name": "Deepak Jaat",
+            "so": "Hansraj",
+            "crimeno": "431/11",
+            "Section": "323,504,506 IPC 3(1) SC/ST Act",
+            "Address": "576/9 Jagriti Vihar"
+          },
+          {
+            "Name": "Prashant aka Goli",
+            "so": "Nil",
+            "crimeno": "431/11",
+            "Section": "323,504,506 IPC 3(1) SC/ST Act",
+            "Address": "576/9 Jagriti Vihar"
+          },
+          {
+            "Name": "Arjun",
+            "so": "Dhera",
+            "crimeno": "559/11",
+            "Section": "395,307 IPC 3(2) SC/ST Act",
+            "Address": "Jagriti Vihar"
+          },
+          {
+            "Name": "Ajay",
+            "so": "Mam Raj",
+            "crimeno": "559/11",
+            "Section": "395,307 IPC 3(2) SC/ST Act",
+            "Address": "Jagriti Vihar"
+          },
+          {
+            "Name": "Saen",
+            "so": "Tarachand",
+            "crimeno": "559/11",
+            "Section": "395,307 IPC 3(2) SC/ST Act",
+            "Address": "Kaliyagarhi"
+          },
+          {
+            "Name": "Pradeep",
+            "so": "Mamchand",
+            "crimeno": "559/11",
+            "Section": "395,307 IPC 3(2) SC/ST Act",
+            "Address": "Kaliyagarhi"
+          },
+          {
+            "Name": "Rakesh",
+            "so": "Narayan",
+            "crimeno": "327/14",
+            "Section": "147,452,354,504,506 IPC",
+            "Address": "399 Jagriti Vihar"
+          },
+          {
+            "Name": "Vevi",
+            "so": "Rajesh",
+            "crimeno": "327/14",
+            "Section": "147,452,354,504,506 IPC",
+            "Address": "SardarNagar Thana Madavganj Hardoi"
+          },
+          {
+            "Name": "Kapil",
+            "so": "Mehar Chands",
+            "crimeno": "173/16",
+            "Section": "25 Arms Act",
+            "Address": "Sikander pur Bhopa Modinagar"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "boundDownUnder": "Nil",
+        "vulnerabilityDetails": "Gernal",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "MD-15",
+        "stationName": "Samudaikya Bhavan KaliyaGari",
+        "latitude": "28.9530",
+        "longitude": "77.4495",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "10670",
+        "voters": "5150",
+        "villageMohalla": "Jagriti Vihar Sec- 7-1, 7-2, Kaliyagarhi",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Savitri Devi  (Sabhasad)  ",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "8126541805"
+          },
+          {
+            "Name": "Shripal Singh",
+            "so": "Shri Chunni Lal",
+            "Address": " 707A/6 Jagriti Vihar ",
+            "Phone": "9359065992"
+          },
+          {
+            "Name": "Raviraj Singh",
+            "so": "Dhanshyam Singh",
+            "Address": " sec-7 Jagriti Vihar",
+            "Phone": "8954244445"
+          },
+          {
+            "Name": "Maharaj Singh",
+            "so": "Sant Singh",
+            "Address": "462/6 Jagriti Vihar",
+            "Phone": "9435163627"
+          },
+          {
+            "Name": "Dr. Naval Singh",
+            "so": "Ram karan",
+            "Address": "385/8 Jagriti Vihar",
+            "Phone": "9758511110"
+          },
+          {
+            "Name": "Praveen",
+            "so": "Madan La",
+            "Address": " 81 D Kaliyagarhi",
+            "Phone": "9411666892"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Layakram",
+            "so": "Munnupam",
+            "Address": "A/130 Kaliyagarhi",
+            "Phone": "9411668673"
+          },
+          {
+            "Name": "Yadaram",
+            "so": "Kaliyagarhi",
+            "Address": "Nil",
+            "Phone": "9458554271"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Sanjay",
+            "so": "Omprakash",
+            "Address": "132/6 Jagriti Vihar",
+            "Phone": "9837403725"
+          },
+          {
+            "Name": "Himachal Rao",
+            "so": "Ramkala",
+            "Address": "587/6 Jagriti Vihar",
+            "Phone": "8445177850"
+          },
+          {
+            "Name": "Brijesh",
+            "so": "Babu Ram",
+            "Address": "586/6 Jagriti Vihar",
+            "Phone": "9027270752"
+          },
+          {
+            "Name": "Chander Shekar",
+            "so": "Ramlal Singh",
+            "Address": "70A Kaliyagarhi",
+            "Phone": "9319301765"
+          },
+          {
+            "Name": "Shanki",
+            "so": "Rajkumar Sharma",
+            "Address": "48A Kaliyagarhi",
+            "Phone": "9568342272"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Vijaypal",
+            "so": "Jayprakash",
+            "Address": "Kaliyagarhi",
+            "Phone": "9837403725",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Umesh Sharma",
+            "so": "Shri Vive Sharma",
+            "Address": "Kaliyagarhi",
+            "Phone": "8445177850",
+            "Weapon": "SBBL"
+          },
+          {
+            "Name": "Dr. Praveen Kumar",
+            "so": "Hariveer Singh",
+            "Address": "Kaliyagarhi",
+            "Phone": "9027270752",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Shiv Om Sharma",
+            "so": "Kaliram Sharma",
+            "Address": "Kaliyagarhi",
+            "Phone": "9319301765",
+            "Weapon": "Pistol"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Sharimati Savitri Devi",
+            "so": "Lakhan Singh",
+            "Address": "Sec- 8 Jagriti Vihar",
+            "Phone": "8126541805"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Titu",
+            "so": "Ramesh Chand",
+            "Status": "Nil",
+            "4address": "D-11 Kaliyagarhi"
+          },
+          {
+            "Name": "Vikas aka Tinnu",
+            "so": "Kundan",
+            "Status": "Nil",
+            "4address": "38/7 Jagriti Vihar"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Nand Kishore aka Nandu",
+            "so": "Bhavani",
+            "crimeno": "662/13",
+            "Section": "452,420,467,468,504,506 IPC",
+            "Address": "Rambag Suraj kund Civil Line Meerut"
+          },
+          {
+            "Name": " Khadak Singh",
+            "so": "Kailash",
+            "crimeno": "889/14",
+            "Section": "323,504,325 IPC",
+            "Address": "Harman Pur Bijnor"
+          },
+          {
+            "Name": "Amit",
+            "so": "Naval",
+            "crimeno": "207/13",
+            "Section": "376,313,323,354,504 IPC",
+            "Address": "506 Jagriti Vihar"
+          },
+          {
+            "Name": "Amit",
+            "so": "Naval",
+            "crimeno": "210/13",
+            "Section": "395,397 IPC",
+            "Address": "D 274 Kaliyagarhi"
+          },
+          {
+            "Name": "Ashish",
+            "so": "Sanjeev",
+            "crimeno": "210/13",
+            "Section": "395,397 IPC",
+            "Address": "5488/9 Jagriti Vihar"
+          },
+          {
+            "Name": "Ankit",
+            "so": "Uday Singh",
+            "crimeno": "210/13",
+            "Section": "395,397 IPC",
+            "Address": "Islamabad Thana Bhopa Modinagar"
+          },
+          {
+            "Name": "Sanjeep",
+            "so": "Jagdish",
+            "crimeno": "210/13",
+            "Section": "395,397 IPC",
+            "Address": "488/9 Jagriti Vihar"
+          },
+          {
+            "Name": "Prashant aka Goli",
+            "so": "Nil",
+            "crimeno": "210/13",
+            "Section": "395,397 IPC",
+            "Address": "576/9 Jagriti Vihar"
+          },
+          {
+            "Name": "Pradeep",
+            "so": "Dharmpal",
+            "crimeno": "210/13",
+            "Section": "395,397 IPC",
+            "Address": "Kajipur Kharkoda"
+          },
+          {
+            "Name": "Sajid",
+            "so": "Sabir",
+            "crimeno": "248/13",
+            "Section": "294 IPC",
+            "Address": "895/11 Dibainagar Thana Nauchandi"
+          },
+          {
+            "Name": "Lokesh",
+            "so": "Mahender Verma",
+            "crimeno": "350/13",
+            "Section": "294 IPC",
+            "Address": "Shrinagar Near Railway Nagar Hapur"
+          },
+          {
+            "Name": "Neeraj",
+            "so": "Mahesh",
+            "crimeno": "306/13",
+            "Section": "457,380,411 IPC",
+            "Address": "Nai Basti Medical"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "boundDownUnder": "Nil",
+        "vulnerabilityDetails": "Gernal",
+        "warrantedCriminals": [
+          {
+            "Name": "Amit",
+            "so": "Naval Singh Naagar",
+            "Address": "596/6 Jagriti Vihar",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "MD-16",
+        "stationName": "K.L. International School Jargriti Vihar",
+        "latitude": "28.9513",
+        "longitude": "77.7518",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "10670",
+        "voters": "5150",
+        "villageMohalla": "Jagriti Vihar sec- 9-1, 9-2, Taxila, Durgapuram, Somdutt Vihar, Rajvansh Vihar, Kaliyagarhi",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Omkar Singh Prazapati",
+            "so": "Nil",
+            "Address": "sec- 9 Jaybhimnagar",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Dr. J.P. Singh",
+            "so": "lt.Nathulal",
+            "Address": "563/7 Jaybhimnagar",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Raviraj Singh",
+            "so": "Dhanshyam Singh",
+            "Address": "sec-7 Jaybhimnagar",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Maharaj Singh",
+            "so": "Sitaram",
+            "Address": "426/6 Jaybhimnagar",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Dr. Naval Singh Rana",
+            "so": "Ramkaran",
+            "Address": "358/8 Jaybhimnagar",
+            "Phone": "Nil"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "R.P. Singh",
+            "so": "Nil",
+            "Address": "400/9 Jagriti Vihar",
+            "Phone": "Nil"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Rahul Chaudary",
+            "so": "Krishan Pal",
+            "Address": "665/9 Jagriti Vihar ",
+            "Phone": "9808532313"
+          },
+          {
+            "Name": "Dr. Adesh Gor",
+            "so": "Nil",
+            "Address": "664/9 Jagriti Vihar",
+            "Phone": "9897757085"
+          },
+          {
+            "Name": "Rajender Bansal",
+            "so": "Navratan",
+            "Address": "25/2 Somdutt Vihar ",
+            "Phone": "9775024241"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Rahul Kumar Jat",
+            "so": "Jaypal Singh",
+            "Address": "702/9 Jagriti Vihar",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Mahender Singh",
+            "so": "Sita Singh",
+            "Address": "223/9 Jagriti Vihar",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Virender Singh",
+            "so": "Deshraj",
+            "Address": "487/9 Jagriti Vihar",
+            "Phone": "Nil",
+            "Weapon": "Pistol"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Savitri Devi",
+            "so": "Lakhan Singh",
+            "Address": "Sec- 8 Jagriti Vihar",
+            "Phone": "Nil"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Chatar Singh",
+            "so": "Hari Singh",
+            "Address": "HS 6A-1 244/9 Jagriti Vihar Thana Medical Meerut",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Titu",
+            "so": "Ramesh Chand",
+            "Status": "Nil",
+            "4address": "D-11 Kaliyagarhi"
+          },
+          {
+            "Name": "Vikas aka Tinnu",
+            "so": "Kundan",
+            "Status": "Nil",
+            "4address": "38/7 Jagriti Vihar"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Pramod",
+            "so": "Rambhajan",
+            "crimeno": "652/13",
+            "Section": "294/376/511/301/120B ipc",
+            "Address": "Rajvansh Vihar"
+          },
+          {
+            "Name": "Ranjit",
+            "so": "Horam",
+            "crimeno": "25/16",
+            "Section": "302 ipc",
+            "Address": "Rajvansh Viha"
+          },
+          {
+            "Name": "Deepak",
+            "so": "Mangu Singh",
+            "crimeno": "114/11",
+            "Section": "25/4 A ACT",
+            "Address": "Machera Kithor"
+          },
+          {
+            "Name": "Ankit",
+            "so": "Rajender",
+            "crimeno": "115/11",
+            "Section": "25/4 A ACT",
+            "Address": "Mahemudpur Babugarh Gaziabad"
+          },
+          {
+            "Name": "Neeraj Bhati",
+            "so": "Vidiya Bhanu",
+            "crimeno": "174/15",
+            "Section": "25/4 A ACT",
+            "Address": "Bhumma Mirapur Modinagar"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "boundDownUnder": "Nil",
+        "vulnerabilityDetails": "Gernal",
+        "warrantedCriminals": [
+          {
+            "Name": "Lavkush aka Yadhuvender",
+            "so": "Jaynand Singh",
+            "Address": "V-59 Taxila Colony Meerut",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "MD-17",
+        "stationName": "Sidharth Vidyalaya Kaliyagarhi",
+        "latitude": "28.9545",
+        "longitude": "77.7496",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "5270",
+        "voters": "2160",
+        "villageMohalla": "Kaliyagarhi 2, 3, 4, 5",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Ramesh Giri",
+            "so": "l/o Chanva Giri",
+            "Address": "580 Kaliyagarhi",
+            "Phone": "9927202636"
+          },
+          {
+            "Name": "Praveen Kumar",
+            "so": "Madan Lal Sharma ",
+            "Address": "81/D Kaliyagarhi",
+            "Phone": "9411666892"
+          },
+          {
+            "Name": "Shripal",
+            "so": "Shri Chunni Lal",
+            "Address": "707/ A/6 Jagriti Vihar ",
+            "Phone": "9359065992"
+          },
+          {
+            "Name": "Shrimati Savitri Devi",
+            "so": "Lakhan Singh",
+            "Address": "sec-8 Jagriti Vihar",
+            "Phone": "8126541805"
+          },
+          {
+            "Name": "Shriviraj Sing",
+            "so": "Shri Dhanshyam Singh",
+            "Address": "sec-7 Jagriti Vihar",
+            "Phone": "8954244445"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Shripal",
+            "so": "l/o shri chunni lal",
+            "Address": "707 A/6 Jagriti Vihar",
+            "Phone": "9359065992"
+          },
+          {
+            "Name": "Vir Singh",
+            "2Do": "Shri Padam Singh",
+            "Address": "L 161 Shastri Nagar",
+            "Phone": "9897631689"
+          },
+          {
+            "Name": "Varun Thapar",
+            "so": "K.P. Thapar",
+            "Address": "Nil",
+            "Phone": "9897866618"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Bhagvat Giri",
+            "so": "l/o Chanva Giri",
+            "Address": "580 Kaliyagadi",
+            "Phone": "9927202636"
+          },
+          {
+            "Name": "Ramesh Giri",
+            "so": "l/o Chanva Giri",
+            "Address": "580 Kaliyagadi",
+            "Phone": "Nil"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Mukesh Kumar",
+            "so": "Shri Bule Singh",
+            "Address": "Nil",
+            "Phone": "9760086250",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Veer Singh",
+            "2Do": "Shri Padam Singh",
+            "Address": "Nil",
+            "Phone": "9897631689",
+            "Weapon": "Revolver"
+          },
+          {
+            "Name": "Varun Thappar",
+            "so": "K.P. Thappar",
+            "Address": "Nil",
+            "Phone": "9897866618",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Rohtash Kumar",
+            "so": "Shri Murali Singh",
+            "Address": "Nil",
+            "Phone": "9410886654",
+            "Weapon": "DBBL"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Shrimati Savitri Devi",
+            "so": "Lakhan Singh",
+            "Address": "sec-8 Jagriti Vihar (sabhasad)",
+            "Phone": "8126541805"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Babu",
+            "so": "Harpal",
+            "Address": "HS 14A Kaliyagarhi",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Status": "Nil",
+            "4address": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Bhanu",
+            "so": "Lakshmi Singh",
+            "crimeno": "683/14",
+            "Section": "379/411 IPC",
+            "Address": "Kabatta Kharkhoda"
+          },
+          {
+            "Name": "Bittu",
+            "so": "Mansharam",
+            "crimeno": "683/15",
+            "Section": "379/411 IPC",
+            "Address": "Sival Bhavanpur"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "boundDownUnder": "Nil",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "MD-18",
+        "stationName": "AIM Academy Damodar Colony",
+        "latitude": "28.9622",
+        "longitude": "77.7454",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "4500",
+        "voters": "3000",
+        "villageMohalla": "Ambedkar Nagar, Damodar Colony, Premprayag , Moti Prayag, Honney Golf",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Vinod Kumar Goyal",
+            "so": "Rameshvar Dayal Goyal",
+            "Address": "B-1 Damodar Colony",
+            "Phone": "9412356858"
+          },
+          {
+            "Name": "Rajveer Singh",
+            "so": "Nil",
+            "Address": "Janakpuri",
+            "Phone": "9837342512"
+          },
+          {
+            "Name": "Dinath",
+            "so": "Nil",
+            "Address": "Damodar Colony",
+            "Phone": "9557361553"
+          },
+          {
+            "Name": "Dr. Sohan lal Kartam",
+            "so": "Nil",
+            "Address": "Ambedkarnagar",
+            "Phone": "8909762100"
+          },
+          {
+            "Name": "Manoj sharma",
+            "so": "Nil",
+            "Address": "Damodar Colony",
+            "Phone": "9286992507"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Dr. Sohan Lal Kartam",
+            "so": "Nil",
+            "Address": "Ambedkar Nagar",
+            "Phone": "8909762100"
+          },
+          {
+            "Name": "Harikrishan Vasisth",
+            "so": "Nil",
+            "Address": "Damodar Colony",
+            "Phone": "9411265058"
+          },
+          {
+            "Name": "Rakesh Sharma",
+            "so": "Nil",
+            "Address": "Damodar Colony",
+            "Phone": "9837282096"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "V.K. Goyal",
+            "so": "R.D. Goyal",
+            "Address": "B-1 Damodar Colony",
+            "Phone": "Nil"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Dinanith Sharma",
+            "so": "l/o Shri Mamuli Prasad",
+            "Address": "62/60 Premprayag Colony",
+            "Phone": "8979289374",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Himanshu",
+            "so": "Vishal Pal",
+            "Address": "235 Ajanta Colony",
+            "Phone": "9411668530",
+            "Weapon": "DBBL"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Omkar Singh",
+            "so": "Nil",
+            "Address": "Damodar Colony (Mayor)",
+            "Phone": "9917729260"
+          },
+          {
+            "Name": "Sudhir Gautam",
+            "so": "Nil",
+            "Address": "Murgi Farm (former Mayor)",
+            "Phone": "Nil"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Status": "Nil",
+            "4address": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "boundDownUnder": "Nil",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "MD-19",
+        "stationName": "Ucch Prathmik Vidyalaya SarayKazi",
+        "latitude": "28.9456",
+        "longitude": "77.7547",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "5200",
+        "voters": "3280",
+        "villageMohalla": "Saraykazi-1, 2, 3",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Omkar Prazapati",
+            "so": "Nil",
+            "Address": "Jaybhimnagar (sabhasad)",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Jagpal Singh",
+            "so": "Devraj Singh",
+            "Address": "Saraykazi (former Sabhasad)",
+            "Phone": "9837053483"
+          },
+          {
+            "Name": " Dr. Rajveer Singh",
+            "so": "Kale",
+            "Address": "Saraykazi ",
+            "Phone": "9837233668"
+          },
+          {
+            "Name": "Shri Ashok Saine",
+            "so": "Kallu Singh",
+            "Address": "Saraykazi ",
+            "Phone": "9393000594"
+          },
+          {
+            "Name": "Shri Harishchander",
+            "so": "Kallu Singh",
+            "Address": "Saraykazi ",
+            "Phone": "9927709632"
+          },
+          {
+            "Name": "Shri Banarsi Saine",
+            "so": "Banvari",
+            "Address": "Saraykazi ",
+            "Phone": "9525500391"
+          },
+          {
+            "Name": "Dr. Shree Deepak",
+            "so": "Ram Singh",
+            "Address": "Saraykazi ",
+            "Phone": "9412703442"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Ram Singh",
+            "so": "l/o Ramchander",
+            "Address": "Saraykazi(Edu Dept.)",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Ramdev",
+            "so": "l/o Ramchander",
+            "Address": "Saraykazi(Edu Dept.)",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Rakesh Sharma",
+            "so": "l/o Jagna",
+            "Address": "Saraykazi(U.P.Police)",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Vijaypal ",
+            "so": "Tulsa Ram",
+            "Address": "Saraykazi(Vet.)",
+            "Phone": "Nil"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Gangasharan",
+            "so": "Surate Singh",
+            "Address": "Saraykazi",
+            "Phone": "7520907696"
+          },
+          {
+            "Name": "Dharmpal",
+            "so": "Tejram",
+            "Address": "Saraykazi",
+            "Phone": "9756997537"
+          },
+          {
+            "Name": "Rajpal",
+            "so": "Harchander",
+            "Address": "Saraykazi",
+            "Phone": "9528505090"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Padam Singh",
+            "so": "Prahalad",
+            "Address": "Saraykazi",
+            "Phone": "Nil",
+            "Weapon": "SBBL"
+          },
+          {
+            "Name": "Ashok Saine",
+            "so": "Kallu",
+            "Address": "Saraykazi",
+            "Phone": "9319300594",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Ravinder Kumar",
+            "so": "Kamal Singh",
+            "Address": "Saraykazi",
+            "Phone": "9568229897",
+            "Weapon": "Rifle"
+          },
+          {
+            "Name": "Somnath",
+            "so": "Kallu",
+            "Address": "Saraykazi",
+            "Phone": "8958252868",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Sulekh Chand",
+            "so": "Kalicharan",
+            "Address": "Saraykazi",
+            "Phone": "Nil",
+            "Weapon": "SBBL"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Omkar Singh",
+            "so": "Nil",
+            "Address": "Saraykazi",
+            "Phone": "7520907696"
+          },
+          {
+            "Name": "Dr. Rajveer Singh",
+            "so": "pur Kale Singh",
+            "Address": "Saraykazi",
+            "Phone": "9837233668"
+          },
+          {
+            "Name": "Jagpal Singh (former Mayor)",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "9837053483"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Subhash",
+            "so": "Changa",
+            "Address": "Saraykazi",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Status": "Nil",
+            "4address": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Sunny aka Satish",
+            "so": "Surajmal",
+            "crimeno": "53/14",
+            "Section": "25A Act",
+            "Address": "Jalalpur Kharkhoda"
+          },
+          {
+            "Name": "Jonny",
+            "so": "Omprakash",
+            "crimeno": "54/14",
+            "Section": "25A Act",
+            "Address": "Sarava Kharkhoda Meerut"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "boundDownUnder": "Nil",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "MD-20",
+        "stationName": "Modern Public School Shastri Nagar L Block",
+        "latitude": "28.9497",
+        "longitude": "77.7268",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "2800",
+        "voters": "1350",
+        "villageMohalla": "Shastri Nagar L-block 1, 2, 3",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Sumit Gupta",
+            "so": "Dinesh Gupta",
+            "Address": "L-13 Shatri Nagar",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Sonu Thakur",
+            "so": "S. S. Rana ",
+            "Address": "129 L Block Shastri Nagar",
+            "Phone": "9410834250"
+          },
+          {
+            "Name": "Ajay Bhatanagar",
+            "so": "Pritam Singh",
+            "Address": "L Block Shastri Nagar",
+            "Phone": "9897980375"
+          },
+          {
+            "Name": "Madan Lal Tomar",
+            "so": "Ramlal Tomar",
+            "Address": "L22 Shastri Nagar",
+            "Phone": "9411819970"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Jitender Kumar Sharma",
+            "so": "Sunder Lal Sharma",
+            "Address": "L 89 Shastri Nagar",
+            "Phone": "8899629696"
+          },
+          {
+            "Name": "Gyaneshwri",
+            "2Do": "Nanak Singh",
+            "Address": "L 161 Shastri Nagar",
+            "Phone": "9456635637"
+          },
+          {
+            "Name": "Pritam Singh",
+            "so": "Genda Singh",
+            "Address": "L 1153 Shastri Nagar ",
+            "Phone": "9412122754"
+          },
+          {
+            "Name": "Police Comissioner Dev Karan Ken",
+            "so": "Dal Chand Ken",
+            "Address": "451 Shastri Nagar ",
+            "Phone": "Nil"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Abhinash Sharma",
+            "so": "Jagdish Prasad Sharma",
+            "Address": "L 20 Shastri Nagar",
+            "Phone": "9997592727"
+          },
+          {
+            "Name": "Madan Lal Tomar",
+            "so": "Ramlal Tomar",
+            "Address": "L 22 Shastri Nagar",
+            "Phone": "9411819970"
+          },
+          {
+            "Name": "Dinesh Kumar Kakkad ",
+            "so": "Balwant Singh",
+            "Address": "L 15 Shastri Nagar",
+            "Phone": "7895353565"
+          },
+          {
+            "Name": " Rajesh Rastogi",
+            "so": "Rajaram Rastogi",
+            "Address": "Dukan Kirane",
+            "Phone": "9557949983"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Jitender",
+            "so": "Sunder Sharma",
+            "Address": "L 89 Shastri Nagar",
+            "Phone": "8899629696",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Gyaneswari",
+            "2Do": "Nanak Singh",
+            "Address": "L 161 Shastri Nagar",
+            "Phone": "9456635637",
+            "Weapon": "Nil"
+          },
+          {
+            "Name": "Sanjeev",
+            "so": "Surender Chand",
+            "Address": "1455 Shastri Nagar",
+            "Phone": "9927207486",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Kuldeep",
+            "so": "Nil",
+            "Address": "L 755",
+            "Phone": "8057000028",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Anuj Vashisth",
+            "so": "Arun Vashisth",
+            "Address": "L 242 Shastri Nagar",
+            "Phone": "9412702573",
+            "Weapon": "Pistol"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Papu Gujar",
+            "so": "Vishamber",
+            "Address": "Nale ki patri Valmiki Basti L-block Shastri Nagar",
+            "Status": "Nil",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Vevek Swami ",
+            "so": "Jitender",
+            "Address": "L-77 Shastri Nagar",
+            "Status": "Nil",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Ashok Kumar",
+            "so": "Chander Singh",
+            "Address": "L-279 Shastri Nagar ",
+            "Status": "Nil",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Sushil",
+            "so": "Nirmal Singh",
+            "Address": "PTS Road Near Bhoot Nath Chauraha",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Gaman Singh",
+            "so": "Suraj Singh",
+            "Status": "Nil",
+            "4address": "L-521 Shastri Nagar"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Abdul",
+            "so": "Rashid ",
+            "crimeno": "559/13",
+            "Section": "392Bhadvi",
+            "Address": "Ghante Vali Gali Lisadi Gate"
+          },
+          {
+            "Name": "Sonu",
+            "so": "Shahabudin",
+            "crimeno": "559/13",
+            "Section": "392Bhadvi",
+            "Address": "st. 6  Ghante Vali Gali Lisadi Gate"
+          },
+          {
+            "Name": "Chote",
+            "so": "Yunus",
+            "crimeno": "802/13",
+            "Section": "354/354K Bhadvi",
+            "Address": "New Islam Nagar Lisadi Gate"
+          },
+          {
+            "Name": "Bolu",
+            "so": "Rahisudin",
+            "crimeno": "802/13",
+            "Section": "354/354K Bhadvi",
+            "Address": "New Islam Nagar"
+          },
+          {
+            "Name": "Ashish",
+            "so": "Ashu Datak",
+            "crimeno": "449/14 ",
+            "Section": "498A/ 3045V Bhadvi3/4 D ACT",
+            "Address": "571/6 Jagririti Vihar"
+          },
+          {
+            "Name": "Rishi Dhavan",
+            "so": "Nirmal",
+            "crimeno": "461/14 ",
+            "Section": "452/323/506 Bhadvi",
+            "Address": "Thappar Nagar Sasdar Bazar"
+          },
+          {
+            "Name": "Bhullan",
+            "so": "Ramchander",
+            "crimeno": "461/14 ",
+            "Section": "452/323/506 Bhadvi",
+            "Address": " Lalamahmoodpur Kanker Kheda"
+          },
+          {
+            "Name": "Akhlak ",
+            "so": "Sokat",
+            "crimeno": "481/14",
+            "Section": "392/411 Bhadvi",
+            "Address": "Kunjan Thana Sardhana"
+          },
+          {
+            "Name": "Jitender",
+            "so": "Ramshingh",
+            "crimeno": "481/14",
+            "Section": "392/411 Bhadvi",
+            "Address": "Kaserukheeda Lalkurti"
+          },
+          {
+            "Name": "Yaseen",
+            "so": "Abdul Raheman",
+            "crimeno": "483/14",
+            "Section": "379/411 Bhadvi",
+            "Address": "Chamda Paith Jakir Colony Meerut"
+          },
+          {
+            "Name": "Gulfam",
+            "so": "Munnu",
+            "crimeno": "496/14 ",
+            "Section": "294Bhadvi",
+            "Address": "1289 Jakir Colony Lisadi Gate"
+          },
+          {
+            "Name": "Dharmveer",
+            "so": "Jaychand",
+            "crimeno": "171/15",
+            "Section": "13G ACT",
+            "Address": "St.7 Shergadi"
+          },
+          {
+            "Name": "Dhanshyam",
+            "so": "Jaychand",
+            "crimeno": "168/16 ",
+            "Section": "323/325bhadvi",
+            "Address": "K-3 2199 ShastriNagar"
+          },
+          {
+            "Name": "Jayprakash",
+            "so": "Jaychand",
+            "crimeno": "168/16 ",
+            "Section": "323/325bhadvi",
+            "Address": "K-3 2199 ShastriNagar"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "boundDownUnder": "Nil",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "MD-21",
+        "stationName": "Ismile National Girls Inter College Shastri Nagar L Block",
+        "latitude": "28.9478",
+        "longitude": "77.7291",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "3200",
+        "voters": "1800",
+        "villageMohalla": "Shastri Nagar L-4,5,6,7, Sec-13 Shastri Nagar, L-block 8 Shastri Nagar, Police Prashiskshan Vidyalaya",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Anil Tyagi ",
+            "so": "Ramsaya Tyagi",
+            "Address": "L 638",
+            "Phone": "9760185550"
+          },
+          {
+            "Name": "Ramnarayan",
+            "so": "Poti Lal",
+            "Address": "L 640 ",
+            "Phone": "9917831351"
+          },
+          {
+            "Name": "Dharmveer Singh",
+            "so": "Khachdu Singh",
+            "Address": "L650 Shastri Nagar",
+            "Phone": "6536528140"
+          },
+          {
+            "Name": "Pankaj Katira",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "9897648842"
+          },
+          {
+            "Name": "Jitender Kumar Sharma",
+            "so": "Sunder Lal Sharma",
+            "Address": "L89 Shastri Nagar",
+            "Phone": "8899629696"
+          },
+          {
+            "Name": "Gyanshevari",
+            "2Do": "Nanak Singh",
+            "Address": "L 161 Shastri Nagar ",
+            "Phone": "9456035637 "
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Gyanshevari",
+            "2Do": "Nanak Singh",
+            "Address": "L 161 Shastri Nagar ",
+            "Phone": "9456035637"
+          },
+          {
+            "Name": "Cornel Svai Singh",
+            "so": "Kachedu Singh",
+            "Address": "L 693 Shastri Nagar ",
+            "Phone": "9456830693"
+          },
+          {
+            "Name": "Gulveer Singh",
+            "so": "Vijay Pal Singh",
+            "Address": "L- 406",
+            "Phone": "9897551554"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Sant Ram",
+            "so": "Kishori Lal",
+            "Address": "L- 642 Shastri Nagar",
+            "Phone": "9012804320"
+          },
+          {
+            "Name": "Bachhe Singh",
+            "so": "Belam Singh",
+            "Address": "L-424 Shastri Nagar",
+            "Phone": "9457213622"
+          },
+          {
+            "Name": "Pradeep Kumar",
+            "so": "Shyam Prakash",
+            "Address": "L 422",
+            "Phone": "9456090484"
+          },
+          {
+            "Name": "Rakesh Kumar Sharma",
+            "so": "Shivdath Sharma",
+            "Address": "L 708 ",
+            "Phone": "9412505609"
+          },
+          {
+            "Name": "Singh Pal Singh",
+            "so": "Rajsingh ",
+            "Address": "L- 698",
+            "Phone": "9456654200"
+          },
+          {
+            "Name": "Anil Tyagi",
+            "so": "Ramasre Tyagi",
+            "Address": "L- 638 ",
+            "Phone": "9760185550"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Bhushan",
+            "so": "Ramchander",
+            "Address": "L 669 Shastri Nagar",
+            "Phone": "9627270006",
+            "Weapon": "Rifle"
+          },
+          {
+            "Name": "Cornel Sivai Singh",
+            "2Do": "Khachedu Singh",
+            "Address": "L 693 Shastri Nagar",
+            "Phone": "9456830693 ",
+            "Weapon": "Rifile"
+          },
+          {
+            "Name": "Jitender Kumar Sharma",
+            "so": "Sunder Lal Sharma",
+            "Address": "L 89 Shastri Nagar",
+            "Phone": "8899629696 ",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Sanjeev ",
+            "so": "Suresh Chand",
+            "Address": "L- 1445",
+            "Phone": "9927027486",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Kuldeep",
+            "so": "Dharmveer",
+            "Address": "L-755 Shastri Nagar",
+            "Phone": "8057000028",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Sandeep Sharma ",
+            "so": "Rajender Sharma",
+            "Address": "L-691 Shastri Nagar",
+            "Phone": "9897900913  ",
+            "Weapon": "Revolver"
+          },
+          {
+            "Name": "Anuj Vashisth",
+            "so": "Arun Vashisth",
+            "Address": "L 242 Shastri Nagar",
+            "Phone": "9412702573",
+            "Weapon": "Pistol"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Pankaj katira",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "9697648842"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Papu Gujar",
+            "so": "Vishamber",
+            "Address": "Nale ki patri Valmiki Basti L-block Shastri Nagar",
+            "Status": "Nil",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Vevek Swami ",
+            "so": "Jitender",
+            "Address": "L-77 Shastri Nagar",
+            "Status": "Nil",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Ashok Kumar",
+            "so": "Chander Singh",
+            "Address": "L-279 Shastri Nagar ",
+            "Status": "Nil",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Sushil",
+            "so": "Nirmal Singh",
+            "Address": "PTS Road Near Bhoot Nath Chauraha",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Gaman Singh",
+            "so": "Suraj Singh",
+            "Status": "Nil",
+            "4address": "L-521 Shastri Nagar"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Maharaj",
+            "so": "Mahboob ",
+            "crimeno": "90/14 ",
+            "Section": "25A ACT",
+            "Address": "Fatehulapur Lisadi Gate"
+          },
+          {
+            "Name": "Hasin",
+            "so": "Vasul",
+            "crimeno": "91/14",
+            "Section": "25A ACT",
+            "Address": "Fatehulapur Lisadi Gate"
+          },
+          {
+            "Name": "Mukul",
+            "so": "Krishanpal ",
+            "crimeno": "92/14",
+            "Section": "25A ACT",
+            "Address": "Timkiya Thana Jani"
+          },
+          {
+            "Name": "Kapil",
+            "so": "Anil",
+            "crimeno": "171/14",
+            "Section": "379/411Bhadvi",
+            "Address": "Mulchand Vihar Kasva Thana Khatoli"
+          },
+          {
+            "Name": "Rahul",
+            "so": "Bhaham Singh",
+            "crimeno": "171/14",
+            "Section": "379/411Bhadvi",
+            "Address": "Pipheda Thana Khatoli"
+          },
+          {
+            "Name": "Vinit Chaprana",
+            "so": "Ranjit",
+            "crimeno": "417/14",
+            "Section": "427/504/506/307 Bhadvi",
+            "Address": "Thappar Nagar Sasdar Bazar"
+          },
+          {
+            "Name": "Neeraj Bhati",
+            "so": "Rmaesh Bati",
+            "crimeno": "461/14 ",
+            "Section": "427/504/506/307 Bhadvi",
+            "Address": " Lalamahmoodpur Kanker Kheda"
+          },
+          {
+            "Name": "Balban ",
+            "so": "Kallu",
+            "crimeno": "173/15 ",
+            "Section": "13G ACT",
+            "Address": "Jaalokar thana Kurara Hamirpur"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "boundDownUnder": "Nil",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "MD-22",
+        "stationName": "Sant Vivakanand Inter College Shastri Nagar",
+        "latitude": "28.9598",
+        "longitude": "77.7393",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "1500",
+        "voters": "900",
+        "villageMohalla": "Shastri Nagarb L block, Tarukunj",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Rajesh Sasexna",
+            "so": "Nil",
+            "Address": "c-91 Shastri Nagar ",
+            "Phone": "9897755077"
+          },
+          {
+            "Name": "M.L. Sant",
+            "so": "Nil",
+            "Address": "c-65 Shastri Nagar ",
+            "Phone": "9058801457"
+          },
+          {
+            "Name": "Rajender Singh",
+            "so": "Nil",
+            "Address": "c-43 Shastri Nagar",
+            "Phone": "9412206942"
+          },
+          {
+            "Name": "Inderjeet Singh",
+            "so": "Nil",
+            "Address": " c-97 Shastri Nagar ",
+            "Phone": "7895959057"
+          },
+          {
+            "Name": "S.P. Tyagi",
+            "so": "Nil",
+            "Address": "c-37 Shastri Nagar",
+            "Phone": "0121-2766127"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "R.A Sharma",
+            "2Do": "Nil",
+            "Address": "c- 149 Shastri Nagar",
+            "Phone": "9411902872"
+          },
+          {
+            "Name": "S.P. Bhandari",
+            "so": "Nil",
+            "Address": "c-155 Shastri Nagar",
+            "Phone": "9456035836"
+          },
+          {
+            "Name": "J.G. Goad",
+            "so": "Nil",
+            "Address": "C-157 Shastri Nagar ",
+            "Phone": "9456261370"
+          },
+          {
+            "Name": "J.C. Sharda ",
+            "so": "Nil",
+            "Address": "c-161 Shastri Nagar",
+            "Phone": "9358421145"
+          },
+          {
+            "Name": "Pradeep Arora",
+            "so": "Nil",
+            "Address": "c-167 Shastri Nagar",
+            "Phone": "9697654576"
+          },
+          {
+            "Name": "Nene Singh Dhamah",
+            "so": "Nil",
+            "Address": "c-169 Shastri Nagar",
+            "Phone": "9634497076"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Dr. Vishal Deep ",
+            "so": "Nil",
+            "Address": "c-2 Shastri Nagar",
+            "Phone": "9412337447"
+          },
+          {
+            "Name": "Mehar Singh Tevatiya",
+            "so": "Nil",
+            "Address": "c-4 Shastri Nagar",
+            "Phone": "9897799793"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Brajpal Singh",
+            "so": "Dalel Singh",
+            "Address": "c-49",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Mahender Singh",
+            "so": "Ram swaroop ",
+            "Address": "c-24",
+            "Phone": "Nil ",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Surajpal",
+            "so": "Ramprasad",
+            "Address": "c-75",
+            "Phone": "Nil ",
+            "Weapon": "SBBL"
+          },
+          {
+            "Name": "Kuvar Pal ",
+            "so": "Ratan Singh",
+            "Address": "c-125",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Surender,",
+            "so": "Sankar Lal",
+            "Address": "c-14",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Ajay Kumar",
+            "so": "Dheeraj Singh",
+            "Address": "c14",
+            "Phone": "Nil  ",
+            "Weapon": "Rifle"
+          },
+          {
+            "Name": "Dr. Sarika Shekhar",
+            "so": "Satish Chander Shekhar ",
+            "Address": "Shastri Nagar",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Status": "Nil",
+            "4address": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Sonu ",
+            "so": "Narayan",
+            "crimeno": "434/13",
+            "Section": "354/506Bhadvi 16/17 POCSO",
+            "Address": "22/3 Jagriti Vihar"
+          },
+          {
+            "Name": "Narayan  ",
+            "so": "Nirmal ",
+            "crimeno": "434/13",
+            "Section": "354/506Bhadvi 16/17 POCSO",
+            "Address": "27/3 Jagriti Vihar"
+          },
+          {
+            "Name": "Kaptaan ",
+            "so": "Ikbal",
+            "crimeno": "512/13",
+            "Section": "25A ACT",
+            "Address": "Sarangpur Kithor"
+          },
+          {
+            "Name": "Pawan  ",
+            "so": "Dharmveer ",
+            "crimeno": "513/13",
+            "Section": "25/4A ACT",
+            "Address": "Sarangpur Kithor"
+          },
+          {
+            "Name": "Kaptaan   ",
+            "so": "Ikbal  ",
+            "crimeno": "514/13",
+            "Section": "420/467/468/411/414/41/102 IPC",
+            "Address": "Alipur Morena Hastinapur"
+          },
+          {
+            "Name": "Pawan ",
+            "so": "Dharmveer ",
+            "crimeno": "514/13",
+            "Section": "420/467/468/411/414/41/102 IPC",
+            "Address": "Alipur Morena Hastinapur"
+          },
+          {
+            "Name": "Pramod ",
+            "so": "Nil  ",
+            "crimeno": "514/13",
+            "Section": "420/467/468/411/414/41/102 IPC",
+            "Address": "Rohata Road Meerut"
+          },
+          {
+            "Name": "Rihan  ",
+            "so": "Pesanbaz ",
+            "crimeno": "426/14",
+            "Section": "354/354 G Bhadvi 17/18 POCSO",
+            "Address": "sec-11 Shastri Nagar"
+          },
+          {
+            "Name": "Surender",
+            "so": "JaySingh  ",
+            "crimeno": "602/14",
+            "Section": "25 ARMS ACT",
+            "Address": "Nayi Basti T.P. Nagar"
+          },
+          {
+            "Name": "Kuldeep",
+            "so": "Rakesh",
+            "crimeno": "208/15",
+            "Section": "13G ACT",
+            "Address": "20/9 Jagriti Vihar"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "boundDownUnder": "Nil",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      }
+    ]

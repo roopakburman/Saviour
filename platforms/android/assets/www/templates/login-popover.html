@@ -1,0 +1,19 @@
+<ion-modal-view>
+  <ion-header-bar class="bar bar-header bar-assertive">
+    <h2 class="title">Login: Saviour</h2>
+    <button class="button button-clear" ng-click="closeModal()"><i class="icon ion-ios-close-outline"></i></button>
+  </ion-header-bar>
+  <ion-content class="padding">
+    <div class="list">
+      <label class="item item-input">
+        <input type="text" placeholder="Username" ng-model="data.username">
+      </label>
+      <label class="item item-input">
+        <input type="password" placeholder="Password" ng-model="data.password">
+      </label>
+      <button class="button button-block button-assertive" ng-click="login(data.username); closeModal(); showConfirm(data.username);">LOGIN</button>
+    </div>
+  </ion-content>
+</ion-modal-view>
+
+<!-- ui-sref="#/menu/tab/buttons" -->

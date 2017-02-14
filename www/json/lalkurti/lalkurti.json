@@ -1,0 +1,4459 @@
+[
+      {
+        "stationID": "LK-01",
+        "stationName": "Community Hall Lakeha Nagar",
+        "latitude": "29.012780",
+        "longitude": "77.709921",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "Nil",
+        "voters": "1100",
+        "villageMohalla": "Lakeha Nagar ",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Vipin Sodhi",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "9756205521"
+          },
+          {
+            "Name": "Shipra Rastogi",
+            "so": "Sudher Rastogi",
+            "Address": "Rajban P/s Sadar Bazar",
+            "Phone": "9719016892"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Anand Prakash ",
+            "so": "Kanhaya Lal",
+            "Address": "Lekhanagar",
+            "Phone": "9457935527"
+          },
+          {
+            "Name": "Ramveer Singh",
+            "so": "Laxman Singh",
+            "Address": "Lekhanagar",
+            "Phone": "9457419458"
+          },
+          {
+            "Name": "Denish Ray",
+            "so": "Satya Narayan Ray",
+            "Address": "Lekhanagar",
+            "Phone": "9997286364"
+          },
+          {
+            "Name": "Anil Yadav",
+            "so": "Chote Lal Yadav",
+            "Address": "Lekhanagar",
+            "Phone": "9457861104"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Ravindera Kumar Singh",
+            "so": "Nil",
+            "Address": "Lakeha Nagar",
+            "Phone": "Nil",
+            "Weapon": "REVOLVER"
+          },
+          {
+            "Name": "Ishwer Singh",
+            "so": "Nil",
+            "Address": "Lakeha Nagar",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Bhupendra Singh",
+            "so": "Nil",
+            "Address": "Lakeha Nagar",
+            "Phone": "Nil",
+            "Weapon": "PISTOL"
+          },
+          {
+            "Name": "Sheq Faiudeen ",
+            "so": "Washisuddin ",
+            "Address": "Lakeha Nagar",
+            "Phone": "Nil",
+            "Weapon": "RIFLE"
+          },
+          {
+            "Name": "Shekh Jamiludeen",
+            "so": "Nil",
+            "Address": "Lakeha Nagar",
+            "Phone": "Nil",
+            "Weapon": "RIFLE,SBBL"
+          },
+          {
+            "Name": "Mujjaferdeen",
+            "so": "Wasirudeen",
+            "Address": "Lakeha Nagar",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Jyashudeen",
+            "so": "Sahrijaha",
+            "Address": "Lakeha Nagar",
+            "Phone": "Nil",
+            "Weapon": "RIFLE"
+          },
+          {
+            "Name": "Jitendra Kumar ",
+            "so": "Chirangi Lal",
+            "Address": "Lakeha Nagar",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Gulam Mohd.",
+            "so": "K.v Hazi Vahirudeen",
+            "Address": "Lakeha Nagar",
+            "Phone": "Nil",
+            "Weapon": "RIFLE"
+          },
+          {
+            "Name": "Rakesh Kumar Sharma",
+            "so": "Jayenti Prakash Sharma",
+            "Address": "Lakeha Nagar",
+            "Phone": "Nil",
+            "Weapon": "SBBL"
+          },
+          {
+            "Name": "Ram Kumar Das",
+            "so": "Ram Badan",
+            "Address": "Lakeha Nagar",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Meenakshi Kaushal",
+            "so": "D/o V.k Kaushal",
+            "Address": "123 Roorkee Road",
+            "Phone": "Nil",
+            "Weapon": "REVOLVER"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Vipin Sodhi",
+            "so": "Sabasadh ",
+            "Address": "Lekha Nagar",
+            "Phone": "9756205521"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "crimeno": "Nil",
+            "section": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Vipin Sodhi ",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "9756205521"
+          },
+          {
+            "Name": "Shipra Rastogi",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "9719016892"
+          }
+        ],
+        "boundDownUnder": "Nil",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "LK-02",
+        "stationName": "Primary School R.A Bajar",
+        "latitude": " 29.0013",
+        "longitude": " 77.4324",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "Nil",
+        "voters": "5481",
+        "villageMohalla": "Juggi Tophkahana, R.a Bajar 1, R.a Bajar 2, R.a Bajar3, R.h.a Line, Chandigarh Line, S.r.c Line, R.a Line, Toph Kahana 2",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Rakesh Yadav ",
+            "so": "Vishumbar Das Yadav",
+            "Address": "Tophkahana ",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Sunny Yadav",
+            "so": "K.p Singh Yadav",
+            "Address": "Tophkahana ",
+            "Phone": "7088610579"
+          },
+          {
+            "Name": "Sartaj",
+            "so": "Raj Bhadur",
+            "Address": "Tophkahana ",
+            "Phone": "9359384429"
+          },
+          {
+            "Name": "Harsih Var",
+            "so": "Ram Prasad Yadav",
+            "Address": "Tophkahana ",
+            "Phone": "9412096970"
+          },
+          {
+            "Name": "Saleem",
+            "so": "Hazi Samshad Ahmed",
+            "Address": "Tophkahana ",
+            "Phone": "Nil"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Devki Nandan Mittal",
+            "so": "Nil",
+            "Address": "Tophkahana",
+            "Phone": "0121 2640261"
+          },
+          {
+            "Name": "Prakesh Chand Kanojia",
+            "so": "Nil",
+            "Address": "Tophkahana",
+            "Phone": "9456040527"
+          },
+          {
+            "Name": "Shubash Chand Sharam",
+            "so": "Nil",
+            "Address": "Tophkahana",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Verendra Avasthi",
+            "so": "Nil",
+            "Address": "Punjab Line",
+            "Phone": "9475630262"
+          },
+          {
+            "Name": "Suman Verma",
+            "so": "Nil",
+            "Address": "Tophkahana",
+            "Phone": "9412784854"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Sanjay Bhatiya",
+            "so": "Raj Kumar Bhatiya",
+            "Address": "Top Khana",
+            "Phone": "9456259987"
+          },
+          {
+            "Name": "Sanjay Seghal",
+            "so": "Madan Mohan Deewan",
+            "Address": "Top Khana",
+            "Phone": "8859321354"
+          },
+          {
+            "Name": "Umesh",
+            "so": "Chunni Lal",
+            "Address": "Top Khana",
+            "Phone": "7252077093"
+          },
+          {
+            "Name": "Gagan",
+            "so": "Mohan Lal",
+            "Address": "Top Khana",
+            "Phone": "7351146255"
+          },
+          {
+            "Name": "Yogesh",
+            "so": "Manfool Singh",
+            "Address": "Top Khana",
+            "Phone": "7351865187"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Lata Kumari",
+            "so": "Dalveer Singh",
+            "Address": "R.a Bajar",
+            "Phone": "Nil",
+            "Weapon": "PISTOL"
+          },
+          {
+            "Name": "Vijay Pal Jain",
+            "so": "Narendra Kumar Jain",
+            "Address": "91 Top Khana Bazar",
+            "Phone": "Nil",
+            "Weapon": "REVOLVER"
+          },
+          {
+            "Name": "Chandraveer",
+            "so": "Badan Singh",
+            "Address": "R.a Bajar",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Upendra Nath Pandey",
+            "so": "Sarabjeet Pandey",
+            "Address": "134 Main Bazar Top Khana",
+            "Phone": "Nil",
+            "Weapon": "RIFLE"
+          },
+          {
+            "Name": "Nitish Goyal",
+            "so": "Avnish Goyal",
+            "Address": "R/a Bazar Top Khana",
+            "Phone": "Nil",
+            "Weapon": "PISTOL"
+          },
+          {
+            "Name": "Rotash Chauhan",
+            "so": "Hari Dutt Chauhan",
+            "Address": "Top Khana",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Ajam Parvesh Khan",
+            "so": "Wali Mohd.",
+            "Address": "R/a Bazar Top Khana",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Jai Pal ",
+            "so": "Karam Veer Singh",
+            "Address": "R/a Line",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Bhagwan Prem Singh",
+            "so": "Ram Chandra Singh",
+            "Address": "R/a Bazar Top Khana",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Mahendra Singh Patel",
+            "so": "Sohan Singh",
+            "Address": "Top Khana",
+            "Phone": "Nil",
+            "Weapon": "SBBL"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Yogesh Kumar",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "7351865187"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Riney Jain",
+            "so": "Anent Jain Sabhasadh",
+            "Address": "Tophkahana Bajar",
+            "Phone": "9837055665"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Sanjay Aka Vishal",
+            "so": "Rajendra Aka Verender",
+            "Address": "Top Khana",
+            "Status": "Present ",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Rotash ",
+            "so": "Phagu Lal",
+            "Address": "Top Khana",
+            "Status": "Missing",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Devendra",
+            "so": "Ranveer Singh",
+            "Address": "Ganga Nagar",
+            "Status": "Present ",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "crimeno": "Nil",
+            "section": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Arpit",
+            "so": "Pappu Ram",
+            "crimeno": "297/15",
+            "Section": "392 IPC",
+            "Address": "Chilora P/S Bhawan Pur"
+          },
+          {
+            "Name": "Ravi",
+            "so": "Rakesh",
+            "crimeno": "297/15",
+            "Section": "392 IPC",
+            "Address": "Masoori P/s Incholi Meerut"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Riney Jain",
+            "so": "Nil",
+            "Address": "Tophkahana",
+            "Phone": "9837055665"
+          },
+          {
+            "Name": "Anant Jain ",
+            "so": "Nil",
+            "Address": "Tophkahana",
+            "Phone": "9837055665"
+          }
+        ],
+        "boundDownUnder": "08",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "LK-03",
+        "stationName": "Primary Vidjhyala B.I Bazar",
+        "latitude": "29.000935",
+        "longitude": " 77.713984",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "Nil",
+        "voters": "2124",
+        "villageMohalla": "Ghosi Mohalla 1,2,3",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Ajmal Kamal ",
+            "so": "Nil",
+            "Address": "Gosi Mohalla",
+            "Phone": "9358423919"
+          },
+          {
+            "Name": "Bushara Kamal Sabasad",
+            "so": "W/o Ajmal Kamal",
+            "Address": "Gosi Mohalla",
+            "Phone": "9358423919"
+          },
+          {
+            "Name": "Yogesh Yadav",
+            "so": "Nil",
+            "Address": "Gosi Mohalla",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Geyaudeen",
+            "so": "Nil",
+            "Address": "Gosi Mohalla",
+            "Phone": "8881920478"
+          },
+          {
+            "Name": "Rajan",
+            "so": "Nil",
+            "Address": "Gosi Mohalla",
+            "Phone": "8941889635"
+          },
+          {
+            "Name": "Ajmal Kamal Poorv Sabasad",
+            "so": "Nil",
+            "Address": "Gosi Mohalla",
+            "Phone": "9358423919"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Faruq ",
+            "so": "Jamal ",
+            "Address": "Gosi Mohalla",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Giyashudeen ",
+            "so": "Waheuddin",
+            "Address": "Gosi Mohalla",
+            "Phone": "9358787324"
+          },
+          {
+            "Name": "Jiyaudeen ",
+            "so": "Mohd. Ishaq",
+            "Address": "Gosi Mohalla",
+            "Phone": "8881920478"
+          },
+          {
+            "Name": "Noor Mohd.",
+            "so": "Habib",
+            "Address": "Gosi Mohalla",
+            "Phone": "7861113055"
+          },
+          {
+            "Name": "Rajan ",
+            "so": "Mitthan",
+            "Address": "Gosi Mohalla",
+            "Phone": "8941889635"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Himmat Ram",
+            "so": "Roop Chand",
+            "Address": "Gosi Mohalla",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Prabhat Gupta",
+            "so": "Narendra Gupta",
+            "Address": "Gosi Mohalla",
+            "Phone": "Nil",
+            "Weapon": "REVOLVER"
+          },
+          {
+            "Name": "Karan Veer",
+            "so": "Ujagar Singh",
+            "Address": "Gosi Mohalla",
+            "Phone": "Nil",
+            "Weapon": "REVOLVER"
+          },
+          {
+            "Name": "Sayyad Hifajaat Ali",
+            "so": "Manjoor Ali",
+            "Address": "Gosi Mohalla",
+            "Phone": "Nil",
+            "Weapon": "PISTOL"
+          },
+          {
+            "Name": "Raj Kumar Chaudhary",
+            "so": "Kishan Chand",
+            "Address": "Gosi Mohalla",
+            "Phone": "Nil",
+            "Weapon": "RIFLE"
+          },
+          {
+            "Name": "Shaafaqat Ali Chauhan",
+            "so": "Kumar Shaaukat Ali",
+            "Address": "Gosi Mohalla",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Sunil Kohli",
+            "so": "Murq Raj Kohli",
+            "Address": "Gosi Mohalla",
+            "Phone": "Nil",
+            "Weapon": "REVOLVER"
+          },
+          {
+            "Name": "Abdul",
+            "so": "Abdul Kadir",
+            "Address": "Gosi Mohalla",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Saurav",
+            "so": "Mool Chand",
+            "Address": "Gosi Mohalla",
+            "Phone": "Nil",
+            "Weapon": "RIFLE"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Sandeep Kumar",
+            "so": "Nil",
+            "Address": "Gosi Mohala ",
+            "Phone": "7251927258"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Gussara Kamal",
+            "so": "Sabhasadh",
+            "Address": "Gosi Mohalla",
+            "Phone": "9358423919"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Anish ",
+            "so": "Rashid",
+            "Address": "Gosi Mohalla",
+            "Status": "Present ",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Bunty Parcha",
+            "so": "Senser Pal",
+            "Address": "Gosi Mohalla",
+            "Status": "Missing",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Mantu Battak",
+            "so": "Mamchand",
+            "Address": "Gosi Mohalla",
+            "Status": "Present ",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Chotu ",
+            "so": "Bhondu",
+            "Address": "Gosi Mohalla",
+            "Status": "Present ",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Vinod ",
+            "so": "Chatru ",
+            "Address": "Gosi Mohalla",
+            "Status": "Missing",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "crimeno": "Nil",
+            "section": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Maushin ",
+            "so": "Mustafa",
+            "crimeno": "359/12",
+            "Section": "302 ipcVa 3(2)5 SC/ST ACT",
+            "Address": "Goshi Mohalla"
+          },
+          {
+            "Name": "Moni/ Vashim",
+            "so": "Saleem",
+            "crimeno": "359/12",
+            "Section": "302 ipcVa 3(2)5 SC/ST ACT",
+            "Address": "Goshi Mohalla"
+          },
+          {
+            "Name": "Layek / Guddu ",
+            "so": "Abdul Hamid",
+            "crimeno": "413/12",
+            "Section": "392/411 IPC ",
+            "Address": "Goshi Mohalla"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Busra Kamal ",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "9358423919"
+          }
+        ],
+        "boundDownUnder": "17",
+        "vulnerabilityDetails": "Hyper Sensitive",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "LK-03",
+        "stationName": "Primary Vidjhyala B.I Bazar",
+        "latitude": "29.000935",
+        "longitude": " 77.713984",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "Nil",
+        "voters": "2124",
+        "villageMohalla": "Ghosi Mohalla 1,2,3",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Ajmal Kamal ",
+            "so": "Nil",
+            "Address": "Gosi Mohalla",
+            "Phone": "9358423919"
+          },
+          {
+            "Name": "Bushara Kamal Sabasad",
+            "so": "W/o Ajmal Kamal",
+            "Address": "Gosi Mohalla",
+            "Phone": "9358423919"
+          },
+          {
+            "Name": "Yogesh Yadav",
+            "so": "Nil",
+            "Address": "Gosi Mohalla",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Geyaudeen",
+            "so": "Nil",
+            "Address": "Gosi Mohalla",
+            "Phone": "8881920478"
+          },
+          {
+            "Name": "Rajan",
+            "so": "Nil",
+            "Address": "Gosi Mohalla",
+            "Phone": "8941889635"
+          },
+          {
+            "Name": "Ajmal Kamal Poorv Sabasad",
+            "so": "Nil",
+            "Address": "Gosi Mohalla",
+            "Phone": "9358423919"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Faruq ",
+            "so": "Jamal ",
+            "Address": "Gosi Mohalla",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Giyashudeen ",
+            "so": "Waheuddin",
+            "Address": "Gosi Mohalla",
+            "Phone": "9358787324"
+          },
+          {
+            "Name": "Jiyaudeen ",
+            "so": "Mohd. Ishaq",
+            "Address": "Gosi Mohalla",
+            "Phone": "8881920478"
+          },
+          {
+            "Name": "Noor Mohd.",
+            "so": "Habib",
+            "Address": "Gosi Mohalla",
+            "Phone": "7861113055"
+          },
+          {
+            "Name": "Rajan ",
+            "so": "Mitthan",
+            "Address": "Gosi Mohalla",
+            "Phone": "8941889635"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Himmat Ram",
+            "so": "Roop Chand",
+            "Address": "Gosi Mohalla",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Prabhat Gupta",
+            "so": "Narendra Gupta",
+            "Address": "Gosi Mohalla",
+            "Phone": "Nil",
+            "Weapon": "REVOLVER"
+          },
+          {
+            "Name": "Karan Veer",
+            "so": "Ujagar Singh",
+            "Address": "Gosi Mohalla",
+            "Phone": "Nil",
+            "Weapon": "REVOLVER"
+          },
+          {
+            "Name": "Sayyad Hifajaat Ali",
+            "so": "Manjoor Ali",
+            "Address": "Gosi Mohalla",
+            "Phone": "Nil",
+            "Weapon": "PISTOL"
+          },
+          {
+            "Name": "Raj Kumar Chaudhary",
+            "so": "Kishan Chand",
+            "Address": "Gosi Mohalla",
+            "Phone": "Nil",
+            "Weapon": "RIFLE"
+          },
+          {
+            "Name": "Shaafaqat Ali Chauhan",
+            "so": "Kumar Shaaukat Ali",
+            "Address": "Gosi Mohalla",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Sunil Kohli",
+            "so": "Murq Raj Kohli",
+            "Address": "Gosi Mohalla",
+            "Phone": "Nil",
+            "Weapon": "REVOLVER"
+          },
+          {
+            "Name": "Abdul",
+            "so": "Abdul Kadir",
+            "Address": "Gosi Mohalla",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Saurav",
+            "so": "Mool Chand",
+            "Address": "Gosi Mohalla",
+            "Phone": "Nil",
+            "Weapon": "RIFLE"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Sandeep Kumar",
+            "so": "Nil",
+            "Address": "Gosi Mohala ",
+            "Phone": "7251927258"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Gussara Kamal",
+            "so": "Sabhasadh",
+            "Address": "Gosi Mohalla",
+            "Phone": "9358423919"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Anish ",
+            "so": "Rashid",
+            "Address": "Gosi Mohalla",
+            "Status": "Present ",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Bunty Parcha",
+            "so": "Senser Pal",
+            "Address": "Gosi Mohalla",
+            "Status": "Missing",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Mantu Battak",
+            "so": "Mamchand",
+            "Address": "Gosi Mohalla",
+            "Status": "Present ",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Chotu ",
+            "so": "Bhondu",
+            "Address": "Gosi Mohalla",
+            "Status": "Present ",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Vinod ",
+            "so": "Chatru ",
+            "Address": "Gosi Mohalla",
+            "Status": "Missing",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "crimeno": "Nil",
+            "section": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Maushin ",
+            "so": "Mustafa",
+            "crimeno": "359/12",
+            "Section": "302 ipcVa 3(2)5 SC/ST ACT",
+            "Address": "Goshi Mohalla"
+          },
+          {
+            "Name": "Moni/ Vashim",
+            "so": "Saleem",
+            "crimeno": "359/12",
+            "Section": "302 ipcVa 3(2)5 SC/ST ACT",
+            "Address": "Goshi Mohalla"
+          },
+          {
+            "Name": "Layek / Guddu ",
+            "so": "Abdul Hamid",
+            "crimeno": "413/12",
+            "Section": "392/411 IPC ",
+            "Address": "Goshi Mohalla"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Busra Kamal ",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "9358423919"
+          }
+        ],
+        "boundDownUnder": "17",
+        "vulnerabilityDetails": "Hyper Sensitive",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "LK-04",
+        "stationName": "Cent Jozuf Inter Ccollege",
+        "latitude": "29.333691",
+        "longitude": "77.705851",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "Nil",
+        "voters": "3528",
+        "villageMohalla": "Angla Area, Meda Mohalla, Bank Street, Chappel Street, Kariyapa Street ",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Sunil Vadhava Poorv Sabasad",
+            "so": "Lt. Narayan Das",
+            "Address": "226 Lalkurti",
+            "Phone": "9412781722"
+          },
+          {
+            "Name": "Mohit Anand",
+            "so": "Nil",
+            "Address": "Lalkurti",
+            "Phone": "9412232101"
+          },
+          {
+            "Name": "Veena Vadhava Vartmaan Sabasad",
+            "so": "Sunil Wadhwa",
+            "Address": "226 Lalkurti",
+            "Phone": "9412781722"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Mamchand",
+            "so": "Nil",
+            "Address": "Meda Mohalla",
+            "Phone": "8859817483"
+          },
+          {
+            "Name": "Ratanlal",
+            "so": "Nil",
+            "Address": "Meda Mohalla",
+            "Phone": "7417978789"
+          },
+          {
+            "Name": "Roop Lal Kanojia",
+            "so": "Nil",
+            "Address": "Meda Mohalla",
+            "Phone": "9897541171"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Ram Bhulvan",
+            "so": "Bhagwati Prasad",
+            "Address": "Bank Street",
+            "Phone": "9720945899"
+          },
+          {
+            "Name": "Vijay Sharma",
+            "so": "Hans Raj Sharma",
+            "Address": "Chappel Street",
+            "Phone": "8439486418"
+          },
+          {
+            "Name": "Aman Kumar",
+            "so": "Surendra Kumar Vahel",
+            "Address": "Chappel Street",
+            "Phone": "9045559763"
+          },
+          {
+            "Name": "Ajju ",
+            "so": "Domnic ",
+            "Address": "St. Zuzuf Inter College Compound",
+            "Phone": "9634344174"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Father Jozuf Anthoney",
+            "so": "Nil",
+            "Address": "Sant Jozuf School ",
+            "Phone": "Nil",
+            "Weapon": "PESTEL"
+          },
+          {
+            "Name": "Subash Chand Gupta ",
+            "so": "Ramesh Chand Gupta",
+            "Address": "Maida Mohhala",
+            "Phone": "Nil",
+            "Weapon": "PISTOL"
+          },
+          {
+            "Name": "Ajay Mahajan",
+            "so": "N.p Gupta",
+            "Address": "Maida Mohhala",
+            "Phone": "Nil",
+            "Weapon": "REVOLVER"
+          },
+          {
+            "Name": "Sunita Gupta",
+            "so": "W/o Subash Chand Gupta",
+            "Address": "243/3 Maida Mohalla",
+            "Phone": "Nil",
+            "Weapon": "REVOLVER"
+          },
+          {
+            "Name": "Anup Sethi",
+            "so": "Govind Raj",
+            "Address": "77 Maida Mohalla",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Deepak Mahajan",
+            "so": "Subash Chand Gupta",
+            "Address": "343/3 Maida Mohalla",
+            "Phone": "Nil",
+            "Weapon": "REVOLVER"
+          },
+          {
+            "Name": "Vijay Raja",
+            "so": "Mamta Prasad",
+            "Address": "176 Maida Mohalla",
+            "Phone": "Nil",
+            "Weapon": "DBBL/ REVOLVER"
+          },
+          {
+            "Name": "Haseen Aqtar",
+            "so": "Kamruddin",
+            "Address": "77 Bank Street",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Fardeen Raseed",
+            "so": "Aftab Raseed",
+            "Address": "77 A/77 Bank Street",
+            "Phone": "Nil",
+            "Weapon": "RIFLE/ REVOLVER"
+          },
+          {
+            "Name": "Kansal Kamar Khan",
+            "so": "Abdul Sanaq",
+            "Address": "236/4 Bank Street",
+            "Phone": "Nil",
+            "Weapon": "PISTOL"
+          },
+          {
+            "Name": "Mahesh Kumar Advocate",
+            "so": "Kirpal Singh",
+            "Address": "78 Bank Street",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "D.k ",
+            "so": "K.k Singh",
+            "Address": "108 Nak Street",
+            "Phone": "Nil",
+            "Weapon": "SBBL"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Mohd., Usmaan/ Kallu",
+            "so": "Faruq",
+            "Address": "Maida Mohalla",
+            "Status": "Missing",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "crimeno": "Nil",
+            "section": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Mahaveer",
+            "so": "Laxman",
+            "crimeno": "251/14",
+            "Section": "392,411 IPC",
+            "Address": "Lisadi Gate P/s Lisadi Gate"
+          },
+          {
+            "Name": "Deepak",
+            "so": "Satish",
+            "crimeno": "320/13",
+            "Section": "392,411 IPC",
+            "Address": "Ashok Puri P/s Kanker Kheda"
+          },
+          {
+            "Name": "Sonu",
+            "so": "Rakesh Harijan",
+            "crimeno": "320/13",
+            "Section": "392,411 IPC",
+            "Address": "Mohddinpur P/s Jautodi Muzzafar Nagar"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "boundDownUnder": "05",
+        "vulnerabilityDetails": "Critical",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "LK-05",
+        "stationName": "Raj Kiya Inter College (Govt Inter College GIC )",
+        "latitude": "28.983755",
+        "longitude": "77.704340",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "Nil",
+        "voters": "2685",
+        "villageMohalla": "Begum Bagh , Chakwandi Road , Begum Bagh 2nd",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Renu Gupta  Present Sabasad",
+            "so": "Balraj Gupta",
+            "Address": "Chippi Tank",
+            "Phone": "9837058817"
+          },
+          {
+            "Name": "Balraj Gupta",
+            "so": "Nil",
+            "Address": "Chippi Tank",
+            "Phone": "9837058817"
+          },
+          {
+            "Name": "Neeraj Aggarwal",
+            "so": "Nil",
+            "Address": "Chippi Tank",
+            "Phone": "9368210055"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Ved Prakash": "Triloki Nath Goyal",
+            "Jamna Prasad": "Noniv Ray",
+            "343 (a) Begum Bagh ": "1059 Begum Bagh",
+            "Nil": "Nil",
+            "PISTOL": "DBBL"
+          },
+          {
+            "Ved Prakash": "Dr. Pradeep Kumar",
+            "Jamna Prasad": "Jagdish Chand Gupta",
+            "343 (a) Begum Bagh ": "618 Begum Bagh",
+            "Nil": "Nil",
+            "PISTOL": "REVOLVER"
+          },
+          {
+            "Ved Prakash": "Chaudhary Shiv Charan Singh",
+            "Jamna Prasad": "Ch. Chandan Singh",
+            "343 (a) Begum Bagh ": "8 Begum Bagh",
+            "Nil": "Nil",
+            "PISTOL": "RIFLE"
+          },
+          {
+            "Ved Prakash": "Deepak Singh",
+            "Jamna Prasad": "Dr. Chandra Pal Singh",
+            "343 (a) Begum Bagh ": "Begum Bagh",
+            "Nil": "Nil",
+            "PISTOL": "DBBL"
+          },
+          {
+            "Ved Prakash": "Dinesh Chandra Garg",
+            "Jamna Prasad": "Madan Mohan Garg",
+            "343 (a) Begum Bagh ": "Begum Bagh",
+            "Nil": "Nil",
+            "PISTOL": "SBBL"
+          },
+          {
+            "Ved Prakash": "Prem Kumar Karauli",
+            "Jamna Prasad": "J.n Karauli",
+            "343 (a) Begum Bagh ": "Begum Bagh",
+            "Nil": "Nil",
+            "PISTOL": "DBBL"
+          },
+          {
+            "Ved Prakash": "Vidhya Sagar Deewan",
+            "Jamna Prasad": "Daulat Ram",
+            "343 (a) Begum Bagh ": "Begum Bagh",
+            "Nil": "Nil",
+            "PISTOL": "REVOLVER"
+          },
+          {
+            "Ved Prakash": "Revti Sharan Sharma",
+            "Jamna Prasad": "Hari Ram Sharma",
+            "343 (a) Begum Bagh ": "235/7 Begum Bagh",
+            "Nil": "Nil",
+            "PISTOL": "DBBL"
+          },
+          {
+            "Ved Prakash": "Samsad  Aqtar",
+            "Jamna Prasad": "Mehmood Hasan",
+            "343 (a) Begum Bagh ": "Mission Compound Begum Bagh",
+            "Nil": "Nil",
+            "PISTOL": "RIFLE"
+          },
+          {
+            "Ved Prakash": "Satish Chand",
+            "Jamna Prasad": "Mathura Prasad",
+            "343 (a) Begum Bagh ": "Begum Bagh",
+            "Nil": "Nil",
+            "PISTOL": "DBBL"
+          },
+          {
+            "Ved Prakash": "Naresh Aggarwal",
+            "Jamna Prasad": "Kishori Lal Aggarwal",
+            "343 (a) Begum Bagh ": "235/5 Begum Bagh",
+            "Nil": "Nil",
+            "PISTOL": "REVOLVER"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Rupesh Kumar ",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "9759538079"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Ashok Rathi",
+            "so": "Nain Singh",
+            "Address": "Begum Bagh",
+            "Status": "Present",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Praveen/pintu",
+            "so": "Krishan Lal",
+            "Address": "Mandir Wali Gali Begum Bagh",
+            "Status": "Missing",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Pradeep Kumar",
+            "so": "Bhagat Lal",
+            "Address": "Adarsh Nagar",
+            "Status": "Present",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "crimeno": "Nil",
+            "section": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Sanjay",
+            "so": "Ajay Pal Jaat",
+            "crimeno": "109/12",
+            "Section": "392,411 IPC",
+            "Address": "Bafar P/S Jaani Meerut"
+          },
+          {
+            "Name": "Yatender/Katlu",
+            "so": "Ravinder",
+            "crimeno": "109/12",
+            "Section": "392,411 IPC",
+            "Address": "Bafar P/S Jaani Meerut"
+          },
+          {
+            "Name": "Krishan Pal",
+            "so": "Jai Pal Singh",
+            "crimeno": "109/12",
+            "Section": "392,411 IPC",
+            "Address": "Bafar P/S Jaani Meerut"
+          },
+          {
+            "Name": "Chatar Sain",
+            "so": "Ram Das",
+            "crimeno": "109/12",
+            "Section": "392,411 IPC",
+            "Address": "Bafar P/S Jaani Meerut"
+          },
+          {
+            "Name": "Ravinder Singh",
+            "so": "Mahender Singh",
+            "crimeno": "125/12",
+            "Section": "392,411 IPC",
+            "Address": "Bafar P/S Jaani Meerut"
+          },
+          {
+            "Name": "Constable Chauwan A.P  Satender Singh",
+            "so": "Ratan Singh",
+            "crimeno": "63/16",
+            "Section": "302,307,504,506 IPC",
+            "Address": "Shaarwan Kala P/S Deoband Saharanpur"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Renu Gupta",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "9837058817"
+          },
+          {
+            "Name": "Balraj Gupta",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "9837058817 "
+          }
+        ],
+        "boundDownUnder": "04",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "LK-06",
+        "stationName": "Islamic Public School",
+        "latitude": "29.001111",
+        "longitude": "77.711782",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "Nil",
+        "voters": "2004",
+        "villageMohalla": "Bakri Mohalla 2nd 3rd",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Raj Kumar Kaushik",
+            "so": "Fateh Chand",
+            "Address": "Bakri Mohalla",
+            "Phone": "9358388770"
+          },
+          {
+            "Name": "Mujahid Parvej",
+            "so": "Master Shahid",
+            "Address": "Bakri Mohalla",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Gulam Shavir",
+            "so": "Baddu",
+            "Address": "Bakri Mohalla",
+            "Phone": "9719490255"
+          },
+          {
+            "Name": "Mohd. Amjad",
+            "so": "Mohd.Shahed",
+            "Address": "Bakri Mohalla",
+            "Phone": "9359757565"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Salauddin",
+            "so": "Sirajuddin",
+            "Address": "Bakri Mohalla",
+            "Phone": "9319116626"
+          },
+          {
+            "Name": "Merajuddin",
+            "so": "Sirajuddin",
+            "Address": "Bakri Mohalla",
+            "Phone": "9259243051"
+          },
+          {
+            "Name": "Kallu",
+            "so": "Sirajuddin",
+            "Address": "Bakri Mohalla",
+            "Phone": "9627572239"
+          },
+          {
+            "Name": "Mehtabuddin",
+            "so": "Sirajuddin",
+            "Address": "Bakri Mohalla",
+            "Phone": "8755245144"
+          },
+          {
+            "Name": "Jahirhussain",
+            "so": "Fidahussain",
+            "Address": "Bakri Mohalla",
+            "Phone": "9557070687"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Zahir Ahmad khan",
+            "so": "Jhangir Khan",
+            "Address": "Bakri Mohallah",
+            "Phone": "Nil",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Zamil Ahmad Khan",
+            "so": "jhangir Khan",
+            "Address": "Bakri Mohallah",
+            "Phone": "Nil",
+            "Weapon": "Rifle"
+          },
+          {
+            "Name": "Ramesh Chand yadav",
+            "so": "Chote lal yadav",
+            "Address": "Bakri Mohallah",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Mukul Yadav",
+            "so": "Ramesh Chand yadav",
+            "Address": "Bakri Mohallah",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Pankaj Nagpal",
+            "so": "Shanti Swaroop nagpal",
+            "Address": "Bakri Mohallah",
+            "Phone": "Nil",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Satish Garg",
+            "so": "Changal Lal Garg",
+            "Address": "Bakri Mohallah",
+            "Phone": "Nil",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Harpal Singh",
+            "so": "Dhara Singh",
+            "Address": "Bakri Mohallah",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Manish yadav",
+            "so": "Ramesh Chand yadav",
+            "Address": "Bakri Mohallah",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Rupesh Kumar ",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "9759538079"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Shri Mati Busra Kamal",
+            "so": "Ajmal Kamal",
+            "Address": "Goshi Mohalla",
+            "Phone": "9358423919"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Vikas Yadav",
+            "so": "Raghu Veer Yadav",
+            "Address": "Bakri Mohallah",
+            "Status": "Present",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Asif",
+            "so": "Shaveer",
+            "Address": "Bakri Mohallah",
+            "Status": "Missing",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Sunny",
+            "so": "Kanhaya Lal",
+            "Address": "Bakri Mohallah",
+            "Status": "Present",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Riyazuddin/Rajjo",
+            "so": "Alauddin",
+            "Address": "Bakri Mohallah",
+            "Status": "Missing",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Kapresentil Rastogi",
+            "so": "RadeepRastogi",
+            "Address": "Bakri Mohallah",
+            "Status": "Jail",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Dillon",
+            "so": "Ashfaq",
+            "Address": "Bakri Mohallah",
+            "Status": "Present",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Saleem",
+            "so": "Sahyeed",
+            "Address": "Bakri Mohallah",
+            "Status": "Missing",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "crimeno": "Nil",
+            "section": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Busra Kamal ",
+            "so": "Ajmal Kamal",
+            "Address": "Goshi Mohallah",
+            "Phone": "9358423919"
+          },
+          {
+            "Name": "Ajmal Kamal",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "9358423919"
+          }
+        ],
+        "boundDownUnder": "08",
+        "vulnerabilityDetails": "Critical",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "LK-07",
+        "stationName": "Poorv Madhmik Vidhyala Kaseru Kheda",
+        "latitude": "28.0075",
+        "longitude": "77.7419",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "Nil",
+        "voters": "2590",
+        "villageMohalla": "Bakri Mohalla 2nd 3rd",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Narendra Yadav Vartmaan Sabasad",
+            "so": "Narayan Yadav",
+            "Address": "Kaseru Kheda",
+            "Phone": "9837931705"
+          },
+          {
+            "Name": "Sushil Saini Vartmaan Sabasad",
+            "so": "Suresh Chand Saini",
+            "Address": "Meenakshi Puram",
+            "Phone": "99275055372"
+          },
+          {
+            "Name": "Pawan Sakhya Poorv Sabasad",
+            "so": "Nanak Chand Sakhya",
+            "Address": "Kaseru Kheda",
+            "Phone": "9319730498"
+          },
+          {
+            "Name": "Vijay Sonkar",
+            "so": "Bhagwan Das",
+            "Address": "Kaseru Kheda",
+            "Phone": "9927109234"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Dr. Shyam Dixit",
+            "so": "Sishu Pal Dixit",
+            "Address": "Kaseru Kheda",
+            "Phone": "9837891484"
+          },
+          {
+            "Name": "Mahesh Ratori",
+            "so": "Janardan Ratori",
+            "Address": "Kaseru Kheda",
+            "Phone": "9219855480"
+          },
+          {
+            "Name": "Santosh Mittal",
+            "so": "Mohan Lal Mittal",
+            "Address": "Kaseru Kheda",
+            "Phone": "9897694253"
+          },
+          {
+            "Name": "Lokesh Kumar (advocate)",
+            "so": "Bijendra Singh",
+            "Address": "Kaseru Kheda",
+            "Phone": "8899891189"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Brij pal",
+            "so": "Babu Lal",
+            "Address": "Kaseru Kheda",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Hari Prasad",
+            "so": "Gangu Singh",
+            "Address": "Kaseru Kheda",
+            "Phone": "Nil",
+            "Weapon": "SBBL"
+          },
+          {
+            "Name": "R.P Sharma",
+            "so": "Chandra Singh",
+            "Address": "Kaseru Kheda",
+            "Phone": "Nil",
+            "Weapon": "SBBL"
+          },
+          {
+            "Name": "Raj Kumar Kushwaha",
+            "so": "Hari Prakash",
+            "Address": "Kaseru Kheda",
+            "Phone": "Nil",
+            "Weapon": "SBBL"
+          },
+          {
+            "Name": "Bahadur Singh",
+            "so": "Indra Singh",
+            "Address": "Kaseru Kheda",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Yogendra Singh",
+            "so": "Ganga Ram",
+            "Address": "Kaseru Kheda",
+            "Phone": "Nil",
+            "Weapon": "SBBL"
+          },
+          {
+            "Name": "Ayodhya Prasad",
+            "so": "Shiv Narayan",
+            "Address": "Kaseru Kheda",
+            "Phone": "Nil",
+            "Weapon": "SBBL"
+          },
+          {
+            "Name": "Anil Kumar",
+            "so": "Ganga Sharan",
+            "Address": "Diggi Mohallah",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Kiran Veer",
+            "so": "Keshri Prasad",
+            "Address": "75/1 Kaseru Kheda",
+            "Phone": "Nil",
+            "Weapon": "SBBL"
+          },
+          {
+            "Name": "Duli Ram",
+            "so": "Dehan Chand",
+            "Address": "Kaseru Kheda",
+            "Phone": "Nil",
+            "Weapon": "Rifle"
+          },
+          {
+            "Name": "Supreet",
+            "so": "Sardar Manjeet Singh",
+            "Address": "Diggi Mohallah",
+            "Phone": "Nil",
+            "Weapon": "Pistol"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Sushil Saini ",
+            "so": "Suresh Chand Saini",
+            "Address": "Meenakshi Puram",
+            "Phone": "9927505372"
+          },
+          {
+            "Name": "Narendra Yadav",
+            "so": "Narayan Yadav ",
+            "Address": "Kaseru Kheda",
+            "Phone": "9837931705"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "crimeno": "Nil",
+            "section": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Himanshu",
+            "so": "Satender Jaat",
+            "crimeno": "79/16",
+            "Section": "392,411 IPC",
+            "Address": "Meerpur P/S Rohata"
+          },
+          {
+            "Name": "Sunny",
+            "so": "Santarpal",
+            "crimeno": "79/16",
+            "Section": "392,411 IPC",
+            "Address": "Sher Gadhi P/S Medical"
+          },
+          {
+            "Name": "Anuj",
+            "so": "Mukesh",
+            "crimeno": "79/16",
+            "Section": "392,411 IPC",
+            "Address": "Ganga Nagar"
+          },
+          {
+            "Name": "Shalu",
+            "so": "D/O Sukhpal",
+            "crimeno": "225/15",
+            "Section": "302,301 IPC",
+            "Address": "Jhandhedi P/S Sikheda Muzzafnagar"
+          },
+          {
+            "Name": "Gaurav/ Raju",
+            "so": "Chandra Sain",
+            "crimeno": "225/15",
+            "Section": "302,301 IPC",
+            "Address": "Salarpur P/S Incholi"
+          },
+          {
+            "Name": "Kashish",
+            "so": "Chandra Pal",
+            "crimeno": "225/15",
+            "Section": "302,301 IPC",
+            "Address": "Salarpur P/S Incholi"
+          },
+          {
+            "Name": "Savita",
+            "so": "Subash",
+            "crimeno": "225/15",
+            "Section": "302,301 IPC",
+            "Address": "Gram Jhandhedi P/S Sikheda"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Sushil Saini",
+            "so": "Suresh Chand Saini",
+            "Address": "Meenakshi Puram",
+            "Phone": "9927505372"
+          },
+          {
+            "Name": "Narendra Yadav",
+            "so": "Narayan Yadav",
+            "Address": "Kaseru Kheda",
+            "Phone": "9837931705 "
+          }
+        ],
+        "boundDownUnder": "11",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "LK-08",
+        "stationName": "Saraswati Sishu Mandir Sant Ravi Das Main Bazar Kaseru Kheda",
+        "latitude": " 29.009397",
+        "longitude": " 77.735973",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "Nil",
+        "voters": "887",
+        "villageMohalla": "Nayi MAndi Kaseru Kheda",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Narendra Yadav Vartmaan Sabasad",
+            "so": "Narayan Yadav",
+            "Address": "Kaseru Kheda",
+            "Phone": "9837931705"
+          },
+          {
+            "Name": "Sushil Saini Vartmaan Sabasad",
+            "so": "Suresh Chand Saini",
+            "Address": "Meenakshi Puram",
+            "Phone": "99275055372"
+          },
+          {
+            "Name": "Pawan Sakhya Poorv Sabasad",
+            "so": "Nanak Chand Sakhya",
+            "Address": "Kaseru Kheda",
+            "Phone": "9319730498"
+          },
+          {
+            "Name": "Vijay Sonkar",
+            "so": "Bhagwan Das",
+            "Address": "Kaseru Kheda",
+            "Phone": "9927109234"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Pintu Rastogi",
+            "so": "Mool Chand rastogi",
+            "Address": "Nil",
+            "Phone": "9457586500"
+          },
+          {
+            "Name": "Manoj Kumar",
+            "so": "Ram Kishor Saxena",
+            "Address": "Nil",
+            "Phone": "9897554294"
+          },
+          {
+            "Name": "Majoj Kumar",
+            "so": "Krishan Aggarwal",
+            "Address": "Nil",
+            "Phone": "9219533262"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Satish Chand ",
+            "so": "A.M Mitthan",
+            "Address": "Kaseru Kheda",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Vijay Singh",
+            "so": "Preetam Singh",
+            "Address": "Kaseru Kheda",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Rajiv Kumar",
+            "so": "C.L Kumar",
+            "Address": "Kaseru Kheda",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "J.P Ram",
+            "so": "Krishan Ram",
+            "Address": "Kaseru Kheda",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Ramm Subash Pradhan",
+            "so": "Ram Singh Pradhan",
+            "Address": "Kaseru Kheda",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "crimeno": "Nil",
+            "section": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Sandeep",
+            "so": "Bharam Pal",
+            "crimeno": "442/13",
+            "Section": "394,411 IPC",
+            "Address": "Top Khana P/s lal Kurti"
+          },
+          {
+            "Name": "Naresh",
+            "so": "Chotu",
+            "crimeno": "442/13",
+            "Section": "394,411 IPC",
+            "Address": "Top Khana P/s lal Kurti"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Sushil Saini",
+            "so": "Suresh Chand Saini",
+            "Address": "Meenakshi Puram",
+            "Phone": "9927505372"
+          },
+          {
+            "Name": "Narendra Yadav",
+            "so": "Narayan Yadav",
+            "Address": "Kaseru Kheda",
+            "Phone": "9837931705 "
+          }
+        ],
+        "boundDownUnder": "10",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "LK-09",
+        "stationName": "Parishad Basic Prathmik Vidhyala Kaseru Kheda",
+        "latitude": " 29.009397",
+        "longitude": "77.735973",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "Nil",
+        "voters": "2083",
+        "villageMohalla": "Ucha Mohallah Dakshin Kaseru Kheda , Uttar Kaseru Kheda",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Narendra Yadav Vartmaan Sabasad",
+            "so": "Narayan Yadav",
+            "Address": "Kaseru Kheda",
+            "Phone": "9837931705"
+          },
+          {
+            "Name": "Sushil Saini Vartmaan Sabasad",
+            "so": "Suresh Chand Saini",
+            "Address": "Meenakshi Puram",
+            "Phone": "99275055372"
+          },
+          {
+            "Name": "Pawan Sakhya Poorv Sabasad",
+            "so": "Nanak Chand Sakhya",
+            "Address": "Kaseru Kheda",
+            "Phone": "9319730498"
+          },
+          {
+            "Name": "Vijay Sonkar",
+            "so": "Bhagwan Das",
+            "Address": "Kaseru Kheda",
+            "Phone": "9927109234"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Dr. Shyam Dixit",
+            "so": "Sishu Pal Dixit",
+            "Address": "Kaseru Kheda",
+            "Phone": "9837891484"
+          },
+          {
+            "Name": "Mahesh Ratori",
+            "so": "Janardan Ratori",
+            "Address": "Kaseru Kheda",
+            "Phone": "9219855480"
+          },
+          {
+            "Name": "Santosh Mittal",
+            "so": "Mohan Lal Mittal",
+            "Address": "Kaseru Kheda",
+            "Phone": "9897694253"
+          },
+          {
+            "Name": "Lokesh Kumar (advocate)",
+            "so": "Bijendra Singh",
+            "Address": "Kaseru Kheda",
+            "Phone": "8899891189"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Shiv Raj Sharma ",
+            "so": "Lakhi Ram",
+            "Address": "Kaseru Kheda",
+            "Phone": "Nil",
+            "Weapon": "SBBL"
+          },
+          {
+            "Name": "Surendra Singh",
+            "so": "Atar Singh",
+            "Address": "Kaseru Kheda",
+            "Phone": "Nil",
+            "Weapon": "RIFLE"
+          },
+          {
+            "Name": "Khem Singh",
+            "so": "Sahab Singh",
+            "Address": "Kaseru Kheda",
+            "Phone": "Nil",
+            "Weapon": "RIFLE"
+          },
+          {
+            "Name": "Mahendra Singh",
+            "so": "Mam Raj Singh",
+            "Address": "331 Uchaa Mohallah ",
+            "Phone": "Nil",
+            "Weapon": "SBBL"
+          },
+          {
+            "Name": "Ashok Bhardwaj",
+            "so": "J/s Bhardwaj",
+            "Address": "105 Uchaa Mohallah",
+            "Phone": "Nil",
+            "Weapon": "SBBL"
+          },
+          {
+            "Name": "Ramesh Chand Sharma",
+            "so": "Jwala Prasad",
+            "Address": "134/9 Ucha Mohallah",
+            "Phone": "Nil",
+            "Weapon": "SBBL"
+          },
+          {
+            "Name": "Dinesh Kumar",
+            "so": "Chandra Pal",
+            "Address": "124/2 Ucha Mohallah",
+            "Phone": "Nil",
+            "Weapon": "SBBL"
+          },
+          {
+            "Name": "Chatra Sain",
+            "so": "Om Prakash",
+            "Address": "287/3 Ucha Mohallah",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Swatntra Nayyar",
+            "so": "Kewal Krishan Nayyar",
+            "Address": "Ucha Mohallah",
+            "Phone": "Nil",
+            "Weapon": "SBBL"
+          },
+          {
+            "Name": "Surendra Singh",
+            "so": "Atar Singh",
+            "Address": "Ucha Mohallah",
+            "Phone": "Nil",
+            "Weapon": "PISTOL"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Sushil Saini",
+            "so": "Suresh Chand Saini",
+            "Address": "Meenakshi Puram",
+            "Phone": "9927505372"
+          },
+          {
+            "Name": "Narendra Yadav",
+            "so": "Narayan Yadav",
+            "Address": "Kaseru Kheda",
+            "Phone": "9837931705"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "crimeno": "Nil",
+            "section": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Honey Udhaday",
+            "so": "Om Prakash",
+            "crimeno": "282/13",
+            "Section": "302 IPC 3 (2) , 5 SC,ST Act",
+            "Address": "G 26/2 Takshvilla Meenakshi Puram P/S Incholi Meerut"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Sushil Saini",
+            "so": "Suresh Chand Saini",
+            "Address": "Meenakshi Puram",
+            "Phone": "9927505372"
+          },
+          {
+            "Name": "Narendra Yadav",
+            "so": "Narayan Yadav",
+            "Address": "Kaseru Kheda",
+            "Phone": "9837931705 "
+          }
+        ],
+        "boundDownUnder": "07",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "LK-10",
+        "stationName": "Mana Inter College Kaseru Kheda",
+        "latitude": "29.011992",
+        "longitude": "77.735191",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "Nil",
+        "voters": "3985",
+        "villageMohalla": "Nil",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Narendra Yadav Vartmaan Sabasad",
+            "so": "Narayan Yadav",
+            "Address": "Kaseru Kheda",
+            "Phone": "9837931705"
+          },
+          {
+            "Name": "Sushil Saini Vartmaan Sabasad",
+            "so": "Suresh Chand Saini",
+            "Address": "Meenakshi Puram",
+            "Phone": "99275055372"
+          },
+          {
+            "Name": "Pawan Sakhya Poorv Sabasad",
+            "so": "Nanak Chand Sakhya",
+            "Address": "Kaseru Kheda",
+            "Phone": "9319730498"
+          },
+          {
+            "Name": "Vijay Sonkar",
+            "so": "Bhagwan Das",
+            "Address": "Kaseru Kheda",
+            "Phone": "9927109234"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Manoj Sonkar",
+            "so": "Ratan Sonkar",
+            "Address": "Kaseru Kheda",
+            "Phone": "8171527515"
+          },
+          {
+            "Name": "Kallu ",
+            "so": "Dwarika Prasad",
+            "Address": "Kaseru Kheda",
+            "Phone": "9927146476"
+          },
+          {
+            "Name": "Harish ",
+            "so": "Ganga Sharan",
+            "Address": "Kaseru Kheda",
+            "Phone": "9927400669"
+          },
+          {
+            "Name": "Mukesh ",
+            "so": "Ramesh",
+            "Address": "Kaseru Kheda",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Sonu",
+            "so": "Om Praksh",
+            "Address": "Kaseru Kheda",
+            "Phone": "Nil"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Bhram Dev",
+            "so": "Jaswant Singh",
+            "Address": "213 Sainik Colony",
+            "Phone": "Nil",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Sohan Veer Singh",
+            "so": "Kalu Ram",
+            "Address": "213 Sainik Colony",
+            "Phone": "Nil",
+            "Weapon": "Pistol"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Sushil Saini",
+            "so": "Suresh Chand Saini",
+            "Address": "Meenakshi Puram",
+            "Phone": "9927505372"
+          },
+          {
+            "Name": "Narendra Yadav",
+            "so": "Narayan Yadav",
+            "Address": "Kaseru Kheda",
+            "Phone": "9837931705"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Rohtash",
+            "so": "Fabbu",
+            "Address": "Kaseru Kheda",
+            "Status": "Missing",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "crimeno": "Nil",
+            "section": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Sushil Saini",
+            "so": "Suresh Chand Saini",
+            "Address": "Meenakshi Puram",
+            "Phone": "9927505372"
+          },
+          {
+            "Name": "Narendra Yadav",
+            "so": "Narayan Yadav",
+            "Address": "Kaseru Kheda",
+            "Phone": "9837931705 "
+          }
+        ],
+        "boundDownUnder": "07",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "LK-11",
+        "stationName": "Raghu Nath Girls Inter College",
+        "latitude": "28.9870793",
+        "longitude": "77.712654",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "Nil",
+        "voters": "2885",
+        "villageMohalla": "Vijay Nagar, Coleege Road , Pachimi Kacehri Marg 1st ,2nd, 3rd",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Renu Gupta",
+            "so": "Balraj Gupta",
+            "Address": "Chipi Tank",
+            "Phone": "9837058817"
+          },
+          {
+            "Name": "Balraj Gupta",
+            "so": "Manmohan Johri",
+            "Address": "Chipi Tank",
+            "Phone": "9837058817"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Anoop Singh",
+            "so": "Nil",
+            "Address": "Kacheri Road",
+            "Phone": "1212650088"
+          },
+          {
+            "Name": "Karan Singh",
+            "so": "Nil",
+            "Address": "Kacheri Road",
+            "Phone": "9219796150"
+          },
+          {
+            "Name": "N.S Rathi",
+            "so": "Nil",
+            "Address": "Kacheri Road",
+            "Phone": "9997059795"
+          },
+          {
+            "Name": "Raj Kumar Tyagi",
+            "so": "Nil",
+            "Address": "Kacheri Road",
+            "Phone": "9761587703"
+          },
+          {
+            "Name": "Raj Veer Tyagi",
+            "so": "Nil",
+            "Address": "Kacheri Road",
+            "Phone": "9897667247"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Prashant",
+            "so": "R. S Verma",
+            "Address": "Chipi Tank",
+            "Phone": "8266030007"
+          },
+          {
+            "Name": "Sunil Yadav",
+            "so": "Fateh Singh Yadav",
+            "Address": "Chipi Tank",
+            "Phone": "8017136544"
+          },
+          {
+            "Name": "Sanjay",
+            "so": "Nil",
+            "Address": "Chipi Tank",
+            "Phone": "9639850657"
+          },
+          {
+            "Name": "Gyan",
+            "so": "Nil",
+            "Address": "Vijay Nagar",
+            "Phone": "9319181923"
+          },
+          {
+            "Name": "Sunil Chaudhary",
+            "so": "Nil",
+            "Address": "Vijay Nagar",
+            "Phone": "9837335999"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Vidhya Sagar Gupta",
+            "so": "Roop Ram Gupta",
+            "Address": "345 W.K Road",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          },
+          {
+            "Name": "Pramod Kumar Mittal",
+            "so": "Sita Ram Mittal",
+            "Address": "365 W.K Road",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Mahendra Pratap Singh",
+            "so": "Krishan Kumar",
+            "Address": "W.K Road",
+            "Phone": "Nil",
+            "Weapon": "Rifle"
+          },
+          {
+            "Name": "Mrityun Jay Kumar",
+            "so": "Krishan Kumar Gupta",
+            "Address": "281 W.K Road",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          },
+          {
+            "Name": "Naveen Chand Jain",
+            "so": "B.L jain",
+            "Address": "310 W.K Road",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          },
+          {
+            "Name": "Ajay Kumar",
+            "so": "Gaj Raj Singh",
+            "Address": "426 W.K Road",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          },
+          {
+            "Name": "Satendra Pal Singh",
+            "so": "Vikram Singh",
+            "Address": "263/10 Asoda House W.K Road",
+            "Phone": "Nil",
+            "Weapon": "Rifle"
+          },
+          {
+            "Name": "Rahul Tyagi",
+            "so": "Jai Wanshi Tyagi",
+            "Address": "Asoda House W.K Road ",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Aditya Kumar Pakkad",
+            "so": "Bekunt Bihari Lal Kakkad",
+            "Address": "247 Chaubey Compound W.K Road",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Vishal Jain",
+            "so": "Naveen Chand Jain",
+            "Address": "310 W.K Road",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Manoj Kumar",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "9927234045"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "ShriMati Renu Gupta",
+            "so": "Balraj Gupta",
+            "Address": "Nil",
+            "Phone": "9837058817"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "crimeno": "Nil",
+            "section": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Udayveer",
+            "so": "Gajender Singh",
+            "crimeno": "139/12",
+            "Section": "302,307,120 (B) IPC",
+            "Address": "Nayek P/S Jaani"
+          },
+          {
+            "Name": "Bhupender Bafar",
+            "so": "Rajender Singh",
+            "crimeno": "139/12",
+            "Section": "302,307,120 (B) IPC",
+            "Address": "Nayek P/S Jaani"
+          },
+          {
+            "Name": "Kapil Katariya",
+            "so": "Yogender",
+            "crimeno": "139/12",
+            "Section": "302,307,120 (B) IPC",
+            "Address": "Mojpur P/S Mandawar Bijnor"
+          },
+          {
+            "Name": "Vineet Jaat",
+            "so": "Rajender Singh",
+            "crimeno": "139/12",
+            "Section": "302,307,120 (B) IPC",
+            "Address": "Nayek P/S Jaani"
+          },
+          {
+            "Name": "Cheeku Badla",
+            "so": "Naresh Pal",
+            "crimeno": "139/12",
+            "Section": "302,307,120 (B) IPC",
+            "Address": "Badla P/S Parikshit Garh"
+          },
+          {
+            "Name": "Badan Singh",
+            "so": "Charan Singh",
+            "crimeno": "139/12",
+            "Section": "302,307,120 (B) IPC",
+            "Address": "Bairi Pura P/S T.P Nagar"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "ShriMati Renu Gupta",
+            "so": "Balraj Gupta",
+            "Address": "Nil",
+            "Phone": "9837058817"
+          },
+          {
+            "Name": "Balraj Gupta",
+            "so": "Manmohan Johri",
+            "Address": "Chipi Tank",
+            "Phone": "9837058817 "
+          }
+        ],
+        "boundDownUnder": "06",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "LK-12",
+        "stationName": "Raksha Lekha Niyantrak Pension Samvitran Karaylya C.D.A",
+        "latitude": "29.0001",
+        "longitude": "77.7163",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "Nil",
+        "voters": "3884",
+        "villageMohalla": "Bangla Area , Home Guard Colony , DairyFarm , R.V.c Flower Line . B.I Line , Church Street , R.A Line , Mall Road , Mes Colony , Handiya Mohalla, Roorkee Road ",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Ch. Vijendra Singh",
+            "so": "Amar Singh",
+            "Address": "Boundary Road",
+            "Phone": "9358803326"
+          },
+          {
+            "Name": "Ch. Sunil Kumar",
+            "so": "Amar Singh",
+            "Address": "Boundary Road",
+            "Phone": "7252074149"
+          },
+          {
+            "Name": "Ch. Anil kumar",
+            "so": "Amar Singh",
+            "Address": "Boundary Road",
+            "Phone": "9027293605"
+          },
+          {
+            "Name": "Vijay Sharma",
+            "so": "Prem Lal Sharma",
+            "Address": "Boundary Road",
+            "Phone": "9837081048"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Ch. Vijendra Singh",
+            "so": "Amar Singh",
+            "Address": "Boundary Road",
+            "Phone": "9358803326"
+          },
+          {
+            "Name": "Ch. Sunil Kumar",
+            "so": "Amar Singh",
+            "Address": "Boundary Road",
+            "Phone": "7252074149"
+          },
+          {
+            "Name": "Ch. Anil kumar",
+            "so": "Amar Singh",
+            "Address": "Boundary Road",
+            "Phone": "9027293605"
+          },
+          {
+            "Name": "Vijay Sharma",
+            "so": "Prem Lal Sharma",
+            "Address": "Boundary Road",
+            "Phone": "9837081048"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Idra Jeet Singh",
+            "so": "Amirq Singh",
+            "Address": "89 Handiya Mohalla",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          },
+          {
+            "Name": "Manohar Singh Malik",
+            "so": "Harish Singh Malik",
+            "Address": "48 B.I Line",
+            "Phone": "Nil",
+            "Weapon": "DBBl"
+          },
+          {
+            "Name": "Ravindra Singh",
+            "so": "Harwansh Singh",
+            "Address": "41 B.I Line",
+            "Phone": "Nil",
+            "Weapon": "SBBL"
+          },
+          {
+            "Name": "P.K Singh",
+            "so": "Harwansh Singh",
+            "Address": "41 B.I Line",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          },
+          {
+            "Name": "Karan Singh Solanki",
+            "so": "S.C Solanki",
+            "Address": "24 B.I Line",
+            "Phone": "Nil",
+            "Weapon": "Rifle"
+          },
+          {
+            "Name": "Mohit Chopra",
+            "so": "Satish Kumar",
+            "Address": "43 B.I Line",
+            "Phone": "Nil",
+            "Weapon": "Revolver/ DBBL"
+          },
+          {
+            "Name": "Gautam Khanna",
+            "so": "G.D Khanna",
+            "Address": "152 Handiya Mohalla",
+            "Phone": "Nil",
+            "Weapon": "Pistol"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "ShriMati Renu Gupta",
+            "so": "Balraj Gupta",
+            "Address": "Nil",
+            "Phone": "9837058817"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "crimeno": "Nil",
+            "section": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Kaale",
+            "so": "Prem Singh",
+            "crimeno": "296/16",
+            "Section": "302,301 IPC",
+            "Address": "Kajipur P/S Kharkhoda Meerut"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "ShriMati Renu Gupta",
+            "so": "Balraj Gupta",
+            "Address": "Nil",
+            "Phone": "9837058817"
+          },
+          {
+            "Name": "Ajmal Kamal",
+            "so": "Nil",
+            "Address": "Ghosi Mohalla",
+            "Phone": "9358423919 "
+          }
+        ],
+        "boundDownUnder": "12",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "LK-13",
+        "stationName": "Raksha  Pension Samvitran Karayla C.D.A",
+        "latitude": "29.0001",
+        "longitude": "77.7163",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "Nil",
+        "voters": "741",
+        "villageMohalla": "Bangla Area , Maida Mohalla ,Family Quater P/S Lal Kurti , Ward No.4 ",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Ch. Vijendra Singh",
+            "so": "Amar Singh",
+            "Address": "Boundary Road",
+            "Phone": "9358803326"
+          },
+          {
+            "Name": "Ch. Sunil Kumar",
+            "so": "Amar Singh",
+            "Address": "Boundary Road",
+            "Phone": "7252074149"
+          },
+          {
+            "Name": "Ch. Anil kumar",
+            "so": "Amar Singh",
+            "Address": "Boundary Road",
+            "Phone": "9027293605"
+          },
+          {
+            "Name": "Vijay Sharma",
+            "so": "Prem Lal Sharma",
+            "Address": "Boundary Road",
+            "Phone": "9837081048"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Ch. Vijendra Singh",
+            "so": "Amar Singh",
+            "Address": "Boundary Road",
+            "Phone": "9358803326"
+          },
+          {
+            "Name": "Ch. Sunil Kumar",
+            "so": "Amar Singh",
+            "Address": "Boundary Road",
+            "Phone": "7252074149"
+          },
+          {
+            "Name": "Ch. Anil kumar",
+            "so": "Amar Singh",
+            "Address": "Boundary Road",
+            "Phone": "9027293605"
+          },
+          {
+            "Name": "Vijay Sharma",
+            "so": "Prem Lal Sharma",
+            "Address": "Boundary Road",
+            "Phone": "9837081048"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Shekh Fayiuddin",
+            "so": "Wahiuddin",
+            "Address": "Maida Mohalla",
+            "Phone": "Nil",
+            "Weapon": "Rifle"
+          },
+          {
+            "Name": "Gulam Mohiuddin",
+            "so": "Wahiuddin",
+            "Address": "Maida Mohalla",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Gulam Mohd.",
+            "so": "A.V Haji",
+            "Address": "Maida Mohalla",
+            "Phone": "Nil",
+            "Weapon": "Rifle"
+          },
+          {
+            "Name": "Salauddin",
+            "so": "Washiuddin",
+            "Address": "Maida Mohalla",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Ravindra Balla Tiwari",
+            "so": "Nil",
+            "Address": "Maida Mohalla",
+            "Phone": "Nil",
+            "Weapon": "SBBL"
+          },
+          {
+            "Name": "Subash Chand ",
+            "so": "Roshan Lal",
+            "Address": "Maida Mohalla",
+            "Phone": "Nil",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Ajay Mahajan",
+            "so": "S.P Mahajan",
+            "Address": "Maida Mohalla",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          },
+          {
+            "Name": "Sunita Gupta",
+            "so": "Subash Chandra",
+            "Address": "Maida Mohalla",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "ShriMati Renu Gupta",
+            "so": "Balraj Gupta",
+            "Address": "Nil",
+            "Phone": "9837058817"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "crimeno": "Nil",
+            "section": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Kaale",
+            "so": "Prem Singh",
+            "crimeno": "296/16",
+            "Section": "302,301 IPC",
+            "Address": "Kajipur P/S Kharkhoda Meerut"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "ShriMati Renu Gupta",
+            "so": "Balraj Gupta",
+            "Address": "Nil",
+            "Phone": "9837058817"
+          },
+          {
+            "Name": "Ajmal Kamal",
+            "so": "Nil",
+            "Address": "Ghosi Mohalla",
+            "Phone": "9358423919 "
+          }
+        ],
+        "boundDownUnder": "10",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "LK-14",
+        "stationName": "Raksha  Pension Samvitran Karayla C.D.A",
+        "latitude": " 28.9924",
+        "longitude": " 77.7149",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "Nil",
+        "voters": "2460",
+        "villageMohalla": "Adarsh Nagar , Telephone Exchange Colony , Maher Godam Colony , Jawahar Quaters , Kalyanan  ",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Dr. Sarojni Aggarwal (MLC)",
+            "so": "Dayanand Gupta",
+            "Address": "Nala Road Dayanand Hospital Nursing Home",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Dayanand Gupta (Poorv Mayor)",
+            "so": "Nil",
+            "Address": "Nala Road Dayanand Hospital Nursing Home",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Sanjay Pratap",
+            "so": "Nil",
+            "Address": "Nala Road Dayanand Hospital Nursing Home",
+            "Phone": "9410000000"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Sanjay PraKash Taygi",
+            "so": "Ram Prakash Tyagi",
+            "Address": "Adarsh Nagar",
+            "Phone": "1212664422"
+          },
+          {
+            "Name": "Rajendra Prasad Tyagi",
+            "so": "Nil",
+            "Address": "Adarsh Nagar",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Rajendra Singh Rathi",
+            "so": "Nil",
+            "Address": "Adarsh Nagar",
+            "Phone": "Nil"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Yashveer Singh",
+            "so": "Munsi ram",
+            "Address": "Meerut College Compound",
+            "Phone": "9457817494"
+          },
+          {
+            "Name": "Hari Narayan Sharma",
+            "so": "Daya Ram Sharma",
+            "Address": "Meerut College Compound",
+            "Phone": "9411821073"
+          },
+          {
+            "Name": "Jitendra Singh",
+            "so": "Kishan Lal",
+            "Address": "Meerut College Compound",
+            "Phone": "9258046946"
+          },
+          {
+            "Name": "A.K Shrivastav",
+            "so": "V.K Shrivastav",
+            "Address": "Meerut College Compound",
+            "Phone": "9045070436"
+          },
+          {
+            "Name": "S.K Pundeer",
+            "so": "Bhram Pal Singh Pundeer",
+            "Address": "Meerut College Compound",
+            "Phone": "9411259926"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Dharmendra Narayan Johri",
+            "so": "Jagdesh Narayan Johri",
+            "Address": "Adarsh Nagar",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Rajendra Pal Tyagi",
+            "so": "Khadak Singh",
+            "Address": "Adarsh Nagar",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Prushtom Dayal Gaud",
+            "so": "Roshan Lal Sharma",
+            "Address": "Adarsh Nagar",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Col. O.P rajpal",
+            "so": "N Rajpal",
+            "Address": "Jahawar Quator",
+            "Phone": "Nil",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Anand Prakash Tyagi",
+            "so": "Shiva Nanad Tyagi",
+            "Address": "Adarsh Nagar",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          },
+          {
+            "Name": "Harish Kumar Jain",
+            "so": "Jai Prakash ",
+            "Address": "Adarsh Nagar",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Ashok Kumar",
+            "so": "Har Narayan",
+            "Address": "Jahawar Quator",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Dr. O.P Aggarwal",
+            "so": "fakir Chand",
+            "Address": "Dayanand Nursing Home",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          },
+          {
+            "Name": "rajesh Kumar Aggarwal",
+            "so": "N.A Aggarwal",
+            "Address": "Jahawar Quator",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "ShriMati Renu Gupta",
+            "so": "Balraj Gupta",
+            "Address": "Nil",
+            "Phone": "9837058817"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Pradeep",
+            "so": "Bharat Lal",
+            "Address": "Adarsh Nagar",
+            "Status": "Present",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "crimeno": "Nil",
+            "section": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Ramveer Singh",
+            "so": "Mangal/Ram Swaroop",
+            "crimeno": "203/16",
+            "Section": "302 IPC",
+            "Address": "Newadi Road Mool Niwasi banna Devi Janpad Aligarh"
+          },
+          {
+            "Name": "Rahul",
+            "so": "Chandra Pal",
+            "crimeno": "203/16",
+            "Section": "302 IPC",
+            "Address": "Cholas Thana Jharcha Gautam Budh Nagar"
+          },
+          {
+            "Name": "sandeep",
+            "so": "Mukesh",
+            "crimeno": "203/16",
+            "Section": "302 IPC",
+            "Address": "Jalalpur P/S Kharkhoda meerut"
+          },
+          {
+            "Name": "Chandra Pal",
+            "so": "Banasrsi",
+            "crimeno": "203/16",
+            "Section": "302 IPC",
+            "Address": "Cholas Thana Jharcha Gautam Budh Nagar"
+          },
+          {
+            "Name": "Dilshad",
+            "so": "Musharaf",
+            "crimeno": "53/16",
+            "Section": "394,411 IPC",
+            "Address": "Sirkheda P/S Sikheda Muzzafarnagar"
+          },
+          {
+            "Name": "Ravi",
+            "so": "Nathu Singh",
+            "crimeno": "53/16",
+            "Section": "394,411 IPC",
+            "Address": "Sirkheda P/S Sikheda Muzzafarnagar"
+          },
+          {
+            "Name": "Sahid",
+            "so": "Riyamuddin",
+            "crimeno": "53/16",
+            "Section": "394,411 IPC",
+            "Address": "Sirkheda P/S Sikheda Muzzafarnagar"
+          },
+          {
+            "Name": "Sanjay Sharma",
+            "so": "Chandraveer",
+            "crimeno": "53/16",
+            "Section": "394,411 IPC",
+            "Address": "Mohalla Rampuri P/S Kotwali Muzaffarnagar"
+          },
+          {
+            "Name": "Gaurav",
+            "so": "Chandra Kiran",
+            "crimeno": "297/16",
+            "Section": "392,411,506 IPC",
+            "Address": "484/12 New Govind Puri P/S Kankher Kheda"
+          },
+          {
+            "Name": "Amit",
+            "so": "Dhan Singh",
+            "crimeno": "297/16",
+            "Section": "392,411,506 IPC",
+            "Address": "P/S Sardhana Meerut"
+          },
+          {
+            "Name": "Jainender",
+            "so": "Sukhveer Singh",
+            "crimeno": "297/16",
+            "Section": "392,411,506 IPC",
+            "Address": "Naresh Puram P/S Kankher Kheda Meerut"
+          },
+          {
+            "Name": "Afjal Saifi",
+            "so": "Faimed",
+            "crimeno": "297/16",
+            "Section": "392,411,506 IPC",
+            "Address": "P/S Sardhana Meerut"
+          },
+          {
+            "Name": "Mehtab/Maris",
+            "so": "Rahis Ahmad",
+            "crimeno": "413/12",
+            "Section": "392,411 IPC",
+            "Address": "519 Kichla wala Bagh Zila Hospital P/S Kotwali Muzaffarnagar"
+          },
+          {
+            "Name": "Salman",
+            "so": "Salim",
+            "crimeno": "413/12",
+            "Section": "392,411 IPC",
+            "Address": "399 BUS Stand 15 Ladda Wala P/S kotwali MuzaffarNagar"
+          },
+          {
+            "Name": "Layik/ Guddu",
+            "so": "Ahmad",
+            "crimeno": "413/12",
+            "Section": "392,411 IPC",
+            "Address": "Ghusi Mohalla Lal Kurti Meerut"
+          },
+          {
+            "Name": "Rinku",
+            "so": "Devender Kashyap",
+            "crimeno": "493/12",
+            "Section": "392,411 IPC",
+            "Address": "Puttha P/S T.P nagar Meerut"
+          },
+          {
+            "Name": "Mohit/Papita",
+            "so": "Jai Bhagwan",
+            "crimeno": "493/12",
+            "Section": "392,411 IPC",
+            "Address": "Shiv Puram P/S T.P Nagar Meerut"
+          },
+          {
+            "Name": "Waseem/kalu",
+            "so": "Irfaan Querashi",
+            "crimeno": "27/12",
+            "Section": "395,397 IPC",
+            "Address": "Kheda Wali Mazzid Gali No.2 P/S Lisadi Gate"
+          },
+          {
+            "Name": "Sajid/Pistol",
+            "so": "Samshad Ansari",
+            "crimeno": "27/12",
+            "Section": "395,397 IPC",
+            "Address": "Nayi Adadi Kasba P/S Khatauli Muzaffarnagar"
+          },
+          {
+            "Name": "Sohail",
+            "so": "Rahsuddin",
+            "crimeno": "27/12",
+            "Section": "395,397 IPC",
+            "Address": "424 Rangdo Ki Chaupal Saraywahleen Kotwali Meerut"
+          },
+          {
+            "Name": "Mohd.Bilal",
+            "so": "Manjoor Darji",
+            "crimeno": "27/12",
+            "Section": "395,397 IPC",
+            "Address": "Zaidi Farm P/S Nauchandi Meerut"
+          },
+          {
+            "Name": "Imraan",
+            "so": "Deewan",
+            "crimeno": "27/12",
+            "Section": "395,397 IPC",
+            "Address": "Tarapuri P/S Lisadi Gate"
+          },
+          {
+            "Name": "Sarafaraz Gaddi",
+            "so": "Nil",
+            "crimeno": "27/12",
+            "Section": "395,397 IPC",
+            "Address": "Kotwali Meerut"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Sarojni Aggarwal",
+            "so": "Dr. O.P Aggarwal",
+            "Address": "Dayanad Nursing Home  ",
+            "Phone": "Nil"
+          }
+        ],
+        "boundDownUnder": "08",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "LK-15",
+        "stationName": "S.S.D Boys Inter College Lal Kurti",
+        "latitude": "28.996561",
+        "longitude": "77.704094",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "Nil",
+        "voters": "2210",
+        "villageMohalla": "Jamun Mohalla Bangla Area Boundary Line Jamun Mohalla 2nd",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Sunil Kumar",
+            "so": "Dharam Singh",
+            "Address": "Jamun Mohalla",
+            "Phone": "9927960396"
+          },
+          {
+            "Name": "Vikram Yadav",
+            "so": "Suresh Chand",
+            "Address": "Jamun Mohalla",
+            "Phone": "9897466227"
+          },
+          {
+            "Name": "Gulam ghosh",
+            "so": "Amir Ahmad",
+            "Address": "Jamun Mohalla",
+            "Phone": "9412206717"
+          },
+          {
+            "Name": "Alok Rastogi",
+            "so": "Vijay Kumar Rastogi",
+            "Address": "Jamun Mohalla",
+            "Phone": "9837020025"
+          },
+          {
+            "Name": "Ashish Rastogi",
+            "so": "Budh Ram Premi",
+            "Address": "Jamun Mohalla",
+            "Phone": "8493120406"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Dharam Singh",
+            "so": "Nil",
+            "Address": "Jamun Moohalla",
+            "Phone": "9927906096"
+          },
+          {
+            "Name": "Budh ram Premi",
+            "so": "Nil",
+            "Address": "Jamun Moohalla",
+            "Phone": "9927411664"
+          },
+          {
+            "Name": "Vijay Pal Singh",
+            "so": "Nil",
+            "Address": "Jamun Moohalla",
+            "Phone": "9412706863"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Suraj Prakash Surya",
+            "so": "Deewan Chand",
+            "Address": "Jamun Mohalla",
+            "Phone": "Nil",
+            "Weapon": "SBBL"
+          },
+          {
+            "Name": "Shrimati Harinder Kaur",
+            "so": "Balveer Singh",
+            "Address": "Jamun Mohalla",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Shrimati Baljeet Kaur",
+            "so": "Amrit  Singh",
+            "Address": "Jamun Mohalla",
+            "Phone": "Nil",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Vishal Arora",
+            "so": "Rajendra Kumar Arora",
+            "Address": "Jamun Mohalla",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          },
+          {
+            "Name": "Vijay Kumar",
+            "so": "Prem Kumar",
+            "Address": "Jamun Mohalla",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Vivek Mittal",
+            "so": "Pratap Chand Mittal",
+            "Address": "Jamun Mohalla",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          },
+          {
+            "Name": "Shewaz",
+            "so": "Irshad",
+            "Address": "Jamun Mohalla",
+            "Phone": "Nil",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Shri Chand",
+            "so": "Bal Kishan",
+            "Address": "Jamun Mohalla",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Veena Wadhwa",
+            "so": "Sunil Wahdwa ",
+            "Address": "Nil",
+            "Phone": "9412781722"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "crimeno": "Nil",
+            "section": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Kapil Rastogi",
+            "so": "Pradeep Rstogi",
+            "crimeno": "275/15",
+            "Section": "302 IPC",
+            "Address": "Bakri Mohalla P/S lalKurti Meerut"
+          },
+          {
+            "Name": "Akshay",
+            "so": "Rakesh",
+            "crimeno": "275/15",
+            "Section": "302 IPC",
+            "Address": "577/12 P/S Nauchandi Meerut"
+          },
+          {
+            "Name": "Ashok Kumar Verma",
+            "so": "Charan Singh",
+            "crimeno": "14/13",
+            "Section": "308,304 IPC",
+            "Address": "31 Khalsa Mohalla P/S Abdulla Pur P/S Bhawan Pur"
+          },
+          {
+            "Name": "Shri Mati Nafisa",
+            "so": "Saleem",
+            "crimeno": "14/13",
+            "Section": "308,304 IPC",
+            "Address": "Jamun Mohalla P/S Lal Kurti Meerut"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Veena Wadhwa",
+            "so": "Sunil Wahdwa",
+            "Address": "Nil",
+            "Phone": "9412781722"
+          }
+        ],
+        "boundDownUnder": "13",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "LK-16",
+        "stationName": "Bhagi Rathi Arya Kanya Inter College",
+        "latitude": " 29.000887",
+        "longitude": "77.707344",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "Nil",
+        "voters": "583",
+        "villageMohalla": "Bakri Mohalla",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Shri Mati Veena Wadhwa",
+            "so": "Sunil Wadhwa",
+            "Address": "Maida Mohalla",
+            "Phone": "9412770722"
+          },
+          {
+            "Name": "Sunil Wadhwa",
+            "so": "Narayan Wadhwa",
+            "Address": "Maida Mohalla",
+            "Phone": "9412770722"
+          },
+          {
+            "Name": "Bhushan Wadhwa",
+            "so": "Sant Pal Wadhwa",
+            "Address": "Maida Mohalla",
+            "Phone": "9837486444"
+          },
+          {
+            "Name": "Chaman",
+            "so": "Fakir Chand",
+            "Address": "Maida Mohalla",
+            "Phone": "9927852785"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Mam Chand",
+            "so": "Kallu Ram",
+            "Address": "Maida Mohalla",
+            "Phone": "8859817483"
+          },
+          {
+            "Name": "Ratan lal",
+            "so": "Nathu Lal",
+            "Address": "Maida Mohalla",
+            "Phone": "9897233230"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Ratan Lal",
+            "so": "Nathu Lal",
+            "Address": "Maida Mohalla",
+            "Phone": "9897233238"
+          },
+          {
+            "Name": "Kamal",
+            "so": "Jai Prakash",
+            "Address": "Maida Mohalla",
+            "Phone": "9045610054"
+          },
+          {
+            "Name": "Prem Chand Verma",
+            "so": "Guru Dayal",
+            "Address": "Maida Mohalla",
+            "Phone": "8393067855"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Ramesh Chand Yadav",
+            "so": "Chote Lal Yadav",
+            "Address": "Bakri Mohalla",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Zamil Ahmad",
+            "so": "Jahangir",
+            "Address": "Bakri Mohalla",
+            "Phone": "Nil",
+            "Weapon": "Rifle"
+          },
+          {
+            "Name": "Pankaj NagPal",
+            "so": "Shanti Swaroop NagPal",
+            "Address": "Bakri Mohalla",
+            "Phone": "Nil",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Satish Garg",
+            "so": "Changan Lal",
+            "Address": "Bakri Mohalla",
+            "Phone": "Nil",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "Mukul Yadav",
+            "so": "Ramesh Chand Yadav",
+            "Address": "Bakri Mohalla",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Veena Wadhwa",
+            "so": "Sunil Wahdwa ",
+            "Address": "Nil",
+            "Phone": "9412781722"
+          },
+          {
+            "Name": "Sunil Wadhwa",
+            "so": "Narayan Wadhwa",
+            "Address": "Nil",
+            "Phone": "9412781722"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Vikas Yadav",
+            "so": "Raghuveer Yadav",
+            "Address": "Bakri Mohalla",
+            "Status": "Present",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Asif",
+            "so": "Mohd. Shabir",
+            "Address": "Bakri Mohalla",
+            "Status": "Missing",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Sunny",
+            "so": "Kanhaya Lal",
+            "Address": "Bakri Mohalla",
+            "Status": "Present",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Riyazuddin/rajjo",
+            "so": "Allauddin",
+            "Address": "Bakri Mohalla",
+            "Status": "Missing",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Kapil Rastogi",
+            "so": "Pradeep Rastogi",
+            "Address": "Bakri Mohalla",
+            "Status": "Jail",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Salim",
+            "so": "Sayed",
+            "Address": "Bakri Mohalla",
+            "Status": "Jail",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Dillon",
+            "so": "Ashfaq",
+            "Address": "Bakri Mohalla",
+            "Status": "Missing",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "crimeno": "Nil",
+            "section": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Veena Wadhwa",
+            "so": "Sunil Wahdwa",
+            "Address": "Nil",
+            "Phone": "9412781722"
+          }
+        ],
+        "boundDownUnder": "04",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      },
+      {
+        "stationID": "LK-17",
+        "stationName": "Karayala Upp Shramayukt Meerut",
+        "latitude": "28.992641",
+        "longitude": " 77.705652",
+        "polingCenterPhoto": "../img/mediPanchayat.png",
+        "routes": "../img/3.png",
+        "collectionPoint": "../img/3.png",
+        "population": "Nil",
+        "voters": "3238",
+        "villageMohalla": "Begum Bagh, Tilak Road , Sharam Bhawan, Hari Priya , Begum Bagh 2nd Geeta  Colony ",
+        "path": "#/menu/tab/medicalDetails",
+        "respectedPpl": [
+          {
+            "Name": "Balraj Gupta",
+            "so": "Hari Raj Kishan Gupta",
+            "Address": "Western Kacheri Road",
+            "Phone": "9837058817"
+          },
+          {
+            "Name": "Shri Mati Ranu Gupta",
+            "so": "Balraj Gupta",
+            "Address": "Western Kacheri Road",
+            "Phone": "9837058817"
+          },
+          {
+            "Name": "Sanjay Vasu Deva",
+            "so": "Op Vasu Deva",
+            "Address": "728/7 P.L Sharma Road Meerut",
+            "Phone": "9897282352"
+          },
+          {
+            "Name": "Ashok Maheshwari",
+            "so": "Mahaveer Prasad Maheshwari",
+            "Address": "291 P.L Sharma Road Meerut",
+            "Phone": "9837078285"
+          }
+        ],
+        "retiredGovtSer": [
+          {
+            "Name": "Gopal Chand Kashyap",
+            "so": "Nil",
+            "Address": "Begum Bagh",
+            "Phone": "9897310093"
+          },
+          {
+            "Name": "Shri Jag Mohan",
+            "so": "Nil",
+            "Address": "Begum Bagh",
+            "Phone": "9997831540"
+          },
+          {
+            "Name": "Shri Bhramanand",
+            "so": "Nil",
+            "Address": "Begum Bagh",
+            "Phone": "9997860211"
+          },
+          {
+            "Name": "Shri Braj Kishor",
+            "so": "Nil",
+            "Address": "Begum Bagh",
+            "Phone": "9897201636"
+          }
+        ],
+        "neighbourPolling": [
+          {
+            "Name": "Vipin kumar",
+            "so": "Brij Mohan",
+            "Address": "10 Labour Board Begum Bagh",
+            "Phone": "9760993880"
+          },
+          {
+            "Name": "Krishan Singhal",
+            "so": "Gyan Prakash Singh",
+            "Address": "708 Labour Board Begum Bagh",
+            "Phone": "9897107531"
+          },
+          {
+            "Name": "Vaibhav Bhatnagar",
+            "so": "B.D Bhatnagar",
+            "Address": "B/11 Lakhpat Nagar Near Jeevan Jyoti Hospital",
+            "Phone": "8439273170"
+          },
+          {
+            "Name": "Sushil Gupta",
+            "so": "Hoshiyar Singh",
+            "Address": "18 Begum Bridge",
+            "Phone": "Nil"
+          },
+          {
+            "Name": "Munsi Singh",
+            "so": "Hoshiyar Singh",
+            "Address": "17 Lakhpat Nagar",
+            "Phone": "9759727618"
+          }
+        ],
+        "armsLicenseHolder": [
+          {
+            "Name": "Roshan Lal",
+            "so": "Gyan Chand",
+            "Address": "569 Tilak Road ",
+            "Phone": "Nil",
+            "Weapon": "Pistol"
+          },
+          {
+            "Name": "S.c Aggarwal",
+            "so": "M.L Aggarwal",
+            "Address": "727/8 Tilak Road",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Vidhya Sagar Deewan",
+            "so": "Daulat Ram",
+            "Address": "Begum Bagh",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          },
+          {
+            "Name": "Jahid Hamim",
+            "so": "Hamim Ahmad",
+            "Address": "466/5 Begum Bagh",
+            "Phone": "Nil",
+            "Weapon": "SBBL"
+          },
+          {
+            "Name": "Vikram Singh Verma",
+            "so": "Vijay Singh Verma",
+            "Address": "119/3 Begum Bagh",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Suresh Chand",
+            "so": "Giri Raj Singh",
+            "Address": "14 Tilak Road",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Ashok Kumar Aggarwal",
+            "so": "OM Prakash Aggarwal",
+            "Address": "706 Begum Bagh",
+            "Phone": "Nil",
+            "Weapon": "Rifle"
+          },
+          {
+            "Name": "Dr. Bharat Kumar Gupta",
+            "so": "Y.C Gupta",
+            "Address": "419 Tilak Road",
+            "Phone": "Nil",
+            "Weapon": "DBBL"
+          },
+          {
+            "Name": "Neesreev",
+            "so": "Rajkumar",
+            "Address": "47/3 Begum Bagh",
+            "Phone": "Nil",
+            "Weapon": "Revolver"
+          }
+        ],
+        "chowkidar": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "councellor": [
+          {
+            "Name": "Veena Wadhwa",
+            "so": "Sunil Wahdwa ",
+            "Address": "Nil",
+            "Phone": "9412781722"
+          },
+          {
+            "Name": "Sunil Wadhwa",
+            "so": "Narayan Wadhwa",
+            "Address": "Nil",
+            "Phone": "9412781722"
+          }
+        ],
+        "historySheeter": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Status": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "convictedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "crimeno": "Nil",
+            "section": "Nil"
+          }
+        ],
+        "crimes5Yrs": [
+          {
+            "Name": "Sandeep",
+            "so": "Narender",
+            "crimeno": "352/13",
+            "Section": "302,120 (B) 506 IPC",
+            "Address": "Mukandpur MuzzafarNagar"
+          },
+          {
+            "Name": "Mange Ram",
+            "so": "Kale Singh",
+            "crimeno": "352/13",
+            "Section": "302,120 (B) 506 IPC",
+            "Address": "Pallav Puram Meerut"
+          },
+          {
+            "Name": "Raju Yadav",
+            "so": "Jagdeesh Prasad",
+            "crimeno": "169/12",
+            "Section": "302 IPC",
+            "Address": "173 Sanjay Nagar P/S Civil Line Meerut"
+          },
+          {
+            "Name": "Amit Verma",
+            "so": "Ved Prakash",
+            "crimeno": "169/12",
+            "Section": "302 IPC",
+            "Address": "Band Wali Gali Begum Bagh P/S Lal KUrti"
+          },
+          {
+            "Name": "Shailender Tyagi",
+            "so": "Rajender Tyagi",
+            "crimeno": "169/12",
+            "Section": "302 IPC",
+            "Address": "354 Begum Bagh Lal Kurti Meerut"
+          },
+          {
+            "Name": "Dr. Mohd O.P Aggarwal",
+            "so": "Nil",
+            "crimeno": "376/13",
+            "Section": "302,504,506 IPC",
+            "Address": "Dayanand Nursing Home"
+          }
+        ],
+        "electionCrimes": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "crimeno": "Nil",
+            "Section": "Nil",
+            "Address": "Nil"
+          }
+        ],
+        "politician": [
+          {
+            "Name": "Veena Wadhwa",
+            "so": "Sunil Wahdwa",
+            "Address": "Nil",
+            "Phone": "9412781722"
+          }
+        ],
+        "boundDownUnder": "06",
+        "vulnerabilityDetails": "General",
+        "warrantedCriminals": [
+          {
+            "Name": "Nil",
+            "so": "Nil",
+            "Address": "Nil",
+            "Phone": "Nil"
+          }
+        ],
+        "condition": "Good"
+      }
+    ]

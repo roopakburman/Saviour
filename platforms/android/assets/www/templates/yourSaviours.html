@@ -1,0 +1,13 @@
+<ion-view title="Saviours">
+	<ion-content>
+		<ion-list ng-repeat="s in users">
+			<ion-item class="post item-text-wrap">
+				<img class="post-profile-image" src={{s.uPic}}>
+					{{s.name}}({{s.email}}) -{{s.userPhone}}
+					<span class="post-time">{{s.dateTime}}</span>
+					<span class="post-options">{{s.serviceAvailed}}</span>
+			</ion-item>
+		</ion-list>
+
+	</ion-content>
+</ion-view>
